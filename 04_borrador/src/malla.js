@@ -113,6 +113,23 @@ const RA = [
   ['RA8', 'Investiga e innova con método científico y comunica sus resultados de forma clara, en equipos multidisciplinarios.', ['1.5', '6.5', '7.6', '8.3']],
 ];
 
+
+// Campo detallado del Anexo I 2023 del RANT al que corresponde cada asignatura (solo las de contenido disciplinar).
+//   0611 Ciencias computacionales; 0612 Diseño y administración de redes y bases de datos;
+//   0613 Desarrollo y análisis de software y aplicaciones; 0714 Electrónica, automatización y sonido.
+const CAMPOS = {
+  '0611': 'Ciencias computacionales (06/1/1)',
+  '0612': 'Diseño y administración de redes y bases de datos (06/1/2)',
+  '0613': 'Desarrollo y análisis de software y aplicaciones (06/1/3)',
+  '0714': 'Electrónica, automatización y sonido (07/1/4)',
+};
+const CAMPO_DE = {
+  '1.3': '0613', '2.2': '0613', '5.5': '0613',
+  '3.1': '0611', '5.2': '0611', '5.4': '0611', '6.1': '0611', '7.1': '0611', '7.2': '0611',
+  '3.3': '0612', '4.3': '0612', '4.4': '0612', '5.1': '0612', '5.3': '0612',
+  '2.3': '0714', '2.5': '0714', '3.2': '0714', '3.4': '0714', '4.1': '0714', '4.2': '0714', '6.2': '0714', '6.3': '0714',
+};
+
 function build() {
   const cursos = [];
   PAO.forEach((lista, i) => {
@@ -120,7 +137,7 @@ function build() {
       const H = 48 * cr;
       const c = Math.round(H * RATIOS[tipo].c);
       const p = Math.round(H * RATIOS[tipo].p);
-      cursos.push({ pao: i + 1, codigo, nombre, cr, tipo, area, H, c, p, a: H - c - p });
+      cursos.push({ pao: i + 1, codigo, nombre, cr, tipo, area, campo: CAMPO_DE[codigo] || null, H, c, p, a: H - c - p });
     });
   });
   return cursos;
@@ -132,4 +149,4 @@ function totales(cursos) {
   return t;
 }
 
-module.exports = { PAO, AREAS, ITINERARIOS, RA, build, totales };
+module.exports = { PAO, AREAS, CAMPOS, ITINERARIOS, RA, build, totales };

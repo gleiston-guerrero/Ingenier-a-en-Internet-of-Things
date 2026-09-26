@@ -1,6 +1,6 @@
 # Borrador del proyecto de carrera
 
-`Proyecto_Carrera_IoT_borrador_v0.1.docx` se genera con `src/generar_borrador.js`. La malla (créditos, horas, áreas y resultados de aprendizaje) está en `src/malla.js`; todos los totales del documento se calculan desde ese archivo.
+`Proyecto_Carrera_IoT_borrador_v0.2.docx` se genera con `src/generar_borrador.js`. La malla (créditos, horas, áreas y resultados de aprendizaje) está en `src/malla.js`; todos los totales del documento se calculan desde ese archivo.
 
 Para regenerar el documento, tras cambiar la malla o el texto:
 
