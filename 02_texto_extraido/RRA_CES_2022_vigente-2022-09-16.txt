@@ -1,0 +1,2578 @@
+       REPÚBLICA DEL ECUADOR
+CONSEJO DE EDUCACIÓN SUPERIOR
+
+                                               RPC-SE-08-No.023-2022
+
+                                     EL CONSEJO DE EDUCACIÓN SUPERIOR
+
+                                                      Considerando:
+
+Que, el artículo 353 de la Constitución de la República del Ecuador, indica: “El sistema de
+          educación superior se regirá por: 1. Un organismo público de planificación, regulación y
+          coordinación interna del sistema y de la relación entre sus distintos actores con la Función
+          Ejecutiva (...)”;
+
+Que, el artículo 123 de la Ley Orgánica de Educación Superior (LOES), prescribe: “El Consejo de
+          Educación Superior aprobará el Reglamento de Régimen Académico que regule los títulos y
+          grados académicos, el tiempo de duración, número de créditos de cada opción y demás
+          aspectos relacionados con grados y títulos, buscando la armonización y la promoción de la
+          movilidad estudiantil, de profesores o profesoras e investigadores o investigadoras”;
+
+Que, el artículo 166 de la LOES, sostiene: “El Consejo de Educación Superior es el organismo de
+          derecho público con personería jurídica, patrimonio propio e independencia administrativa,
+          financiera y operativa, que tiene a su cargo la planificación, regulación y coordinación del
+          Sistema de Educación Superior, y la relación entre sus distintos actores con la Función
+          Ejecutiva y la sociedad ecuatoriana (…)”;
+
+Que, el artículo 169 literal g) de la referida Ley, determina: “Son atribuciones y deberes del
+          Consejo de Educación Superior, en el ámbito de esta Ley: (…) g) Expedir la normativa
+          reglamentaria necesaria para el ejercicio de sus competencias y lograr el cumplimiento de
+          los objetivos establecidos en el Plan de Desarrollo de la Educación Superior. El Reglamento
+          de Régimen Académico establecerá los mecanismos y régimen de excepción que permitan la
+          obtención del grado a los egresados que no hayan podido hacerlo en los períodos ordinarios
+          definidos (…)”;
+
+Que, a través Resolución 006-001-2011, de 28 de septiembre de 2011, el Pleno del Consejo de
+          Educación Superior (CES) expidió el Reglamento Interno de este Organismo, reformado por
+          última ocasión a través de Resolución RPC-SO-44-No.811-2019, de 18 de diciembre de 2019;
+
+Que, el artículo 52 del Reglamento Interno del CES, señala: “Corresponde a los miembros del CES
+          la iniciativa para proponer proyectos de los reglamentos que, de acuerdo a la Ley debe
+          aprobar el mismo, así como proyectos de reformas a los vigentes”;
+
+Que, mediante Acuerdo ACU-PC-18-No.011-2022, de 11 de mayo de 2022, el Pleno del CES
+          convino: “Encargar a la Comisión Ocasional conformada mediante el artículo 7 de la
+          Resolución RPC-SE-05-No.012-2022, de 05 de mayo de 2022, que revise y analice la
+          propuesta de reforma al Reglamento de Régimen Académico, remitida por el Presidente del
+          CES, mediante memorando CES-CES-2022-0133-MI, de 09 de mayo de 2022, y se presente
+          al Pleno del CES para su debate y aprobación”;
+
+Que, a través de Resolución RPC-SE-07-No.021-2022, de 24 de mayo de 2022, el Pleno del CES
+          resolvió: “Artículo Único.- Aprobar en primer debate la propuesta de reforma al Reglamento
+          de Régimen Académico”;
+
+Que, mediante memorando CES-CORPC012-2022-ART7-2022-0010-M, de 08 de julio de 2022, el
+          Presidente de la Comisión Ocasional creada por el artículo 7 de la Resolución RPC-SE-05-
+          No.012-2022, de 05 de mayo de 2022, mediante Acuerdo CES-CORCEPASES-SO.08-No.052-
+          2022, adoptado en su Octava Sesión Ordinaria desarrollada el 30 de junio de 2022, convino
+          remitir para conocimiento y resolución del Pleno el proyecto de reforma al Reglamento de
+          Régimen Académico, para segundo debate;
+
+                                   Página 1 de 39
+
+Alpallana E6-113 y Francisco Flor
+                                  REPÚBLICA DEL ECUADOR
+                          CONSEJO DE EDUCACIÓN SUPERIOR
+
+Que, luego de conocer y analizar la propuesta realizada por la Comisión Ocasional creada por el
+          artículo 7 de la Resolución RPC-SE-05-No.012-2022, de 05 de mayo de 2022, encargada de
+          elaborar la propuesta de reforma al Reglamento de Régimen Académico, se estima
+          pertinente acoger el contenido de la misma; y,
+
+En ejercicio de las atribuciones que le confiere la Ley Orgánica de Educación Superior,
+
+                                                        RESUELVE:
+
+                                                   Expedir el siguiente:
+
+                                    REGLAMENTO DE RÉGIMEN ACADÉMICO
+
+                                                          TÍTULO I
+                                                ASPECTOS GENERALES
+
+                                                        CAPÍTULO I
+                         ÁMBITO, OBJETO, OBJETIVOS, FUNCIONES SUSTANTIVAS
+
+                                              Y ENFOQUE DE DERECHOS
+
+Artículo 1.- Ámbito.- El presente Reglamento aplica a todas las instituciones de educación superior
+públicas y particulares: universidades, escuelas politécnicas, institutos y conservatorios superiores.
+
+Artículo 2.- Objeto.- El objeto del presente instrumento es regular y orientar las funciones
+sustantivas de las Instituciones de Educación Superior (IES); así como lo relativo a su gestión, en el
+marco de la normativa del Sistema de Educación Superior (SES).
+
+Artículo 3.- Objetivos.- Los objetivos del presente Reglamento son:
+
+a) Garantizar una formación de calidad, excelencia y pertinencia, de acuerdo con las necesidades de
+    la sociedad; asegurando el cumplimiento de los principios y derechos consagrados en la
+    Constitución, la Ley Orgánica de Educación Superior (LOES) y demás normativa aplicable;
+
+b) Articular y fortalecer la investigación; la formación académica y profesional; y la vinculación con
+    la sociedad, en un marco de calidad, innovación y sostenibilidad que propenda al mejoramiento
+    continuo;
+
+c) Promover la diversidad, integralidad, permeabilidad y flexibilidad de los planes curriculares,
+    garantizando la libertad de pensamiento y la centralidad del estudiante en el proceso educativo;
+
+d) Favorecer la movilidad nacional e internacional de profesores, investigadores y estudiantes; así
+    como la internacionalización de la formación; y,
+
+e) Contribuir a la construcción de una cultura ecológica de conciencia para la conservación,
+    mejoramiento y protección del medio ambiente; y, el uso racional de los recursos naturales.
+
+Artículo 4.- Funciones sustantivas.- Las funciones sustantivas que garantizan la consecución de los
+fines de la educación superior, de conformidad con lo establecido en el artículo 117 de la LOES, son
+las siguientes:
+
+a) Docencia.- La docencia es la construcción de conocimientos y desarrollo de capacidades y
+    habilidades, resultante de la interacción entre profesores y estudiantes en experiencias de
+    enseñanza-aprendizaje; en ambientes que promueven la relación de la teoría con la práctica y
+    garanticen la libertad de pensamiento, la reflexión crítica y el compromiso ético.
+
+    El propósito de la docencia es el logro de los resultados de aprendizaje para la formación integral
+    de ciudadanos profesionales comprometidos con el servicio, aporte y transformación de su
+    entorno. Se enmarca en un modelo educativo-pedagógico y en la gestión curricular en
+    permanente actualización; orientada por la pertinencia, el reconocimiento de la diversidad, la
+    interculturalidad y el diálogo de saberes.
+
+                                   Página 2 de 39
+
+Alpallana E6-113 y Francisco Flor
+                                  REPÚBLICA DEL ECUADOR
+                          CONSEJO DE EDUCACIÓN SUPERIOR
+
+    La docencia integra las disciplinas, conocimientos y marcos teóricos para el desarrollo de la
+    investigación y la vinculación con la sociedad; se retroalimenta de estas para diseñar, actualizar
+    y fortalecer el currículo.
+
+b) Investigación.- La investigación es una labor creativa, sistemática y sistémica fundamentada en
+    debates epistemológicos y necesidades del entorno, que potencia los conocimientos y saberes
+    científicos, ancestrales e interculturales. Se planifica de acuerdo con el modelo educativo,
+    políticas, normativas, líneas de investigación, dominios académicos y recursos de las IES y se
+    implementa mediante programas y/o proyectos desarrollados bajo principios éticos y prácticas
+    colaborativas.
+
+    La ejecutan diversos actores como institutos, centros, unidades, grupos, centros de transferencia
+    de tecnología, profesores, investigadores y estudiantes a través de mecanismos democráticos,
+    arbitrados y transparentes. Los resultados de la investigación son difundidos y divulgados para
+    garantizar el uso social de los mismos y su aprovechamiento en la generación de nuevo
+    conocimiento y nuevos productos, procesos o servicios.
+
+c) Vinculación.- La vinculación con la sociedad, como función sustantiva, genera capacidades e
+    intercambio de conocimientos acorde a los dominios académicos de las IES para garantizar la
+    construcción de respuestas efectivas a las necesidades y desafíos de su entorno. Contribuye con
+    la pertinencia del quehacer educativo, mejorando la calidad de vida, el medio ambiente, el
+    desarrollo productivo y la preservación, difusión y enriquecimiento de las culturas y saberes.
+
+    Se desarrolla mediante un conjunto de planes, programas, proyectos e iniciativas de interés
+    público, planificadas, ejecutadas, monitoreadas y evaluadas de manera sistemática por las IES,
+    tales como: servicio comunitario, prestación de servicios especializados, consultorías, educación
+    continua, gestión de redes, cooperación y desarrollo, difusión y distribución del saber; que
+    permitan la democratización del conocimiento y el desarrollo de la innovación social.
+
+    La vinculación con la sociedad se articula con la función sustantiva de docencia, para la formación
+    integral de los estudiantes, que complementan la teoría con la práctica en los procesos de
+    enseñanza-aprendizaje, promoviendo espacios de experiencia vivencial y reflexión crítica. Se
+    articula con la investigación, al posibilitar la identificación de necesidades y la formulación de
+    preguntas que alimenten las líneas, programas y proyectos de investigación; y, al propiciar el uso
+    social del conocimiento científico y los saberes.
+
+Artículo 5.- Enfoque de derechos en la educación superior.- Es el fundamento que guía las
+políticas, programas y planes de las IES, en vías de concretar acciones afirmativas específicas y
+preferenciales hacia los grupos de atención prioritaria de la sociedad, en cumplimiento de lo
+establecido por la normativa vigente y la búsqueda de la inclusión social. Las mismas que serán
+incorporadas al plan institucional de igualdad.
+
+Toma como referentes los principios constitucionales y legales como universalidad, igualdad, no
+discriminación, entre otros, para el pleno ejercicio de los derechos.
+
+El enfoque de derechos con equidad prioriza la atención a las personas y grupos vulnerables:
+mujeres, pueblos y nacionalidades, niñez y juventud, personas adultas mayores, personas con
+discapacidad, personas diversas en razón de identidad por su sexo, género y orientación sexual,
+enfoque de poblaciones en riesgo de la salud, entre otros.
+
+                                                        CAPÍTULO II
+                                   ESTRUCTURA INSTITUCIONAL DE LAS IES
+
+Artículo 6.- Estructura institucional de las IES.- Las IES se organizarán conforme a la siguiente
+estructura:
+
+a) Sede matriz.- Es el campus principal definido en el instrumento legal de creación de la IES y
+    establecido en su estatuto.
+
+                                   Página 3 de 39
+
+Alpallana E6-113 y Francisco Flor
+                                  REPÚBLICA DEL ECUADOR
+                          CONSEJO DE EDUCACIÓN SUPERIOR
+
+b) Sedes.- Son unidades académico - administrativas dependientes de la sede matriz, cuyo
+    funcionamiento será en una provincia distinta a la sede matriz. Su creación deberá ser notificada
+    al CES para el registro y aprobación correspondiente.
+
+c) Extensiones.- Son unidades académico-administrativas, que pueden tener desconcentración en la
+    gestión administrativa o financiera, creadas mediante resolución del CES, cuyo funcionamiento
+    será en un cantón distinto al de la sede matriz o sede, dentro de la misma provincia.
+
+d) Campus.- Es el espacio físico en el que se desarrolla la oferta académica y actividades de gestión,
+    creado por las IES, en ejercicio de su autonomía responsable subordinado a su sede matriz, sede
+    o extensión. Su creación deberá ser notificada al CES para el registro correspondiente.
+
+e) Centro de apoyo.- Son unidades administrativas de soporte institucional para el desarrollo de
+    procesos de aprendizaje. Su creación deberá ser notificada al CES para el registro
+    correspondiente.
+
+En el ejercicio de su autonomía responsable, las IES podrán crear las unidades académico
+administrativas que consideren necesarias para su funcionamiento según los procedimientos
+correspondientes. Del mismo modo, podrán delegar a las sedes, extensiones y campus las funciones
+académicas y administrativo-financieras que consideren pertinentes.
+
+(Artículo reformado mediante Resolución RPC-SE-10-No.028-2022, de 27 de julio de 2022)
+
+                                                         TÍTULO II
+                     CRÉDITOS, PERÍODOS ACADÉMICOS Y NIVELES DE FORMACIÓN
+
+                                                        CAPÍTULO I
+                CRÉDITOS Y PERÍODOS ACADÉMICOS EN LOS NIVELES DE FORMACIÓN
+
+Artículo 7.- Principios de la organización académico curricular mediante créditos.- La
+organización académico curricular, mediante un sistema de créditos, se basa en los siguientes
+principios:
+
+a) Es un sistema centrado en el estudiante: Mide la dedicación, en tiempo del estudiante, para el
+    logro de competencias y objetivos de aprendizaje establecidos en su carrera o programa;
+
+b) Tiene equivalencia internacional: Permite establecer la equivalencia entre carreras o programas
+    con estándares internacionales y, por tanto, facilita su transferencia; y,
+
+c) Es referencial: Mide de manera aproximada el volumen de trabajo académico de un estudiante en
+    cualquier componente de formación y en distintas actividades de aprendizaje.
+
+Artículo 8.- Sistema de créditos académicos.- El sistema de créditos académicos es una modalidad
+de organización académico-curricular que determina el volumen de trabajo académico exigido al
+estudiante en cada uno de los niveles de formación, carreras y programas de la educación superior
+en función del tiempo previsto, objetivos, perfiles de egreso, planes de estudio, períodos académicos,
+actividades de aprendizaje y modalidades de estudio.
+
+Artículo 9.- Crédito académico.- Un crédito académico es la unidad cuantitativa de medida, para el
+tiempo y dedicación académica por parte del estudiante, que integra las siguientes actividades de
+aprendizaje: aprendizaje en contacto con el docente, aprendizaje autónomo o aprendizaje
+práctico/experimental. Un crédito académico equivale a cuarenta y ocho (48) horas de actividad del
+estudiante.
+
+Las IES podrán organizar sus carreras y programas en créditos.
+
+Artículo 10.- Período académico.- Las IES implementarán al menos dos (2) períodos académicos
+al año.
+
+Las IES en ejercicio de su autonomía responsable podrán distribuir el número de horas que
+comprenderá cada período académico, considerando que un estudiante de tiempo completo durante
+su carrera dedicará un promedio de cuarenta y cinco (45) horas por semana a las diferentes
+actividades de aprendizaje, indistinto de la modalidad de estudios.
+
+                                   Página 4 de 39
+
+Alpallana E6-113 y Francisco Flor
+                                  REPÚBLICA DEL ECUADOR
+                          CONSEJO DE EDUCACIÓN SUPERIOR
+
+En las asignaturas, cursos o sus equivalentes en los que se requieran laboratorios, las horas
+correspondientes deberán sumarse al componente de aprendizaje práctico- experimental.
+
+                                                        CAPÍTULO II
+                                               NIVELES DE FORMACIÓN
+
+Artículo 11.- Niveles de formación.- El sistema de educación superior se organiza en dos (2) niveles
+de formación académica, conforme lo determinado en la LOES.
+Los niveles de formación son los siguientes:
+a) Tercer nivel: técnico-tecnológico y de grado;
+b) Cuarto nivel o de posgrado.
+
+Las IES podrán otorgar títulos, según los parámetros y lineamientos establecidos en el Reglamento
+que para el efecto expida el CES, en cumplimiento del artículo 130 de la LOES.
+
+                                                       CAPÍTULO III
+                                           TERCER NIVEL DE FORMACIÓN
+
+Artículo 12.- Títulos del tercer nivel técnico - tecnológico superior y de grado.- En el tercer nivel
+de formación, las instituciones de educación superior, una vez que cumplan los requisitos que las
+normas determinen, podrán expedir los siguientes títulos:
+
+a) Otorgados por los institutos superiores y conservatorios superiores:
+    1. Técnico Superior o su equivalente.
+    2. Tecnólogo Superior o su equivalente.
+    3. Tecnólogo Superior Universitario.
+
+Los conservatorios superiores adscritos a una universidad podrán otorgar títulos de tercer nivel de
+grado o su equivalente, únicamente en el campo de las artes o sus equivalentes.
+
+b) Otorgados por los conservatorios superiores con la condición de superior universitarios:
+    1. Técnico Superior o su equivalente.
+    2. Tecnólogo Superior o su equivalente.
+    3. Tecnólogo Superior Universitario o su equivalente.
+
+Los conservatorios superiores con la condición de superior universitarios otorgarán estos títulos
+únicamente en el campo de las artes o sus equivalentes.
+
+c) Otorgados por los institutos superiores con la condición de superior universitarios:
+    1. Técnico Superior o su equivalente.
+    2. Tecnólogo Superior o su equivalente.
+    3. Tecnólogo Superior Universitario o su equivalente.
+
+d) Otorgados por las universidades o escuelas politécnicas:
+    1. Técnico Superior o su equivalente.
+    2. Tecnólogo Superior o su equivalente.
+    3. Tecnólogo Superior Universitario o su equivalente de conformidad al Reglamento General a la
+        LOES.
+    4. Licenciado/a, ingeniero/a o los que correspondan a los estudios en el tercer nivel de grado.
+
+Artículo 13.- Ingreso a tercer nivel.- Para el ingreso al tercer nivel, se requiere poseer título de
+bachiller o su equivalente, de conformidad con la Ley.
+
+En el caso de las IES particulares, cumplir con los requisitos adicionales establecidos en sus estatutos
+y/o normativa interna.
+
+En el caso de las IES públicas, haber cumplido los requisitos normados por el Sistema de Nivelación
+y Admisión que observará los principios de igualdad de oportunidades, libertad de elección de
+carrera y de méritos.
+
+                                                                                                               Página 5 de 39
+                                                Alpallana E6-113 y Francisco Flor
+       REPÚBLICA DEL ECUADOR
+CONSEJO DE EDUCACIÓN SUPERIOR
+
+En el caso de los conservatorios, superiores de música y artes deberán cumplir con lo establecido en
+el Reglamento General a la LOES.
+
+Las IES aceptarán los títulos de bachiller obtenidos en el extranjero, reconocidos o equiparados por
+el Ministerio de Educación. Para tal efecto, las IES podrán implementar plazos especiales para la
+presentación de la documentación, que contemplen el tiempo que el Ministerio de Educación
+requiere para el reconocimiento o equiparación de estos estudios.
+
+Conforme al artículo 82 de la LOES, para el ingreso de los estudiantes a la Universidad de las Artes, a
+los conservatorios e institutos superiores de artes, se requiere además del título de bachiller, el título
+de bachiller en artes perteneciente al Sistema Nacional de Educación. En el caso de que el aspirante
+no cumpla con este requisito rendirá un examen de suficiencia para el ingreso, el cual será elaborado
+por la respectiva IES.
+
+Artículo 14.- Estrategias de nivelación.- Las IES podrán diseñar propuestas y estrategias
+curriculares que posibiliten la nivelación de conocimientos mínimos, como un mecanismo para evitar
+la deserción estudiantil, garantizar la permanencia en la educación superior y la eficiencia terminal.
+
+Artículo 15.- Duración de las carreras de tercer nivel.- Las carreras serán planificadas en función
+de la siguiente organización:
+
+                                                             Créditos totales
+
+                                                             Mín.  Máx.
+
+                                       Técnico Superior      30    60
+                                    Tecnológico Superior
+Tercer Nivel Técnico – Tecnológico  Tecnológico Superior     60    75
+                 Superior
+                                         Universitario       90    105
+        Tercer nivel de Grado        Licenciatura y títulos
+                                                             120   150
+                                          profesionales
+                                           Veterinaria       135   150
+
+Artículo 16.- Itinerarios académicos.- Los itinerarios académicos son trayectorias de aprendizaje
+que profundizan en un ámbito específico de la formación profesional en el tercer nivel, con
+actividades complementarias de fortalecimiento del conocimiento y el perfil de egreso con relación
+al objeto de la carrera. La IES podrá planificar itinerarios académicos para cada carrera considerando
+los campos de intervención de la profesión.
+
+La IES definirá, en ejercicio de su autonomía responsable, hasta tres (3) itinerarios académicos que
+podrá cursar el estudiante.
+
+El itinerario académico cursado podrá ser incluido en el título. Si se cursara simultáneamente más
+de un itinerario, cada uno de ellos constará dentro del mismo título.
+
+            CAPÍTULO IV
+CUARTO NIVEL DE FORMACIÓN
+
+Artículo 17.- Títulos de cuarto nivel o de posgrado.- En este nivel de formación las instituciones
+de educación superior podrán expedir los siguientes títulos:
+
+a) Otorgados por los conservatorios superiores con condición de superior universitarios que se
+    encuentren cualificados por el CACES:
+    1. Especialista.
+    2. Magíster.
+
+Los conservatorios superiores con la condición de superior universitarios, podrán otorgar los títulos
+referidos, únicamente en el campo de las artes o sus equivalentes.
+
+                                                                   Página 6 de 39
+
+Alpallana E6-113 y Francisco Flor
+       REPÚBLICA DEL ECUADOR
+CONSEJO DE EDUCACIÓN SUPERIOR
+
+b) Otorgados por los institutos superiores con condición de superior universitarios que se
+   encuentren cualificados por el CACES:
+    1. Especialista Tecnológico.
+    2. Magíster Tecnológico.
+
+c) Otorgados por las universidades y escuelas politécnicas:
+    1. Especialista Tecnológico.
+    2. Especialista.
+    3. Especialista (en el campo de la salud).
+    4. Magíster Tecnológico.
+    5. Magíster.
+    6. Doctor (PhD o su equivalente).
+
+Artículo 18.- Ingreso al cuarto nivel o posgrado.- Para el ingreso a un programa de cuarto nivel se
+requiere:
+
+a) Para el posgrado tecnológico: Poseer un título de tercer nivel tecnológico superior universitario
+    o su equivalente en el campo de las artes, debidamente registrado por el órgano rector de la
+    política pública de educación superior y cumplir con el proceso de admisión establecido en el
+    programa al que postula;
+
+b) Para el posgrado académico: Poseer título de tercer nivel de grado, debidamente registrado por
+    el órgano rector de la política pública de educación superior y cumplir con el proceso de admisión
+    establecido en el programa al que postula; y,
+
+c) Para el doctorado (PhD o su equivalente): Lo establecido en la normativa específica expedida por
+    el CES.
+
+En el caso de que el título de tercer nivel tecnológico superior universitario o de grado sea obtenido
+en el exterior, el estudiante para inscribirse en el programa deberá presentarlo a la IES debidamente
+apostillado o legalizado por vía consular. Será responsabilidad de la IES verificar que el título
+corresponde a tercer nivel tecnológico superior universitario o de grado.
+
+Artículo 19.- Duración de los programas de posgrado.- Los programas serán planificados en
+función de la siguiente organización:
+
+                                   Créditos totales
+
+                                   Mín. Máx.
+
+Especialización tecnológica        15  30
+       Especialización
+                                   15  30
+   Maestría Tecnológica
+  Maestría Académica (MA)          30  45
+
+                                   30  60
+
+Artículo 20.- Estudios avanzados.- Un estudiante de grado, con base en su mérito académico, podrá
+solicitar cursar una o varias asignaturas, cursos o equivalentes del nivel de posgrado, conforme a la
+regulación de cada IES. Las horas y/o créditos cursados y aprobados por el estudiante podrán
+contabilizarse en el nivel de grado. Para tal efecto, en el caso de las IES públicas, éstas podrán cobrar
+el valor o valores correspondientes, sin que aquello implique violación alguna de la gratuidad.
+
+Si el estudiante luego decide cursar el programa de posgrado que incluye la o las asignaturas cursos
+o equivalentes, la IES podrá acreditar las horas y/o créditos aprobados. En caso que la asignatura
+curso o equivalente pertenezca a otro programa o IES, se seguirá el correspondiente proceso de
+homologación.
+
+Artículo 21.- Menciones.- Las menciones son trayectorias académicas que enfatizan en un ámbito
+específico del conocimiento en la formación del cuarto nivel. Los programas de posgrado podrán
+tener hasta tres menciones. Los proyectos de especialización en el campo de la salud, no podrán
+contar con menciones.
+
+                                       Página 7 de 39
+
+Alpallana E6-113 y Francisco Flor
+       REPÚBLICA DEL ECUADOR
+CONSEJO DE EDUCACIÓN SUPERIOR
+
+TÍTULO III
+DOCENCIA
+
+                CAPÍTULO I
+ORGANIZACIÓN DEL APRENDIZAJE
+
+Artículo 22.- Actividades de aprendizaje.- Las actividades de aprendizaje procuran el logro de
+los objetivos de la carrera o programa académico, desarrollan los contenidos de aprendizaje en
+relación con los objetivos, nivel de formación, perfil profesional y especificidad del campo del
+conocimiento.
+
+La organización del aprendizaje, a través de créditos, se podrá planificar en los siguientes
+componentes:
+
+a) Aprendizaje en contacto con el docente;
+b) Aprendizaje autónomo;
+c) Aprendizaje práctico-experimental (que podrá ser o no en contacto con el docente, a excepción
+
+    del campo de la salud que deberá contar con un docente tutor).
+
+Artículo 23.- Aprendizaje en contacto con el docente.- El aprendizaje en contacto con el docente
+comprende el conjunto de actividades individuales o grupales desarrolladas con intervención o
+supervisión directa del docente (de forma presencial o virtual, sincrónica o asincrónica) que
+comprende las clases, tutorías, conferencias, seminarios, talleres, proyectos en aula (presencial o
+virtual), entre otras, que establezca la IES en correspondencia con su modelo educativo institucional.
+
+Las IES podrán planificar el aprendizaje en contacto con el docente que puede desarrollarse bajo la
+modalidad de tutoría, excepto en el campo de la salud. Cada IES definirá los mecanismos y
+condiciones de realización de la tutoría, para asegurar el cumplimiento de sus fines.
+
+Artículo 24.- Aprendizaje autónomo.- El aprendizaje autónomo es el conjunto de actividades de
+aprendizaje individuales o grupales desarrolladas de forma independiente por el estudiante sin
+contacto con el personal académico o el personal de apoyo académico. Las actividades planificadas
+y/o guiadas por el docente se desarrollan en función de su capacidad de iniciativa y de planificación;
+de manejo crítico de fuentes y contenidos de información; planteamiento y resolución de problemas;
+la motivación y la curiosidad para conocer, investigar e innovar; la transferencia y contextualización
+de conocimientos; la reflexión crítica y autoevaluación del propio trabajo, entre las principales.
+
+Artículo 25.- Aprendizaje práctico-experimental.- El aprendizaje práctico- experimental es el
+conjunto de actividades (individuales o grupales) de aplicación de contenidos conceptuales,
+procedimentales, técnicos, entre otros, a la resolución de problemas prácticos, comprobación,
+experimentación, contrastación, replicación y demás que defina la IES.
+
+CAPÍTULO II
+TITULACIÓN
+
+Artículo 26.- Requisitos y opciones de titulación en el tercer nivel.- Cada IES determinará en
+su normativa interna los requisitos para acceder a la titulación, así como las opciones para su
+aprobación.
+
+Los créditos correspondientes a las opciones de titulación estarán incluidos en la totalidad de
+créditos de la carrera.
+
+Se podrá emitir el título respectivo únicamente cuando el estudiante apruebe todos los requisitos
+académicos y administrativos establecidos por las IES, lo que constará en el acta consolidada de
+finalización de estudios, de conformidad con el artículo 85 de este Reglamento.
+
+Artículo 27.- Requisitos y opciones de titulación en el cuarto nivel.- Cada IES determinará en su
+normativa interna los requisitos para acceder a la titulación, estableciendo su estructura, contenidos
+y parámetros para su desarrollo y evaluación.
+
+                                   Página 8 de 39
+
+Alpallana E6-113 y Francisco Flor
+       REPÚBLICA DEL ECUADOR
+CONSEJO DE EDUCACIÓN SUPERIOR
+
+Las IES deberán garantizar a todos sus estudiantes la designación oportuna del director o tutor, de
+entre los miembros del personal académico de la propia IES o de una diferente, para el desarrollo y
+evaluación de la unidad de titulación.
+
+La titulación de programas de Doctorado estará regulada en el reglamento que para el efecto expida
+el CES.
+
+La IES podrá emitir el título respectivo únicamente cuando el estudiante apruebe todos los requisitos
+académicos y administrativos establecidos por las IES, lo que constará en el acta consolidada de
+finalización de estudios, de conformidad con el artículo 85 de este Reglamento.
+
+Artículo 28.- Prórroga para opciones de titulación en cuarto nivel.- La IES en su normativa
+interna establecerá el plazo adicional que tiene el estudiante para desarrollar su opción de titulación
+y los derechos y aranceles que deberá pagar para el efecto en el caso de solicitar prórrogas. La
+primera prórroga no requerirá de pago por concepto de derechos o aranceles, ni valor similar.
+
+Cuando el estudiante haya cumplido y aprobado la totalidad del plan de estudios excepto la opción
+de titulación y una vez transcurridos los plazos establecidos por la IES, deberá matricularse y tomar
+los cursos, asignaturas o equivalentes para la actualización de conocimientos en los plazos y
+condiciones que establezca la IES, siempre y cuando no hayan transcurrido diez (10) años desde que
+se cumplió y aprobó la totalidad del plan de estudios.
+
+   TÍTULO IV
+INVESTIGACIÓN
+
+                    CAPÍTULO I
+INVESTIGACIÓN INSTITUCIONAL Y ÉTICA
+
+Artículo 29.- La investigación institucional.- Las IES, a partir de su naturaleza, fortalezas o
+dominios académicos, así como desde la especificidad de sus carreras o programas, definirán sus
+regulaciones internas y/o políticas de investigación.
+
+Artículo 30.- Niveles de investigación institucional.- Las IES desarrollarán su función sustantiva
+de investigación desde diferentes niveles:
+
+a) Investigación formativa; e
+b) Investigación de carácter académico-científico.
+
+Artículo 31.- Investigación formativa.- La investigación formativa es un componente fundamental
+del proceso de formación académica y se desarrolla en la interacción docente-estudiante, a lo largo
+del desarrollo del currículo de una carrera o programa; como eje transversal de la transmisión y
+producción del conocimiento en contextos de aprendizaje; posibilitando el desarrollo de
+competencias investigativas por parte de los estudiantes, así como la innovación de la práctica
+pedagógica de los docentes.
+
+Es un proceso de uso y generación de conocimiento caracterizado por la aplicación de métodos
+convencionales de investigación, la innovación, el análisis y la validación entre pares; produciendo
+generalmente conocimiento de pertinencia y validez local, nacional, y/o internacional, orientado al
+saber hacer profesional; e incorporando componentes técnico-tecnológicos en sus productos.
+
+Las IES deberán planificar, acompañar y evaluar acciones que aseguren la formación del estudiante
+en y para la investigación; la investigación como estrategia general de aprendizaje; y, la investigación-
+acción del currículo, en sus diferentes componentes, por parte del personal académico. Las IES
+determinarán el objeto, alcance, rigor, impacto, metodologías y condiciones de desarrollo de la
+investigación formativa en sus carreras y/o programas.
+
+Artículo 32.- Investigación formativa en el tercer nivel.- La investigación formativa en el tercer
+nivel propende al desarrollo de conocimientos y destrezas investigativas orientadas a la innovación
+científica, tecnológica social, humanística y artística.
+
+                                                    Página 9 de 39
+
+Alpallana E6-113 y Francisco Flor
+       REPÚBLICA DEL ECUADOR
+CONSEJO DE EDUCACIÓN SUPERIOR
+
+En lo referente a la formación técnica – tecnológica y de grado, se desarrollará mediante el dominio
+de técnicas investigativas de carácter exploratorio en relación a la creación, adaptación e innovación
+tecnológica. En tanto que las carreras artísticas deberán incorporar la investigación sobre
+tecnologías, modelos y actividades de producción artística.
+
+Con relación a los otros campos profesionales, la investigación para el aprendizaje se desarrollará en
+el campo formativo de la epistemología y la metodología de investigación de una profesión, mediante
+el desarrollo de actividades o proyectos de investigación de carácter exploratorio y/o descriptivo.
+
+Artículo 33.- Investigación formativa en el cuarto nivel.- La investigación formativa en el cuarto
+nivel se desarrollará en el marco de la investigación avanzada y tendrá carácter analítico, explicativo
+o correlacional.
+
+En lo referente a las especializaciones, estos programas deberán incorporar el manejo de los métodos
+y técnicas de investigación para el desarrollo de proyectos de investigación de nivel analítico.
+
+La investigación en especializaciones del campo detallado de la salud deberá incorporar la
+fundamentación epistemológica de la especialización del campo específico de la salud
+correspondiente, y profundizar en el conocimiento de métodos y técnicas para realizar diagnósticos
+clínicos, epidemiológicos y/o de salud pública, garantizando los principios y normativas que expida
+la autoridad sanitaria nacional competente en lo relativo a la bioética y que se plasmen en la entrega
+de productos medibles y en la revisión de pares.
+
+Las maestrías tecnológicas deberán profundizar el conocimiento de la epistemología del campo
+profesional y desarrollar proyectos de investigación e innovación de carácter analítico, que pueden
+utilizar métodos de la disciplina o métodos interdisciplinarios.
+
+Las maestrías académicas deberán profundizar el conocimiento de la epistemología de la ciencia y
+desarrollar proyectos de investigación de carácter explicativo o comprensivo con un claro aporte al
+área del conocimiento; podrán ser abordados desde métodos multi e interdisciplinarios.
+
+Artículo 34.- Investigación académica y científica.- La investigación académica y científica es la
+labor creativa, sistemática, rigurosa, sistémica, epistemológica y metodológicamente fundamentada
+que produce conocimiento susceptible de universalidad, originalmente nuevo y orientado al
+crecimiento del cuerpo teórico de uno o varios campos científicos.
+
+Se desarrolla mediante programas y proyectos de investigación, enmarcados en los objetivos,
+políticas institucionales, líneas de investigación y recursos disponibles de las IES. Las líneas,
+programas y proyectos deberán responder a los desafíos y problemas sociales, naturales,
+tecnológicos y otros, priorizados por la institución. Los proyectos podrán desarrollarse
+institucionalmente o a través de redes nacionales y/o internacionales.
+
+Las IES establecerán los mecanismos y normativa correspondiente para que tanto profesores,
+investigadores como estudiantes desarrollen investigación académica y científica pertinente y los
+resultados de la investigación deberán ser difundidos y divulgados para garantizar el uso social de
+los mismos y su aprovechamiento en la generación de nuevo conocimiento, nuevos productos,
+procesos o servicios, respetando las normas de propiedad intelectual correspondientes.
+
+La investigación académica y científica genera resultados que pueden ser utilizados en propuestas
+de vinculación con la sociedad que beneficien la calidad de vida y el desarrollo social. A su vez, la
+vinculación con la sociedad identifica necesidades y genera preguntas relevantes para la
+investigación.
+
+La investigación que se desarrolla en el ámbito de las maestrías académicas y de los doctorados se
+fundamenta en la investigación académica y científica.
+
+Artículo 35.- Proyectos de desarrollo, innovación y adaptación técnica o tecnológica.- Las IES
+cuyas fortalezas o dominios académicos se encuentren relacionados directamente con los ámbitos
+productivos, sociales, culturales y ambientales podrán formular e implementar proyectos
+
+                                   Página 10 de 39
+
+Alpallana E6-113 y Francisco Flor
+                                  REPÚBLICA DEL ECUADOR
+                          CONSEJO DE EDUCACIÓN SUPERIOR
+
+institucionales de investigación aplicada para el desarrollo de modelos prototípicos y de adaptación
+de técnicas, tecnologías y metodologías. Las IES podrán articular estos proyectos de investigación
+con las necesidades de cada territorio, país o región.
+
+Las IES propenderán a implementar espacios de innovación y centros de transferencia.
+
+Artículo 36.- Proyectos de producción artística.- Las IES con fortalezas o dominios académicos en
+campos humanísticos y artísticos, desarrollarán preferentemente líneas, programas y proyectos de
+investigación articulados a las formas y tradiciones de expresión simbólica y a los imaginarios de los
+actores sociales del entorno.
+
+Estos proyectos, preferentemente, deberán ser generados en el marco de redes académicas y sociales
+nacionales e internacionales.
+
+Artículo 37.- Investigación y contexto.- En todos los niveles formativos, según sea pertinente, la
+investigación en la educación superior deberá ser diseñada y ejecutada considerando el contexto
+social y cultural de la realidad que se investiga y en la cual sus resultados tengan aplicación.
+
+Artículo 38.- Ética y honestidad académica.- Las IES expedirán políticas de ética y de honestidad
+académica sin perjuicio de las normas establecidas para el efecto.
+
+Se entiende por fraude o deshonestidad académica toda acción que, inobservando el principio de
+transparencia académica, viola los derechos de autor o incumple las normas éticas establecidas por
+la IES o por el profesor, para los procesos de evaluación y/o de presentación de resultados de
+aprendizaje, investigación o sistematización. Configuran conductas de fraude o deshonestidad
+académica, entre otras, las siguientes:
+
+a) Apropiación de ideas o de información de pares dentro de procesos de evaluación.
+b) Uso de soportes de información para el desarrollo de procesos de evaluación que no han sido
+
+   autorizados por el profesor.
+c) Reproducción en lo substancial, a través de la copia literal, la paráfrasis o síntesis de creaciones
+
+   intelectuales o artísticas, sin observar los derechos de autor.
+d) Acuerdo para la suplantación de identidad o la realización de actividades en procesos de
+
+   evaluación, incluyendo el trabajo de titulación.
+e) Acceso no autorizado a reactivos y/o respuestas para evaluaciones.
+
+Artículo 39.- Desarrollo de funciones sustantivas mediante redes.- Las IES podrán suscribir
+convenios de cooperación académica para el desarrollo de proyectos de docencia, investigación,
+innovación o vinculación a nivel local, regional, nacional e internacional.
+
+                                                          TÍTULO V
+                  VINCULACIÓN CON LA SOCIEDAD, PRÁCTICAS PREPROFESIONALES
+
+                                                 Y REDES ACADÉMICAS
+
+                                                        CAPÍTULO I
+                                         VINCULACIÓN CON LA SOCIEDAD
+
+Artículo 40.- Vinculación con la sociedad.- La vinculación con la sociedad hace referencia a la
+planificación, ejecución y difusión de actividades que garantizan la participación efectiva en la
+sociedad y la responsabilidad social de las instituciones del Sistema de Educación Superior con el fin
+de contribuir a la satisfacción de necesidades y la solución de problemáticas del entorno, desde el
+ámbito académico e investigativo.
+
+La vinculación con la sociedad deberá articularse al resto de funciones sustantivas, oferta académica,
+dominios académicos, investigación, formación y extensión de las IES en cumplimiento del principio
+de pertinencia. En el marco del desarrollo de la investigación científica o artística de las IES, se
+considerará como vinculación con la sociedad a las actividades de divulgación científica, a los aportes
+
+                                   Página 11 de 39
+
+Alpallana E6-113 y Francisco Flor
+       REPÚBLICA DEL ECUADOR
+CONSEJO DE EDUCACIÓN SUPERIOR
+
+a la mejora y actualización de los planes de desarrollo local, regional y nacional, y a la transferencia
+de conocimiento y tecnología.
+
+La divulgación científica o artística consiste en transmitir resultados, avances, ideas, hipótesis,
+teorías, conceptos, productos artísticos y en general cualquier actividad científica, artística,
+tecnológica a la sociedad; utilizando los canales, recursos y lenguajes adecuados para que ésta los
+pueda comprender y asimilar la sociedad.
+
+Artículo 41.- Planificación de la vinculación con la sociedad.- La planificación de la función de
+vinculación con la sociedad, podrá estar determinada en las siguientes líneas operativas:
+
+a) Educación continua;
+b) Prácticas preprofesionales;
+c) Proyectos y servicios especializados;
+d) Investigación;
+e) Divulgación y resultados de aplicación de conocimientos científicos o artísticos;
+f) Ejecución de proyectos de innovación;
+g) Ejecución de proyectos de servicios comunitarios o sociales; y,
+h) Otras determinadas por la IES en correspondencia con su naturaleza y en ejercicio de su
+
+    autonomía responsable.
+
+Las IES podrán crear instancias institucionales específicas, incorporar personal académico y
+establecer alianzas estratégicas de cooperación interinstitucional para gestionar la vinculación con
+la sociedad.
+
+Artículo 42.- Prácticas preprofesionales en las carreras de tercer nivel.- Las prácticas
+preprofesionales en las carreras de tercer nivel son actividades de aprendizaje orientadas a la
+aplicación de conocimientos y/o al desarrollo de competencias profesionales. Estas prácticas se
+realizarán en entornos organizacionales, institucionales, empresariales, comunitarios u otros
+relacionados al ámbito profesional de la carrera, públicos o privados, nacionales o internacionales.
+
+Las prácticas preprofesionales se subdividen en dos (2) componentes:
+
+a) Prácticas laborales, de naturaleza profesional en contextos reales de aplicación; y,
+b) Prácticas de servicio comunitario, cuya naturaleza es la atención a personas, grupos o contextos
+
+    de vulnerabilidad.
+
+Las prácticas preprofesionales podrán realizarse a lo largo de toda la formación de la carrera, de
+forma continua o no; mediante planes, programas y/o proyectos cuyo alcance será definido por la
+IES. Las prácticas deberán ser coherentes con los resultados de aprendizaje y el perfil de egreso de
+las carreras; y, cada IES, en ejercicio de su autonomía responsable, determinará los mecanismos y
+requerimientos para su registro y evaluación.
+
+Las prácticas preprofesionales no generan ningún vínculo u obligación laboral. La experiencia laboral
+podrá ser reconocida como práctica preprofesional, incluidas las horas de servicios a la comunidad,
+siempre y cuando las actividades realizadas resulten pertinentes al perfil de egreso, lo cual debe ser
+validado por evidencias definidas por las IES.
+
+Cuando las prácticas preprofesionales se realicen bajo la figura de pasantías serán reguladas por la
+normativa aplicable a las pasantías, sin modificar el carácter y los efectos académicos de las mismas.
+
+Artículo 43.- Características y componentes de las prácticas preprofesionales en las carreras
+de tercer nivel.- La IES, en ejercicio de su autonomía responsable, asignará a cada carrera un rango
+de horas y/o créditos destinados a las prácticas preprofesionales dentro de la malla curricular,
+considerando lo siguiente:
+
+a) Para las prácticas laborales se deberá contar con un mínimo de 240 horas, a excepción de las
+    carreras de técnico superior en cuyo caso se deberá considerar un mínimo de 192 horas;
+
+                                   Página 12 de 39
+
+Alpallana E6-113 y Francisco Flor
+                                  REPÚBLICA DEL ECUADOR
+                          CONSEJO DE EDUCACIÓN SUPERIOR
+
+b) Para las prácticas de servicio comunitario se deberá contar con un mínimo de sesenta horas; y,
+c) Ninguna carrera podrá tener dentro de su malla más del diez por ciento (10%) de las horas
+
+    destinadas a prácticas preprofesionales.
+
+Las horas y/o créditos de cada componente de las prácticas preprofesionales son objeto de
+homologación o convalidación siempre que se hayan completado en su totalidad, según lo
+establecido en la normativa interna de cada IES, hasta un máximo de diez (10) años posteriores a
+la realización de las mismas, siempre que correspondan a los objetivos de aprendizaje de la
+práctica pre profesional de destino.
+
+Las horas y/o créditos de las prácticas de las carreras de Derecho realizadas en el Consejo de la
+Judicatura, serán consideradas como preprofesionales o pasantías conforme a la normativa que
+emita el Consejo de la Judicatura.
+
+Artículo 44.- Realización de las prácticas preprofesionales.- Los planes, programas y/o
+proyectos para las prácticas preprofesionales de cada carrera podrán ser desarrollados contando con
+la participación de los diferentes sectores de la sociedad, según los mecanismos establecidos por cada
+IES.
+
+Las prácticas preprofesionales pueden realizarse dentro o fuera de la IES, siempre que sean de
+carácter formativo y supongan la aplicación o integración de conocimientos o competencias
+profesionales desarrollados a lo largo del proceso de enseñanza - aprendizaje. La institución
+receptora emitirá un informe periódico o final sobre la ejecución de las prácticas. Cuando las
+prácticas sean académicas, estas requerirán de un responsable, para lo cual la IES mantendrá un
+convenio u otros instrumentos con la entidad receptora. En el caso de que el proceso de prácticas en
+la institución receptora no se ajuste a lo establecido en el plan de trabajo, la IES deberá establecer los
+correctivos correspondientes.
+
+Los planes, programas y/o proyectos de prácticas preprofesionales (incluyendo las de servicio
+comunitario) deberán ser coordinados, monitoreados o evaluados por personal académico o
+personal de apoyo académico, de acuerdo con la planificación de la IES.
+
+Artículo 45.- Acreditación de ayudantías de docencia e investigación como prácticas
+preprofesionales.- Los estudiantes podrán realizar sus prácticas preprofesionales mediante
+ayudantías de cátedra o de investigación cuando, en correspondencia con sus requerimientos
+institucionales, las IES los seleccionen por su desempeño académico. Las ayudantías de docencia o
+de investigación podrán ser remuneradas o no, según la normativa interna institucional, y serán
+planificadas y evaluadas de acuerdo con el modelo educativo de la IES y sus requerimientos
+académicos para ser acreditadas como prácticas preprofesionales.
+
+Artículo 46.- Convalidación de actividades extracurriculares como prácticas
+preprofesionales.- Las actividades extracurriculares que contribuyan a la aplicación de
+conocimientos y al desarrollo de competencias profesionales serán susceptibles de convalidación con
+las prácticas preprofesionales. Las IES definirán en su normativa interna, aquellas actividades
+extracurriculares que son convalidables con las prácticas preprofesionales.
+
+Artículo 47.- Prácticas de cuarto nivel.- Los programas de cuarto nivel, dependiendo de su carácter
+y requerimientos formativos, podrán incorporar horas y/o créditos de prácticas previos a la
+obtención de la respectiva titulación. Las IES podrán establecer planes, programas y/o proyectos de
+prácticas profesionales que articulen el tercer y cuarto nivel de formación.
+
+                                                        CAPÍTULO II
+                                                FORMACIÓN CONTINUA
+
+Artículo 48.- Educación continua.- La educación continua hace referencia a procesos de
+capacitación, actualización y certificación de competencias laborales específicas. Se ejecuta en forma
+de cursos, seminarios, talleres u otras actividades académicas.
+
+                                   Página 13 de 39
+
+Alpallana E6-113 y Francisco Flor
+                                  REPÚBLICA DEL ECUADOR
+                          CONSEJO DE EDUCACIÓN SUPERIOR
+
+La educación continua es avanzada cuando está dirigida a profesionales y desarrollada por expertos
+de un campo del conocimiento específico.
+
+Esta formación podrá ser organizada a través del sistema créditos.
+
+La formación de educación continua no conduce a una titulación de educación superior y solo puede
+ser homologada mediante el mecanismo de validación de conocimientos.
+
+Los cursos de educación continua en el campo de la salud sólo podrán ser ofrecidos por IES que
+cuenten con carreras o programas aprobados y vigentes en este campo, en concordancia con lo
+establecido por el organismo público competente de cualificación profesional.
+
+Artículo 49.- Tipos de certificados de la educación continua.- Las IES podrán conferir dos (2)
+tipos de certificados de educación continua:
+
+a) Certificado de aprobación: Acreditan las competencias o los conocimientos adquiridos de quienes
+    hayan cumplido con los requisitos académicos y de evaluación del curso o programa.
+
+b) Certificado de participación: Se extiende a quienes hayan cumplido los requisitos mínimos de
+    asistencia.
+
+                                                       CAPÍTULO III
+                                                  REDES ACADÉMICAS
+
+Artículo 50.- Redes académicas.- Las IES, así como los profesores e investigadores de una o varias
+unidades académicas, y profesores e investigadores pertenecientes a la misma o diversas IES, podrán
+integrar redes para promover el debate intelectual, el diseño de proyectos de investigación, de
+vinculación con la sociedad, procesos de autoformación, entre otros. Estas redes pueden ser
+nacionales o internacionales.
+
+Artículo 51.- Redes de conocimiento e innovación.- Las IES podrán integrar redes tanto
+nacionales como internacionales para promover, diseñar y ejecutar proyectos de investigación
+científica, innovación social y tecnológica, transferencia de tecnología, vinculación con la sociedad y
+formación dual, que involucren a sus estudiantes, graduados y planta docente, motivando el trabajo
+multi e interdisciplinario a través de la colaboración con el sector productivo y facilitando el
+desarrollo de políticas y procesos internos para la ejecución de los mismos.
+
+                                                         TÍTULO VI
+                  MODALIDADES DE ESTUDIO Y APRENDIZAJE DE SEGUNDA LENGUA
+
+                                                        CAPÍTULO I
+                                 MODALIDADES DE ESTUDIO O APRENDIZAJE
+
+Artículo 52.- Definición.- Las modalidades de estudio o aprendizaje son modos de gestión de los
+aprendizajes que determinan ambientes educativos diferenciados, incluyendo el uso de las
+tecnologías de la comunicación y de la información.
+
+Artículo 53.- Ambientes y medios de estudio o aprendizaje.- La planificación curricular de la
+carrera o programa determinará las condiciones de implementación de los ambientes de aprendizaje,
+presenciales, virtuales o mixtos; las formas de interacción profesor-estudiante; el uso de
+convergencia de medios educativos y de tecnologías; y otros elementos relevantes, según su
+modalidad.
+
+Para el aseguramiento de la calidad de carreras y programas ofertados en diversas modalidades, las
+IES deberán contar con equipo técnico idóneo, recursos de aprendizaje y plataformas tecnológicas
+que garanticen su ejecución.
+
+Artículo 54.- Modalidades de estudio o aprendizaje.- Las IES podrán impartir sus carreras y
+programas en las siguientes modalidades de estudios o aprendizaje:
+
+                                   Página 14 de 39
+
+Alpallana E6-113 y Francisco Flor
+                           REPÚBLICA DEL ECUADOR
+                    CONSEJO DE EDUCACIÓN SUPERIOR
+
+a) Presencial;
+b) Semipresencial;
+c) En línea;
+d) A distancia;
+e) Dual; e,
+f) Híbrida.
+
+                                                   CAPÍTULO II
+MODALIDADES PRESENCIAL, SEMIPRESENCIAL, EN LÍNEA, A DISTANCIA E HÍBRIDA DE
+
+                                         CARRERAS O PROGRAMAS
+
+Artículo 55.- Modalidad presencial.- La modalidad presencial es aquella en la que el proceso de
+aprendizaje en sus componentes en contacto con el docente y práctico experimental se desarrolla en
+interacción directa entre el estudiante y el profesor, en tiempo real, en al menos el cincuenta y un por
+ciento (51%) de los créditos de la carrera o programa, según lo determinado por la IES en ejercicio
+de su autonomía responsable.
+
+Por cada crédito académico se deberá asegurar al menos dieciséis (16) horas de contacto con el
+docente.
+
+Artículo 56.- Modalidad semipresencial.- La modalidad semipresencial es aquella en la que el
+aprendizaje se produce a través de la combinación de actividades en interacción directa con el
+profesor en un rango entre el treinta y cinco (35%) y el cincuenta por ciento (50%) de los créditos
+correspondientes al componente de aprendizaje en contacto con el docente y el práctico
+experimental, según lo determinado por la IES en ejercicio de su autonomía responsable. Por cada
+crédito académico se deberá asegurar al menos dieciséis (16) horas de contacto con el docente.
+
+Artículo 57.- Modalidad en línea.- La modalidad en línea es aquella en la que los componentes de
+aprendizaje están mediados en su totalidad por el uso de tecnologías interactivas multimedia y
+entornos virtuales de aprendizaje.
+
+Artículo 58.- Modalidad a distancia.- La modalidad a distancia es aquella en la que los componentes
+de aprendizaje en su totalidad, en contacto con el docente y práctico experimental está mediado por
+la articulación de múltiples recursos didácticos, físicos y digitales; además, del uso de tecnologías y
+entornos virtuales de aprendizaje en plataformas digitales, cuando sea necesario.
+
+Artículo 59.- Modalidad híbrida.- La modalidad híbrida es aquella en la que los componentes de
+aprendizaje en su totalidad, en contacto con el docente y el práctico experimental se desarrollan
+mediante la combinación de actividades presenciales, semipresenciales, en línea y/o a distancia.
+
+Artículo 60.- Uso complementario de otras modalidades de aprendizaje.- Los estudiantes
+podrán tomar hasta un cuarenta y nueve por ciento (49%), de las asignaturas, cursos o sus
+equivalentes de la correspondiente carrera o programa en otras modalidades de aprendizaje de la
+misma carrera, programa o de otra, en tanto exista la oferta en la misma IES, sin que afecte la
+modalidad de la titulación, siguiendo los procedimientos establecidos por cada IES.
+
+                                              CAPÍTULO III
+CONDICIONES PARA LA MODALIDAD SEMIPRESENCIAL, A DISTANCIA Y EN LÍNEA
+
+Artículo 61.- Recursos de aprendizaje y plataformas tecnológicas.- Para la ejecución de su oferta
+académica, las IES garantizarán los recursos de aprendizaje detallados en su proyecto de creación,
+según la modalidad de estudios, contando con mecanismos de control para combatir el fraude y la
+deshonestidad académica.
+
+Para la ejecución de las carreras y programas a distancia se deberá contar con un centro de apoyo
+con una adecuada infraestructura física, tecnológica, que facilite el acceso de los estudiantes a
+bibliotecas físicas y virtuales. Las IES, en uso de su autonomía responsable, podrán crear centros de
+apoyo para la ejecución de carreras y programas en cualquier otra modalidad. De igual manera, se
+
+                                                       Página 15 de 39
+
+                    Alpallana E6-113 y Francisco Flor
+                                  REPÚBLICA DEL ECUADOR
+                          CONSEJO DE EDUCACIÓN SUPERIOR
+
+deberá asegurar condiciones para que la planta académica gestione los distintos componentes del
+aprendizaje, cuando fuere el caso.
+
+Para la ejecución de las carreras y programas en línea, se deberá contar con acceso abierto al menos
+a una biblioteca virtual y un repositorio digital de apoyo para sus estudiantes.
+
+Para las modalidades, en línea y a distancia, las IES deberán contar con mecanismos que fomenten el
+autoaprendizaje y comprensión lectora, competencias informacionales, manejo del modelo
+educativo a distancia.
+
+Artículo 62.- Condiciones y restricciones en la oferta académica de carreras y programas.- Las
+IES podrán ofertar carreras y programas en modalidad de estudios semipresencial, en línea y a
+distancia cuando cuenten con la capacidad instalada a nivel de infraestructura y planta docente.
+
+El CES determinará y revisará periódicamente la lista de las carreras y programas que no podrán ser
+impartidos en las modalidades de estudios semipresencial, en línea y a distancia.
+
+                                                       CAPÍTULO IV
+                                                   MODALIDAD DUAL
+
+Artículo 63.- Modalidad dual.- La modalidad dual es aquella en la que el proceso formativo se
+realiza de forma sistemática y secuencial/continua en dos entornos de aprendizaje: el académico y
+el laboral. La formación de carácter teórico se realiza en la institución educativa (mínimo 30%-
+máximo 50%) en cualquier modalidad prevista en este Reglamento, en tanto que la formación
+práctica se realiza en un entorno laboral específico, que puede ser creado por la IES o provisto por
+una entidad receptora formadora (mínimo 50%-máximo 70%), de manera complementaria y
+correspondiente.
+
+En caso de que la IES no cuente con laboratorios y entornos de aprendizaje específicos para la
+implementación de la carrera, podrá realizar convenios con empresas formadoras que proveerán los
+mismos en sus entornos laborales (empresa).
+
+Todo lo referente a la modalidad dual se encontrará contenido en la normativa correspondiente.
+
+                                                        CAPÍTULO V
+                                       APRENDIZAJE DE SEGUNDA LENGUA
+
+Artículo 64.- Aprendizaje de una segunda lengua.- El aprendizaje de una segunda lengua será
+requisito para la graduación en las carreras de tercer nivel, de acuerdo con los siguientes niveles de
+suficiencia tomando como referencia el Marco Común Europeo, o su equivalente, para lenguas:
+
+a) Para el tercer nivel técnico se requerirá al menos el nivel A1 y para el tecnológico se requerirá al
+    menos el nivel A2.
+
+b) Para el tercer nivel de grado se requerirá al menos el nivel B1.
+
+En los programas de posgrado, las IES definirán en función del desarrollo del área del conocimiento,
+el nivel de dominio de la segunda lengua, si esta es requerida.
+
+Cada IES decidirá la integración o no del aprendizaje de una segunda lengua en el currículo de la
+carrera o programa.
+
+Para que los estudiantes regulares matriculados en una carrera cumplan el requisito de suficiencia
+de una lengua extranjera, las IES, en el caso de que así lo requieran, podrán realizar convenios con
+otras IES o instituciones que, si bien no forman parte del Sistema de Educación Superior, brindan
+programas o cursos de lenguas, siempre que éstas emitan certificados de suficiencia mediante la
+rendición de exámenes con reconocimiento internacional. La presente disposición no se aplicará
+para las carreras de idiomas.
+
+                                   Página 16 de 39
+
+Alpallana E6-113 y Francisco Flor
+                                  REPÚBLICA DEL ECUADOR
+                          CONSEJO DE EDUCACIÓN SUPERIOR
+
+Para efectos de esta disposición, el lenguaje de señas podrá ser considerado como segunda lengua y
+requisito para graduación en las carreras de tercer nivel.
+
+Artículo 65.- Aprendizaje de una segunda lengua ancestral en carreras de educación
+intercultural bilingüe.- Como requisito de titulación en el campo de la educación intercultural
+bilingüe, las IES deberán incorporar la enseñanza-aprendizaje de una de las lenguas ancestrales, que
+deberá estar incluida en los respectivos proyectos de carrera o programa. El nivel de conocimiento
+que se requiera y su certificación serán determinados por cada IES.
+
+                                                        TÍTULO VII
+                                       EVALUACIÓN DE LOS APRENDIZAJES
+
+                   CAPÍTULO I
+SISTEMA DE EVALUACIÓN ESTUDIANTIL
+
+Artículo 66.- Sistema interno de evaluación estudiantil.- Las IES deberán implementar un
+sistema interno de evaluación de los aprendizajes que garantice los principios de transparencia,
+justicia y equidad, tanto en el sistema de evaluación estudiantil como para conceder incentivos a los
+estudiantes por el mérito académico.
+
+Este sistema permitirá la valoración integral de competencias de los estudiantes, así como los
+resultados de aprendizaje, propendiendo a su evaluación progresiva y permanente, de carácter
+formativo y sumativo; mediante la implementación de metodologías, herramientas, recursos,
+instrumentos y ambientes pertinentes, diversificados e innovadores en coherencia con los campos
+disciplinares implicados.
+
+Las evaluaciones de carácter formativo y sumativo deberán aplicarse a todo el estudiantado al menos
+dos (2) veces durante el período académico, cada una. En todos los casos, la fase de evaluación podrá
+ser planificada, conforme la regulación interna de las IES.
+
+Artículo 67.- Aspectos formales del sistema de evaluación.- Dentro de sus sistemas de evaluación
+internos, las IES deberán definir los siguientes elementos:
+
+a) Criterios de evaluación.- Previo a la evaluación de asignaturas, cursos o sus equivalentes, las IES
+    garantizarán que el personal académico determinen y difundan a través de los syllabus, a los
+    estudiantes los objetivos, contenidos, rúbrica, criterios de calificación, medios, ambientes e
+    instrumentos a ser utilizados;
+
+b) Conocimiento de los resultados de la evaluación.- Los estudiantes tienen derecho a ser
+    informados oportunamente de los resultados de la evaluación, cuando se registre o consigne las
+    calificaciones de la misma, a través del sistema que la IES determine para el efecto;
+
+c) Escala de valoración.- Las IES establecerán en su normativa interna, los métodos de cálculo,
+    escalas y valores mínimos de aprobación de las asignaturas, cursos o equivalentes, pudiendo
+    establecerse diferente escala entre los programas y carreras de tercer y cuarto nivel,
+    respectivamente, considerando la equivalencia de: Excelente, Muy Bueno, Bueno, Aprobado,
+    Reprobado. Esta escala deberá ser publicada en su portal web;
+
+d) Registro de calificaciones.- Cada IES establecerá los procedimientos internos para registrar las
+    calificaciones de los estudiantes, las que deberán ser consignadas por el docente responsable de
+    las asignaturas, cursos o equivalentes; mediante un sistema o plataforma que garantice la
+    accesibilidad, transparencia y consistencia;
+
+e) Recuperación.- Cada IES podrá considerar procesos de recuperación, para la aprobación de las
+    asignaturas, cursos o sus equivalentes, de conformidad con los requisitos académicos que
+    establezca. La evaluación de recuperación se podrá rendir por una sola vez durante cada período
+    académico, cuando el estudiante no haya alcanzado la nota mínima aprobatoria de la asignatura,
+
+                                   Página 17 de 39
+
+Alpallana E6-113 y Francisco Flor
+       REPÚBLICA DEL ECUADOR
+CONSEJO DE EDUCACIÓN SUPERIOR
+
+curso o su equivalente. En estos procesos, las IES deberán considerar que los estudiantes cuenten
+con el tiempo necesario para prepararse para la evaluación;
+
+f) Recalificación de las evaluaciones.- Las IES establecerán procedimientos para que los estudiantes
+    soliciten la recalificación de las evaluaciones de sus aprendizajes; con excepción de las
+    evaluaciones orales, en cuyo caso se deberán establecer mecanismos que garanticen procesos
+    justos y transparentes. El plazo para requerir y atender las peticiones de recalificación deberá ser
+    determinado por la IES.
+
+Las IES, de considerar pertinente en ejercicio de su autonomía académica, podrán establecer
+mecanismos de recalificación de evaluaciones orales, siempre y cuando esto no afecte la calidad
+ni el perfil de egreso.
+
+La petición deberá ser fundamentada dejando constancia de haber procurado previamente la
+revisión de la calificación conjuntamente con el profesor; y,
+
+g) Valoración de las actividades de evaluación.- El valor asignado a cada una de las actividades de
+    evaluación será establecido por la IES. La IES deberá considerar que los procesos de recuperación
+    cuenten con un tiempo oportuno para que el estudiante pueda prepararse para las actividades de
+    evaluación.
+
+Artículo 68.- Atención a estudiantes con necesidades educativas asociadas o no a la
+discapacidad.- Las IES deberán desarrollar políticas, programas y planes de acción afirmativa e
+inclusión educativa, en los cuales habrán de contemplarse metodologías, ambientes de enseñanza-
+aprendizaje; métodos e instrumentos de evaluación que propicien la educación para todos.
+
+En el caso de que sea necesario realizar adaptaciones curriculares para atender requerimientos de
+estudiantes con necesidades educativas especiales, asociadas o no la discapacidad, los mecanismos
+de adaptación de los procesos de enseñanza-aprendizaje y de evaluación, deberán ser:
+
+a) Programados antes de iniciar el período académico correspondiente;
+b) Comunicados oportunamente a los estudiantes; y,
+c) Objeto de seguimiento pedagógico de los estudiantes en cuanto a sus avances durante el proceso
+
+    formativo.
+
+Las IES realizarán adaptaciones curriculares no significativas para atender los requerimientos de
+estudiantes con necesidades educativas especiales asociadas o no a la discapacidad. Las adaptaciones
+curriculares significativas son aquellas que modifican en la carrera o programa el objeto de estudio,
+los contenidos básicos del currículo, los objetivos de aprendizaje, criterios de evaluación y el perfil
+de egreso.
+
+En tanto que las adaptaciones curriculares no significativas modifican en la carrera o programa la
+duración, metodología de enseñanza, actividades extracurriculares y métodos e instrumentos de
+evaluación del aprendizaje.
+
+Artículo 69.- Estímulos al mérito académico.- Las IES podrán contemplar, conforme a la normativa
+aplicable, en el sistema interno de evaluación de los aprendizajes, estímulos que reconozcan el mérito
+académico de los estudiantes, estableciendo entre otros, mecanismos como: becas, pasantías,
+ayudantías, estancias nacionales o internacionales, para propiciar desempeños académicos de
+excelencia.
+
+        TÍTULO VIII
+REGIMEN ESTUDIANTIL
+
+CAPÍTULO I
+MATRÍCULA
+
+Artículo 70.- Matrícula.- La matrícula es el acto de carácter académico- administrativo, mediante el
+cual una persona adquiere la condición de estudiante, a través del registro de las asignaturas, cursos
+
+                                   Página 18 de 39
+
+Alpallana E6-113 y Francisco Flor
+                                  REPÚBLICA DEL ECUADOR
+                          CONSEJO DE EDUCACIÓN SUPERIOR
+
+o sus equivalentes, en un período académico determinado y conforme a los procedimientos internos
+de una IES. La condición de estudiante se mantendrá hasta el inicio del nuevo periodo académico o
+hasta su titulación.
+
+Artículo 71.- Tipos de matrícula.- Se establecen los siguientes tipos de matrícula:
+
+a) Matrícula ordinaria.- Es aquella que se realiza en el plazo establecido por la IES para el proceso
+    de matriculación, que en ningún caso podrá ser posterior al inicio de las actividades
+    académicas.
+
+b) Matrícula extraordinaria.- Es aquella que se realiza según los mecanismos y plazos establecidos
+    por las IES en sus reglamentos internos, de manera posterior a la culminación del período de
+    matrícula ordinaria.
+
+c) Matrícula especial.- Es aquella que, en casos individuales excepcionales, otorga la IES mediante
+    los mecanismos definidos internamente en sus reglamentos, para quien, por circunstancias de
+    caso fortuito o fuerza mayor, debidamente documentadas, no se haya matriculado de manera
+    ordinaria o extraordinaria. Esta matrícula se podrá realizar de manera posterior a la culminación
+    del período de matrícula extraordinaria.
+
+Artículo 72.- Anulación de matrícula.- Una IES podrá, de oficio o a petición de parte, declarar nula
+una matrícula cuando esta haya sido realizada violando la ley y la normativa aplicable.
+
+Artículo 73.- Retiro de asignaturas, cursos o sus equivalentes.- Un estudiante que curse una
+carrera o programa podrá retirarse voluntariamente de una, algunas o todas las asignaturas, cursos
+o sus equivalentes en un período académico. Las IES definirán en su normativa interna las
+disposiciones que aplicarán al retiro de asignaturas, cursos o sus equivalentes, así como los plazos y
+condiciones para el efecto.
+
+Los casos de retiro por situaciones fortuitas o de fuerza mayor debidamente documentadas de una,
+algunas o todas las asignaturas, cursos o sus equivalentes en un período académico que impidan la
+culminación del mismo, serán conocidos y aprobados por la instancia correspondiente en cada IES,
+en el momento que se presenten.
+
+En caso de retiro voluntario y retiro por caso fortuito o fuerza mayor debidamente justificado, la
+matrícula correspondiente a estas asignaturas, cursos o sus equivalentes, quedará sin efecto y no se
+contabilizará para la aplicación de lo establecido en el artículo 84 de la LOES referente a las terceras
+matrículas y el artículo 91 del presente instrumento.
+
+Artículo 74.- Tercera matrícula.- Cuando un estudiante repruebe por tercera vez una asignatura,
+curso o su equivalente, no podrá continuar, ni empezar la misma carrera en la misma IES. De ser el
+caso, podrá solicitar el ingreso en la misma carrera en otra IES, que, de ser pública, no aplicará el
+derecho de gratuidad.
+
+En el caso que el estudiante desee continuar sus estudios en otra carrera en la misma IES o en otra
+IES, podrá homologar las asignaturas, cursos o sus equivalentes en otra carrera que no considere la
+o las asignaturas, cursos o sus equivalentes que fueron objeto de la tercera matrícula.
+
+En el caso de la segunda lengua y de la opción de titulación en el tercer nivel, así como de la opción
+titulación en el posgrado, el estudiante podrá cursar de nuevo, una vez homologadas las asignaturas,
+cursos o sus equivalentes en otra carrera, conforme este artículo.
+
+Artículo 75.- Devolución de aranceles.- El estudiante tendrá derecho al reembolso proporcional
+del valor cancelado por concepto de arancel, en caso de retiros de carreras o programas,
+debidamente justificados, de todo un período académico. La IES determinará en su normativa
+interna, la instancia que autorizará o gestionará la devolución, el procedimiento y el valor
+proporcional de los aranceles a devolver.
+
+Para las IES públicas, esta devolución aplicará en el tercer nivel a partir de la pérdida temporal o
+definitiva de la gratuidad.
+
+                                   Página 19 de 39
+
+Alpallana E6-113 y Francisco Flor
+                                  REPÚBLICA DEL ECUADOR
+                          CONSEJO DE EDUCACIÓN SUPERIOR
+
+Artículo 76.- Estudiantes regulares.- Los estudiantes regulares son aquellos que cursan sus
+estudios con fines de titulación y están matriculados al menos en el sesenta por ciento (60%) de todas
+las materias o créditos que permite su malla curricular en cada período. Cada IES definirá y publicará
+para conocimiento de sus estudiantes, el mecanismo de cálculo.
+
+También se considerarán estudiantes regulares aquellos que se encuentren cursando el período
+académico que incluye el tiempo de la titulación, siempre y cuando los créditos asignados a esta
+actividad sean al menos equivalentes al sesenta por ciento (60%) de asignaturas, cursos o su
+equivalente que permite su malla curricular en cada período.
+
+Quienes no persigan fines de titulación se considerarán estudiantes libres en procesos de
+actualización, intercambio nacional o internacional, u otra experiencia posible de formación.
+
+Artículo 77.- Seguro obligatorio para el estudiante.- La IES está en la obligación de asegurar a sus
+estudiantes, con una póliza básica que cubra accidentes que se produzcan durante las actividades de
+aprendizaje y otras relacionadas, dentro y fuera de las instalaciones de las IES.
+
+Artículo 78.- Reingreso.- Cada IES es responsable de definir las fechas, plazos, requisitos y
+condiciones en los que se llevarán a cabo los procesos de reingreso a una carrera o programa vigente,
+que no podrán exceder los diez (10) años a partir del último período académico en el que se produjo
+la interrupción de estudios.
+
+Transcurrido el plazo establecido en el párrafo precedente, un estudiante podrá retomar sus estudios
+en la misma carrera o programa o en otra carrera o programa, mediante el mecanismo de
+homologación por validación de conocimientos de asignaturas, cursos o sus equivalentes, en una
+carrera o programa vigente, de conformidad con lo establecido por cada IES.
+
+Cuando un estudiante quiera reingresar a una carrera o programa “no vigente” o “no vigente
+habilitado para registro de títulos”, para garantizar la culminación de estudios, las IES en ejercicio de
+su autonomía académica, podrán considerar la implementación de un plan de reingreso, mediante
+homologación a la oferta académica vigente.
+
+                                                        CAPÍTULO II
+                                          CAMBIOS DE CARRERA Y DE IES
+
+Artículo 79.- Cambio de carrera y cambio de institución de educación superior.- Los cambios
+de carrera están sujetos a los procesos de admisión establecidos por cada institución de educación
+superior, observando la normativa vigente del Sistema de Educación Superior.
+
+El cambio de carrera podrá realizarse en la misma o diferente institución de educación superior,
+según las siguientes reglas:
+
+a) Cambio de carrera dentro de una misma IES pública: procede cuando se ha cursado al menos
+    un periodo académico, de acuerdo a los mecanismos establecidos por la IES. Para efectos de
+    gratuidad se podrá realizar el cambio por una sola vez.
+
+    Si el estudiante se retira antes de aprobar el primer periodo académico establecido en la
+    carrera, deberá iniciar el proceso de admisión establecido en el sistema de educación superior.
+    Esta regla no aplica para el caso de reingresos.
+
+    En todos estos casos, la IES deberá observar que el aspirante cumpla con el puntaje mínimo de
+    admisión de cohorte de la carrera receptora en el periodo académico correspondiente en el
+    cual solicita su movilidad.
+
+b) Cambio de IES pública: Un estudiante podrá cambiarse entre IES públicas, sea a la misma
+    carrera o a una distinta, una vez que haya cursado al menos dos (2) períodos académicos, según
+    los mecanismos establecidos por la IES. Para efectos de gratuidad se podrá realizar el cambio
+    por una sola vez. En todos estos casos, la IES deberá observar que el aspirante cumpla con el
+
+                                                                                                             Página 20 de 39
+                                                Alpallana E6-113 y Francisco Flor
+       REPÚBLICA DEL ECUADOR
+CONSEJO DE EDUCACIÓN SUPERIOR
+
+puntaje mínimo de admisión de cohorte de la carrera receptora en el periodo académico
+correspondiente en el cual solicita su movilidad.
+
+c) Cambio de IES particular a IES pública: Un estudiante podrá cambiarse de una IES particular a
+    una IES pública, siempre que el estudiante haya cursado al menos dos (2) períodos académicos;
+    sea sometido al proceso de asignación de cupos; y, obtenga el puntaje de cohorte de la carrera
+    receptora en el periodo académico correspondiente en el cual solicita su movilidad.
+
+En todos estos casos la institución de educación superior deberá observar que el aspirante
+cumpla con el puntaje mínimo de admisión de cohorte de la carrera receptora en el periodo
+académico correspondiente en el cual solicita su movilidad.
+
+d) Cambio de IES particulares: Cuando un estudiante se cambia de cualquier IES a una IES
+    particular, deberá someterse a los procesos de admisión establecidos por la IES receptora.
+
+Las IES definirán los mecanismos para los cambios de carrera. Para el caso de los programas, las
+IES definirán las condiciones en las que se aplican la movilidad.
+
+Artículo 80.- Excepción al cambio de carrera.- No se considerará cambio de carrera cuando sea
+dentro de un tronco común, en los casos en que una IES ha planificado de esa manera la estructura
+curricular.
+
+ TÍTULO IX
+MOVILIDAD
+
+                  CAPÍTULO I
+RECONOCIMIENTO U HOMOLOGACIÓN
+
+Artículo 81.- Reconocimiento.- Las IES podrán diseñar e implementar mecanismos de
+reconocimiento de horas o créditos entre carreras o programas, para facilitar la movilidad interna,
+cambios de carrera, estudios avanzados de estudiantes de grado, y transiciones en procesos de
+rediseño curricular. En este último caso, las IES podrán acreditar los avances de un estudiante en la
+nueva carrera o programa rediseñado, buscando que el tiempo de titulación del estudiante no se
+incremente. A su vez, buscarán evitar que existan dos o más mallas vigentes de la misma carrera o
+programa.
+
+Estos mecanismos podrán aplicarse para el reconocimiento de estudios con base en los convenios
+realizados con redes internacionales y alianzas estratégicas.
+
+Artículo 82.- Homologación.- La homologación consiste en la transferencia de créditos, de
+asignaturas, cursos o sus equivalentes aprobados.
+
+Esta transferencia puede realizarse en carreras o programas del mismo nivel o de un nivel formativo
+a otro.
+
+La homologación también podrá aplicarse del nivel de Bachillerato hacia la educación superior solo
+en casos de estudios avanzados como, por ejemplo, Bachillerato Internacional (BI); Bachillerato
+Técnico Productivo (BTP); cursos de Advanced Placement (AP) u otros con reconocimiento
+internacional, bajo los mecanismos que cada IES determine en su normativa interna.
+
+Cada IES, en uso de su autonomía responsable, regulará sus procesos de homologación.
+
+En el caso de los institutos superiores públicos el órgano rector de la política pública de educación
+superior emitirá la normativa pertinente.
+
+La IES receptora será responsable de verificar que los estudios homologados garanticen la
+consecución del perfil de egreso, así como los requisitos de titulación contenidos en la resolución de
+aprobación de la carrera o programa.
+
+                                   Página 21 de 39
+
+Alpallana E6-113 y Francisco Flor
+       REPÚBLICA DEL ECUADOR
+CONSEJO DE EDUCACIÓN SUPERIOR
+
+La IES determinará la equivalencia de los créditos, en cualquier nivel de estudios superiores,
+pudiendo validarse u homologarse hasta la totalidad de la carrera o programas.
+
+La homologación se podrá realizar mediante análisis comparativo de contenidos, el cual consiste en
+la transferencia de horas y/o créditos mediante la comparación de contenidos del micro currículo;
+siempre que el contenido, profundidad y carga horaria del curso, asignatura o su equivalente, sean al
+menos equivalentes al 80% de aquel de la entidad receptora.
+
+La homologación, sólo podrá realizarse hasta diez (10) años después de la aprobación de la
+asignatura, curso o su equivalente.
+
+Artículo 83.- Validación de conocimientos.- Consiste en la comprobación de que el estudiante ha
+alcanzado los resultados de aprendizaje de las asignaturas, cursos o equivalentes a una carrera o
+programa, a través de algún mecanismo de evaluación establecido por la IES.
+
+Este procedimiento será obligatorio para quienes hayan cursado o culminado sus estudios en un
+periodo mayor a diez (10) años.
+
+La validación de conocimientos culmina en el otorgamiento de créditos por los conocimientos
+validados.
+
+Las IES podrán validar los conocimientos del Bachillerato en Artes, únicamente en el campo de las
+artes.
+
+La validación de conocimientos para especializaciones en el campo de la salud y doctorados, será
+regulado por el CES, en una normativa específica.
+
+(Artículo reformado mediante Resolución RPC-SE-10-No.028-2022, de 27 de julio de 2022)
+
+Artículo 84.- Validación por ejercicio profesional.- Consiste en el reconocimiento del ejercicio
+profesional o de la experiencia laboral, artística o cultural, por parte de una IES acreditada. Esta
+validación puede equivaler a la aprobación de determinados cursos, asignaturas o sus equivalentes,
+o de la totalidad de la carrera o programa. Se exceptúa de este mecanismo a las carreras de interés
+público que comprometan la vida del ser humano, así como posgrados académicos.
+
+Para esta validación se considerará la experiencia profesional en el campo del conocimiento a validar,
+con una trayectoria mínima de al menos la duración de la carrera o programa sujeta a validación.
+
+El procedimiento para el reconocimiento de trayectorias artísticas dentro de la validación por
+ejercicio profesional será definido en la normativa específica expedida por el CES.
+
+(Artículo reformado mediante Resolución RPC-SE-10-No.028-2022, de 27 de julio de 2022)
+
+                                            TÍTULO X
+TÍTULOS OTORGADOS POR LAS INSTITUCIONES DE EDUCACIÓN SUPERIOR
+
+                            CAPÍTULO I
+OTORGAMIENTO, EMISIÓN Y REGISTRO DE TÍTULOS
+
+Artículo 85.- Otorgamiento y emisión de títulos de tercer y cuarto nivel.- Una vez que el
+estudiante haya aprobado la totalidad de créditos del plan de estudios de la carrera o programa y
+cumplido todos los requisitos académicos y administrativos establecidos por la IES para la
+graduación, la IES emitirá el acta consolidada de finalización de estudios y el título correspondiente.
+El acta consolidada deberá contener: los datos de identificación del estudiante, el registro de
+calificaciones, así como la identificación del tipo y número de horas de servicio a la comunidad
+mediante prácticas preprofesionales o pasantías. Desde la fecha de emisión del acta consolidada
+respectiva, la IES tendrá un término no mayor a cuarenta y cinco (45) días para registrar el título en
+el Sistema Nacional de Información de la Educación Superior (SNIESE), previo a su entrega al
+graduado.
+
+                                                                                        Página 22 de 39
+
+Alpallana E6-113 y Francisco Flor
+                                  REPÚBLICA DEL ECUADOR
+                          CONSEJO DE EDUCACIÓN SUPERIOR
+
+(Artículo reformado mediante Resolución RPC-SE-10-No.028-2022, de 27 de julio de 2022)
+
+Artículo 86.- Modificación del registro de títulos de tercer y cuarto nivel.- En caso de que se
+requiera realizar modificaciones al registro de un título, la IES será responsable de realizarlo, de
+conformidad con el procedimiento establecido en la normativa que para el efecto emita la Institución
+que administra el SNIESE.
+
+Artículo 87.- Obtención irregular de títulos.- Cuando una IES identifique que un título ha sido
+expedido y/o registrado de manera irregular en el SNIESE, motivadamente solicitará al órgano rector
+de la política pública de educación superior la eliminación del registro, lo que procederá de forma
+automática, sin perjuicio de las acciones legales pertinentes.
+
+Artículo 88.- Otorgamiento de títulos honoríficos.- Las universidades y escuelas politécnicas, en
+ejercicio de su autonomía responsable, podrán otorgar títulos honoríficos a personas que hayan
+realizado aportes relevantes al desarrollo de la sociedad.
+
+Las universidades y escuelas politécnicas, podrán otorgar el título de Doctor Honoris Causa a
+personas del ámbito nacional e internacional destacadas por su trayectoria personal y/o académica
+relativa a la universidad o escuela politécnica que lo otorga o a la sociedad en su conjunto. El referido
+título, no equivale al grado académico de Doctor, PhD o su equivalente.
+
+                                                         TÍTULO XI
+                                               REGÍMENES ESPECIALES
+
+                                                        CAPÍTULO I
+                                                 CAMPO DE LAS ARTES
+
+Artículo 89.- Campo de las Artes.- Pertenecen al campo específico de las artes las manifestaciones
+relacionadas con la experimentación e interpretación de la dinámica humana. Involucran el
+desarrollo de capacidades creativas, técnicas, de educación y formación artística, investigativas,
+interpretativas, teóricas y de gestión y producción cultural.
+
+Artículo 90.- Campos detallados de las Artes.- Los campos detallados de las Artes incluyen, entre
+otros, lo siguiente:
+
+a) Artes escénicas.- Son manifestaciones direccionadas a la experimentación formal y composición
+    escénica a través de los diferentes sistemas expresivos: corporal, verbal, sonoro, espacial y
+    objetual, fundamentando la creación de lenguajes verbales y no verbales, así como de roles
+    colectivos de creación artística de la escena.
+
+b) Artes visuales.- Son manifestaciones que abarcan diversos lenguajes de la creación plástica, visual
+    e interdisciplinaria así como las definiciones, tradiciones y rupturas en torno a la representación,
+    empleando técnicas, materiales y tecnologías, procesos, aplicaciones e interpretaciones artísticas.
+
+c) Artes audiovisuales.- Son manifestaciones que comprenden la articulación entre imagen y sonido,
+    a partir de diversas técnicas de registro y reproducción. El trabajo audiovisual emplea
+    conocimientos y destrezas en las áreas de preproducción, producción y postproducción, basada
+    en fundamentos estéticos, conceptuales, críticos, analíticos, técnicos y compositivos.
+
+d) Diseño.- Son manifestaciones que abarcan las áreas del desarrollo proyectual enfocado a la
+    comunicación visual, multimedia, desarrollo de productos, diseño de indumentaria, diseño del
+    espacio interior y diseño arquitectónico. Manejan las herramientas para reflexionar desde las
+    concepciones metodológicas y técnicas para el planteamiento de soluciones adecuadas al
+    contexto y sus usuarios finales, demostrando teorización, innovación, producción y
+    postproducción.
+
+e) Artes musicales y sonoras.- Son manifestaciones que involucran los diversos medios musicales,
+    acústicos y sonoros, tienen por objeto desarrollar el área de educación musical, interpretación
+    instrumental, canto, composición, tecnología musical, producción, luthería, musicología y
+    experimentación acústica y sonora, relacionada con otros medios y artes, entre otras.
+
+f) Artes literarias.- Son manifestaciones que usan la palabra como instrumento de significación
+    artística. Requieren por tanto del conocimiento y manejo inventivo de diversos recursos de
+
+                                   Página 23 de 39
+
+Alpallana E6-113 y Francisco Flor
+       REPÚBLICA DEL ECUADOR
+CONSEJO DE EDUCACIÓN SUPERIOR
+
+expresión escrita y oral. Articula conocimientos relacionados con las diversas tradiciones
+literarias, así como la interrelación disciplinaria con otros campos y saberes artísticos.
+
+Artículo 91.- Opciones de titulación en artes.- Se podrá considerar como trabajo de titulación en
+artes, a tercer nivel y como proyecto de titulación en cuarto nivel, una presentación o producción
+artística abierta al público que permita evidenciar las capacidades específicas del perfil de egreso de
+la carrera o programa. La evaluación del trabajo de titulación será definida por cada IES en uso de su
+autonomía responsable.
+
+El trabajo de titulación o memoria deberá contener la reflexión teórica de la presentación o
+producción artística. La presentación del trabajo de titulación deberá ser registrada en un soporte
+audiovisual, fotográfico u otros medios digitales.
+
+En caso de que el estudiante no apruebe el trabajo de titulación en grado o el proyecto de titulación
+de posgrado, de conformidad con lo establecido en el presente Reglamento, tendrá derecho a exhibir
+la misma presentación o producción artística con las correcciones, procedimiento y plazos
+establecidos por la IES. En caso de una segunda reprobación, el estudiante podrá optar por una nueva
+presentación o rendir un examen complexivo.
+
+Artículo 92.- Investigación en artes.- Cada carrera o programa del campo de las artes deberá
+contemplar un componente que habilite el aprendizaje e investigación sobre las artes, en las artes,
+para las artes y a través de las artes.
+
+La investigación sobre las artes implica la reflexión alrededor del hecho artístico, parte de diversos
+abordajes, puntos de vista y andamiajes teóricos como la filosofía, la estética, la sociología del arte, la
+antropología, la psicología del arte, la semiótica, la historia del arte, la musicología, entre otros, a fin
+de lograr su análisis en el contexto histórico y una correcta interpretación.
+
+La investigación en las artes acude a modos diferentes de investigar, indagar y generar conocimiento,
+a través de un método propio de búsqueda, trabajo y experimentación, para arribar a resultados
+inéditos que apuntan a la creación artística.
+
+La investigación a través de las artes recurre a las metodologías y procesos artísticos para concretar
+objetivos transdisciplinarios, articulándose en ellas saberes prácticos y teórico-reflexivos.
+
+La investigación para las artes consiste en el desarrollo de herramientas que permitan la práctica
+artística.
+
+Las investigaciones en, sobre, para y a través de las artes pueden tener carácter de:
+
+a) Investigación teórica y analítica;
+b) Investigación artística;
+c) Producción artística;
+d) El entrecruzamiento e integración de ambas perspectivas; y,
+e) Investigación en, sobre, para y a través del arte en colaboración con la comunidad.
+
+Las investigaciones responderán al perfil profesional y académico de los estudiantes por niveles de
+formación, y en correspondencia a la especificidad de las carreras o programas, y contribuirán a la
+formación artística y generación de conocimiento, así como la capacidad de experimentar, imaginar
+e idear nuevos conceptos de vida y nuevas formas de comunidad.
+
+Los procesos de investigación generarán productos de diversos tipos como: artículo y textos
+académicos, producciones artísticas y herramientas para la creación artística, entre otros.
+
+Se reconoce como investigación en artes los procesos de creación y producción artística.
+
+Artículo 93.- Prácticas preprofesionales en artes.- Las prácticas preprofesionales en el campo
+artístico deben ser un instrumento para vincular al estudiante con el ejercicio artístico profesional,
+la realidad de su entorno y para que el estudiante aporte a la sociedad sus conocimientos y despliegue
+
+                                                                                       Página 24 de 39
+
+Alpallana E6-113 y Francisco Flor
+       REPÚBLICA DEL ECUADOR
+CONSEJO DE EDUCACIÓN SUPERIOR
+
+sus capacidades creativas en las áreas de estudio. Podrán desarrollarse como ayudantías, dentro de
+programas, proyectos o actividades que las IES establezcan como prioritarios, ya sean de
+investigación en y sobre arte, creación o desarrollo social y cultural de impacto, así como de procesos
+de colaboración con comunidades.
+
+Artículo 94.- Colectivos académicos en artes.- Los colectivos académicos para el caso de las artes
+podrán adquirir formas organizativas de docentes, profesionales, figuras de filarmónica, sinfónica,
+grupo de cámara, ensambles, colectivos de artistas, laboratorios de experimentación, grupos
+colectivos o compañías de teatro y danza, colectivos de diseñadores, colectivos audiovisuales,
+estudios experimentales de diseño, colectivos de investigación interdisciplinaria y otros colectivos
+afines.
+
+Un colectivo en artes puede desempeñar actividades complementarias que generen sinergias en los
+ejes de investigación y vinculación con la sociedad e internacionalización e incentiven la aplicación
+de políticas públicas en el campo de la economía de la cultura.
+
+              CAPÍTULO II
+FORMACIÓN MILITAR Y POLICIAL
+
+Artículo 95.- Carreras de formación militar y policial.- Las carreras de formación militar y policial
+que pertenecen al campo de servicios de seguridad; por su formación especial, además de las normas
+generales contenidas en el presente Reglamento, se deberán considerar las particularidades
+necesarias para su proceso formativo.
+
+                                     TÍTULO XII
+APROBACIÓN DE CARRERAS Y PROGRAMAS, AJUSTE CURRICULAR
+
+                     Y CAMBIO DE PLANTA ACADÉMICA
+
+                      CAPÍTULO I
+APROBACIÓN DE CARRERAS Y PROGRAMAS
+
+Artículo 96.- Presentación y aprobación de proyectos.- Los proyectos de carreras y programas
+serán aprobados por el CES a través de los mecanismos y procedimientos establecidos en el presente
+Reglamento. El proceso de aprobación de proyectos por parte del CES está conformado por las
+siguientes etapas:
+
+a) Presentación del proyecto con informe académico elaborado por la IES, en ejercicio de su
+    autonomía responsable;
+
+b) Informe no vinculante de la Coordinación de Planificación Académica, recomendando la probación
+    o no del proyecto; y,
+
+c) Resolución del Pleno del CES, que deberá contener la siguiente información: nombre de las IES,
+    denominación, código, y lugar de ejecución de la carrera o programa, así como el título al que
+    conduce.
+
+Las carreras y programas de educación superior a ejecutarse en las Islas Galápagos y en las zonas
+fronterizas, deberán cumplir con lo establecido en el instrumento del régimen especial creado
+para el efecto.
+
+Las IES acreditadas podrán presentar al CES, propuestas curriculares experimentales e
+innovadoras de carreras o programas que no se ajusten a los períodos académicos, requerimientos
+y parámetros contemplados en este Reglamento. Para considerar una propuesta curricular como
+experimental o innovadora, deberá tener al menos una de las siguientes características:
+
+1. Responder a formas innovadoras de organización curricular;
+2. Proponer metodologías de aprendizaje innovadoras;
+3. Contar con personal académico de alta cualificación, según los requerimientos de la IES; o,
+4. Formar parte de redes de conocimiento, redes de investigación y redes deinnovación conforme
+
+    este Reglamento.
+
+                                    Página 25 de 39
+
+Alpallana E6-113 y Francisco Flor
+                                  REPÚBLICA DEL ECUADOR
+                          CONSEJO DE EDUCACIÓN SUPERIOR
+
+Las particularidades de la presentación de proyectos del área de doctorados serán definidas en la
+normativa específica expedida por el CES.
+
+Las IES podrán presentar proyectos de carreras y programas en red con otras IES nacionales o
+extranjeras. En el proyecto se determinará si la titulación se otorgará de manera individual o
+conjunta. En el caso de convenio con una IES extranjera, la titulación se otorgará de manera conjunta.
+
+Las IES, considerando sus recursos académicos, de equipamiento, de infraestructura, así como su
+modelo educativo, determinarán en el proyecto de carrera o programa el número de estudiantes por
+cohorte, para la aprobación del CES. Al establecer el límite por cohorte cada IES definirá, en función
+de su autonomía responsable, el número de paralelos y estudiantes por paralelo.
+
+Artículo 97.- Verificación de convenios de relación asistencial docente.- Los convenios
+específicos, convenios marco o cartas de intención que se suscriban entre las IES y la o las entidades
+de salud para el desarrollo de las carreras y programas del campo de la salud, serán revisados como
+parte del proyecto académico por parte de la unidad técnica correspondiente de conformidad con los
+parámetros establecidos en la Norma Técnica para Unidades Asistenciales Docentes.
+
+Para ejecutar la oferta académica, las IES deberán contar con los convenios suscritos con la o las
+entidades de salud.
+
+Artículo 98.- Presentación del proyecto a través de la plataforma del CES.- Los proyectos serán
+presentados a través de la plataforma del CES y contendrán la información y documentación
+establecida en la Guía metodológica para la presentación de carreras y programas que expida el CES,
+de forma diferenciada por cada modalidad de aprendizaje y considerando si los proyectos son
+presentados por una IES de manera individual o a través de una red académica.
+
+Artículo 99.- Procedimiento para la aprobación de carreras y programas.- Previo al
+conocimiento de proyectos de carreras y programas en el Pleno del CES, el expediente contará con
+un informe de verificación del cumplimiento de requisitos, bajo el siguiente procedimiento:
+
+a) La unidad correspondiente verificará el cumplimiento de requisitos, y la presentación de la
+    documentación de respaldo, para lo cual tendrá un término máximo de quince (15) días.
+
+b) Si la IES no ha cumplido los requisitos, o no ha presentado la documentación de respaldo, la
+    unidad técnica correspondiente solicitará a la IES que subsane o complete la información, en
+    un término no mayor a diez (10) días.
+
+c) El informe de verificación del cumplimiento de requisitos recomendará la aprobación o no
+    aprobación de los proyectos y será remitido a la Comisión que corresponda, para que esta a su
+    vez, en el término máximo de siete (7) días, a través de un Acuerdo, recomiende al Pleno, la
+    aprobación o no de la carrera o programa. Para emitir el Acuerdo, la Comisión no necesitará de
+    un informe adicional.
+
+Si el informe de la unidad recomienda la no aprobación, la Comisión podrá archivar el proyecto,
+de lo cual se notificará a la IES cuando corresponda.
+
+En el caso de proyectos de carreras y programas del campo de la salud, de manera adicional la
+Comisión correspondiente elaborará un Informe Técnico con base en el Informe de Verificación
+del cumplimiento de requisitos que recomendará, junto con un acuerdo, la aprobación o no, del
+proyecto.
+
+El Presidente del CES deberá incluir dentro de la sesión inmediatamente siguiente del Pleno, el
+tratamiento del informe, según las normas internas del CES.
+
+El Pleno del CES deberá expedir la resolución respectiva en el término máximo de cinco (5) días.
+
+(Artículo reformado mediante Resolución RPC-SE-10-No.028-2022, de 27 de julio de 2022)
+
+Artículo 100.- Consecuencias del incumplimiento de los términos establecidos.- La no
+presentación de informes, ampliaciones, aclaraciones o subsanaciones ocasionará lo siguiente:
+
+                                                                                                             Página 26 de 39
+
+                                                Alpallana E6-113 y Francisco Flor
+                                  REPÚBLICA DEL ECUADOR
+                          CONSEJO DE EDUCACIÓN SUPERIOR
+
+a) Si la IES no presenta las ampliaciones o aclaraciones en el tiempo establecido en este Reglamento,
+    el proyecto será archivado previa autorización de la Comisión, lo cual será notificado a través de
+    la plataforma.
+
+b) Si la unidad o Comisión correspondiente no emite su informe o acuerdo respectivo en los
+    términos establecidos en este Reglamento, se entenderá que se recomienda la aprobación del
+    proyecto.
+
+c) Para el efecto, cuando la IES verifique que el término ha vencido, solicitará a la Comisión
+    correspondiente o al Presidente del CES, la emisión de la resolución aprobando la carrera o
+    programa. Para ello, la Comisión correspondiente elaborará un informe en el término de dos (2)
+    días, y lo remitirá al Pleno del CES para su tratamiento en la sesión ordinaria inmediata siguiente
+    del Pleno del CES.
+
+d) Si el Pleno del CES no expide la Resolución respectiva en los términos establecidos en este
+    Reglamento, o el Presidente del CES no incorpora el informe para tratamiento del Pleno en la
+    sesión inmediata siguiente según las normas internas del CES, y si ha finalizado el término
+    establecido en el literal f) del artículo 169 de la LOES, se considerará aprobada la carrera o
+    programa.
+
+    Para el efecto, la IES solicitará al Presidente del CES, la emisión de la resolución aprobando la
+    carrera o programa. Para ello, el Presidente solicitará a la Procuraduría del CES que emita el
+    informe correspondiente en el término de dos (2) días, en el que se verifique el vencimiento de
+    los términos establecidos, mismo que se incorporará en la sesión ordinaria inmediata siguiente
+    del Pleno del CES.
+
+Artículo 101.- Efectos de la Resolución aprobatoria del Pleno del CES.- De aprobarse la carrera
+o programa, la Secretaría General deberá notificar a la IES la resolución correspondiente en el
+término de tres (3) días así como al órgano rector de la política pública de educación superior, para
+el registro de la carrera en el SNIESE.
+
+Las IES podrán ofertar y ejecutar la carrera o programa en las condiciones y plazos que establezca la
+resolución de aprobación, a partir de la correspondiente notificación, sin perjuicio del registro de la
+carrera o programa en el SNIESE. En el caso de que no se haya recibido la notificación en el término
+establecido, la IES podrá ofertar y ejecutar la carrera o programa en los términos y condiciones que
+fue aprobada por el Pleno del CES.
+
+El órgano rector de la política pública de educación superior deberá realizar el registro dentro de los
+diez (10) días de recibida la notificación, para que conste dentro de la oferta académica vigente de la
+IES solicitante.
+
+Artículo 102.- Retiro del proyecto.- La máxima autoridad de la IES o su delegado debidamente
+autorizado podrá desistir del trámite descrito en cualquier etapa del proceso, hasta antes de la
+expedición de la Resolución del Pleno del CES.
+
+Artículo 103.- Vigencia de carreras o programas.- Las carreras o programas perderán su vigencia
+y serán cerradas cuando la carrera o programa no alcance la acreditación por parte del CACES.
+
+Las IES podrán solicitar al CES de manera fundamentada: la suspensión temporal; el cierre de la
+oferta de la carrera o programa; o, el cambio de estado de “vigente” a “no vigente” o a “no vigente
+habilitada para el registro de títulos”, según corresponda.
+
+En estos casos la IES deberá implementar un Plan de Contingencia que deberá ser registrado por el
+CES.
+
+Artículo 104.- Verificación del cumplimiento de la resolución de aprobación de la carrera o
+programa.- El CES, a través de la unidad correspondiente, en cualquier momento podrá monitorear
+
+                                   Página 27 de 39
+
+Alpallana E6-113 y Francisco Flor
+                                  REPÚBLICA DEL ECUADOR
+                          CONSEJO DE EDUCACIÓN SUPERIOR
+
+que la IES oferte y ejecute la carrera o programa, conforme al proyecto aprobado mediante resolución
+del Pleno del CES, y a los ajustes curriculares efectuados.
+
+Esta verificación no es equivalente ni sustituye al proceso de evaluación y acreditación de las carreras
+o programas realizado por el CACES.
+
+En aquellos casos en que la IES oferte o ejecute carreras o programas en distintos términos a los
+establecidos en el proyecto aprobado, salvo que se trate de un ajuste curricular, el CES dispondrá el
+cambio de estado de las mismas a “no vigente” o “no vigente habilitada para registro de títulos”, según
+fuere el caso, una vez ejecutado el procedimiento correspondiente.
+
+Artículo 105.- Cambio de estado de las carreras y programas.- En la resolución de cierre de
+carreras o programas el CES dispondrá el cambio de estado de las mismas a “no vigente” o “no vigente
+habilitada para registro de títulos”, según fuere el caso.
+
+Artículo 106.- Oferta y ejecución de carreras y programas de educación superior no
+autorizados.- Las IES no podrán ofertar ni ejecutar carreras o programas sin la aprobación o
+autorización previa del proyecto de carrera o programa por parte del CES.
+
+El órgano rector de la política pública de educación superior será el organismo encargado de verificar
+que la oferta académica que imparten las IES cuente con las autorizaciones respectivas y que sea
+impartida por instituciones legalmente reconocidas.
+
+En caso de incumplimiento de lo dispuesto en el presente artículo, se seguirá con el procedimiento
+correspondiente.
+
+(Artículo reformado mediante Resolución RPC-SE-10-No.028-2022, de 27 de julio de 2022)
+
+Artículo 107.- Oferta y ejecución de carreras y programas de educación superior.- Las IES no
+podrán interrumpir la ejecución de una carrera o programa sin la aprobación o autorización
+respectiva.
+
+El órgano rector de la política pública de educación superior, en coordinación con el CES, serán los
+organismos encargados de verificar que la oferta académica que imparten las IES sea acorde con la
+planificación académica prevista.
+
+En caso de incumplimiento de lo dispuesto en el presente artículo, el órgano rector de la política
+pública de educación superior emitirá el informe correspondiente y notificará al CACES y al CES para
+que se inicien las acciones legales correspondientes.
+
+Artículo 108.- Oferta y ejecución de carreras y programas de educación superior de IES
+extranjeras.- Las IES extranjeras no podrán ofertar ni desarrollar cursos, carreras o programas de
+forma autónoma en el país; únicamente podrán hacerlo en convenio con una IES nacional y previa
+autorización del CES.
+
+El incumplimiento de estas disposiciones será objeto del procedimiento respectivo por parte del CES,
+sin perjuicio de las acciones legales a que hubiere lugar.
+
+Artículo 109.- Títulos obtenidos en carreras y programas académicos que no cuenten con la
+aprobación del CES.- Los títulos nacionales que no se ajusten a lo dispuesto en la normativa,
+obtenidos en carreras o programas que no cuenten con la aprobación del CES para su oferta o
+ejecución, no serán reconocidos como válidos, ni registrados en el SNIESE.
+
+                                                        CAPÍTULO II
+                         AJUSTE CURRICULAR Y CAMBIO DE PLANTA ACADÉMICA
+
+Artículo 110.- Ajuste curricular.- El ajuste curricular es la modificación del currículo de una carrera
+o programa, que puede ser sustantivo o no sustantivo.
+
+                                   Página 28 de 39
+
+Alpallana E6-113 y Francisco Flor
+                                  REPÚBLICA DEL ECUADOR
+                          CONSEJO DE EDUCACIÓN SUPERIOR
+
+Un ajuste curricular es sustantivo cuando modifica perfil de egreso, tiempo de duración medido en
+créditos o períodos académicos, según corresponda, denominación de la carrera o programa, o
+denominación de la titulación. En tanto que, la modificación del resto de elementos del currículo es
+de carácter no sustantivo.
+
+Las IES podrán realizar ajustes curriculares no sustantivos en ejercicio de su autonomía responsable,
+según sus procedimientos internos establecidos, los cuales deberán ser notificados oportunamente
+al CES para su registro.
+
+Las IES podrán ejecutar los cambios no sustantivos una vez aprobados por sus instancias internas,
+sin perjuicio de que el CES notifique al órgano rector de la política pública de educación superior los
+cambios realizados, para que sean actualizados en el SNIESE de ser caso.
+
+Cuando las IES requieran realizar ajustes curriculares sustantivos deberán contar con la autorización
+del CES. Este procedimiento tendrá una duración igual al establecido para la aprobación de carreras
+y programas, siguiendo el mismo procedimiento previsto en el artículo 99. El CES notificará al órgano
+rector de la política pública de educación superior los cambios realizados, para que sean registrados
+en el SNIESE, en un término máximo de tres (3) días.
+
+Artículo 111.- Ampliación de oferta académica.- Las IES podrán ampliar la oferta académica
+aprobada de una carrera o programa en sus sedes o extensiones distintas al lugar establecido en la
+Resolución de aprobación, lo cual deberá ser notificado al CES con al menos treinta (30) días de
+anticipación al inicio de sus actividades académicas, conjuntamente con un estudio de pertinencia
+elaborado por la IES, del lugar donde se va a ejecutar la carrera o programa, para el registro
+correspondiente.
+
+Se exceptúa de la presentación del referido informe de pertinencia a los institutos superiores
+públicos adscritos al órgano rector de la política pública de educación superior.
+
+Artículo 112.- Cambio de planta académica.- Las IES, en las carreras y programas vigentes
+aprobados por el CES, en ejercicio de su autonomía responsable, podrán hacer cambios en su planta
+docente siempre y cuando cumpla con el perfil adecuado.
+
+                                                        TÍTULO XIII
+                             RÉGIMEN ACADÉMICO EN EL CAMPO DE LA SALUD
+
+                                                        CAPÍTULO I
+                            PERÍODOS ACADÉMICOS Y NIVELES DE FORMACIÓN
+
+Artículo 113.- Período académico ordinario (PAO).- Las IES implementarán al menos dos (2)
+períodos académicos ordinarios al año, en el rango establecido entre dieciséis (16) a veinte (20)
+semanas de duración cada uno, que incluyan la evaluación, excepto la correspondiente a
+recuperación. Un período académico ordinario durará entre ochocientas (800) y mil (1000) horas,
+considerando que un estudiante tiempo completo dedicará hasta cincuenta (50) horas por semana a
+las diferentes actividades de aprendizaje, en la modalidad presencial. Las horas semanales en
+actividades teóricas en contacto con el docente estarán entre 20 a 30 horas semanales. Las horas
+restantes, hasta completar las 50, se distribuirán entre los componentes de aprendizaje práctico
+experimental y autónomo.
+
+Las 800 horas por PAO resultan de multiplicar 16 semanas por una dedicación de 50 horas por
+semana de un estudiante a tiempo completo, así como 1000 horas por PAO resulta de multiplicar 20
+semanas por la misma dedicación de 50 horas. Considerando la equivalencia de 48 horas igual a 1
+crédito, establecida en el artículo 9 de este Reglamento, significa por tanto que un PAO de 800 horas
+equivale a 16,67 créditos y uno de 1000 horas equivale a 20,83 créditos.
+
+Artículo 114.- Período académico extraordinario.- Las IES podrán implementar, adicionalmente,
+períodos académicos extraordinarios de mínimo cuatro (4) semanas.
+
+                                   Página 29 de 39
+
+Alpallana E6-113 y Francisco Flor
+       REPÚBLICA DEL ECUADOR
+CONSEJO DE EDUCACIÓN SUPERIOR
+
+En este período extraordinario se podrá contratar al personal académico y administrativo que se
+requiera según la planificación de las IES.
+
+Los períodos académicos extraordinarios no podrán ser implementados para adelantar la titulación
+de los estudiantes.
+
+Artículo 115.- Distribución de las actividades de aprendizaje en la Especialización en el campo
+del conocimiento específico de la salud.- La especialización en el campo del conocimiento
+específico de la salud proporciona formación al más alto nivel de destreza cognitiva, científica
+profesional y humanísticas de acuerdo con los diferentes ámbitos específicos de diagnóstico,
+prevención, tratamiento, rehabilitación y recuperación individual o colectiva, y reinserción social
+definidos en el campo del conocimiento específico de la salud.
+
+La distribución del tipo de actividades por horas y/o créditos de los programas de especializaciones
+del campo de la salud, se planificará de acuerdo a la siguiente organización:
+
+a) Especializaciones médicas.- En las especializaciones en medicina, por cada hora de aprendizaje
+
+    teórico en contacto con el docente, se planificarán de uno punto cinco (1.5) a dos (2) horas para
+    los otros componentes;
+
+b) Especializaciones odontológicas.- En las especializaciones en odontología, por cada hora de
+
+    aprendizaje teórico en contacto con el docente, se planificarán de uno punto cinco (1.5) a dos (2)
+    horas para los otros componentes ; y,
+
+c) Especializaciones en enfermería.- En las especializaciones en enfermería, por cada hora de
+
+    aprendizaje teórico en contacto con el docente, se planificarán de uno punto cinco (1.5) a dos (2)
+    horas para los otros componentes.
+
+La distribución de las actividades de aprendizaje de las especializaciones en otros campos de la salud,
+se planificarán en función de la naturaleza del proyecto académico y de la autonomía responsable de
+cada institución de educación superior, en observancia de este artículo.
+
+Artículo 116.- Matrícula por internado rotativo.- En el caso de las carreras del campo específico
+de la salud que requieran internado rotativo, la matrícula correspondiente a esta etapa de formación,
+será anual.
+
+                                 CAPÍTULO II
+                         NIVELES DE FORMACIÓN
+
+Artículo 117.- Duración de las carreras de tercer nivel.- Las carreras del campo de la salud en
+tercer nivel se planificarán de acuerdo con la siguiente organización:
+
+  Tercer nivel Técnico-        Técnico Superior                Duración en PAO
+  Tecnológico Superior       Técnico Superior en      (No incluye internado rotativo)
+
+Tercer nivel de Grado              Enfermería                             3
+                            Tecnológico Superior                          4
+                            Tecnológico Superior                          4
+                                                                         5-6
+                                  Universitario                           7
+                                                                          7
+                         Licenciatura en Enfermería
+                                                                         8-9
+                             Nutrición y Dietética
+                              Licenciaturas como                          8
+                           fisioterapia, optometría,
+                         fonoaudiología, laboratorio                      10
+                                                                          10
+                                   clínico, etc.
+
+                                   Obstetricia
+
+                                  Odontología
+                              Medicina Humana
+
+                                                            Página 30 de 39
+
+                         Alpallana E6-113 y Francisco Flor
+       REPÚBLICA DEL ECUADOR
+CONSEJO DE EDUCACIÓN SUPERIOR
+
+Para la carrera de Licenciatura en Enfermería, el Internado Rotativo es de 52 semanas adicionales a
+los PAO (40 horas por semana), es decir, 2.080 horas que tienen equivalencia a 43,33 créditos (20%
+docentes, 80% asistenciales con tutoría).
+
+Para la carrera de Nutrición y Dietética, el Internado Rotativo es de 52 semanas adicionales a los PAO
+(40 horas por semana), es decir, 2.080 horas que tienen equivalencia a 43,33 créditos (40% docentes,
+60% asistenciales con tutoría).
+
+Para la carrera de Obstetricia, el Internado Rotativo es de 52 semanas adicionales a los PAO (80 horas
+por semana), de las cuales obligatoriamente 10 semanas corresponderán a salud comunitaria. Las
+4.160 horas de internado rotativo tendrán equivalencia en 86,67 créditos (20 % docentes, 80%
+asistenciales con tutoría).
+
+Para la carrera de Medicina Humana, el Internado Rotativo es de 52 semanas adicionales a los PAO
+(80 horas por semana), de las cuales obligatoriamente 10 semanas corresponderán a medicina
+comunitaria. Las 4.160 horas de internado rotativo tendrán equivalencia en 86,67 créditos (20 %
+docentes, 80% asistenciales con tutoría).
+
+La organización curricular será definida en función de la carrera y de la autonomía responsable de
+cada institución de educación superior.
+
+Artículo 118.- Duración de los programas de cuarto nivel.- Las especializaciones del campo de la
+salud se planificarán de acuerdo a la siguiente organización:
+
+a) Especializaciones médicas.- La carga horaria de las especializaciones en medicina será de cuatro
+    mil (4000) horas anuales distribuidas en al menos cincuenta (50) semanas con una dedicación
+    promedio de ochenta (80) horas semanales, fraccionadas en un ochenta por ciento (80%), es
+    decir, sesenta y cuatro (64) horas para actividades asistenciales; y, veinte por ciento (20%), es
+    decir, dieciséis (16) horas, para actividades docentes y académicas. La Norma Técnica para
+    Unidades Asistenciales Docentes, establece las jornadas en función de las particularidades de la
+    carga horaria de cada programa de especialización médica;
+
+b) Especializaciones odontológicas.- La carga horaria de las especializaciones en odontología será
+    de mil doscientas (1200) horas anuales, distribuidas en al menos cuarenta (40) semanas
+    fraccionadas en un cincuenta por ciento (50%) en actividades asistenciales (clínica) y en un
+    cincuenta por ciento (50%) en actividades del componente de docencia y otros componentes
+    (componente de prácticas de aplicación y experimentación de los aprendizajes, y componente de
+    aprendizaje autónomo). La carga horaria del programa podrá ajustarse hasta el cinco por ciento
+    (5%) del total de horas anuales. Se exceptúa de esta disposición a la especialización de Cirugía
+    Maxilofacial, la cual deberá cumplir con lo dispuesto para las especializaciones médicas; y,
+
+c) Especializaciones en enfermería.- La carga horaria de las especializaciones en enfermería será de
+    al menos mil doscientas (1200) horas anuales, distribuidas en cuarenta (40) semanas
+    fraccionadas cincuenta por ciento (50%) en actividades asistenciales (clínica) y en un cincuenta
+    por ciento (50%) en actividades del componente de docencia y otros componentes (componente
+    de prácticas de aplicación y experimentación de los aprendizajes).
+
+Las especializaciones en otros campos de la salud se planificarán en función de la naturaleza del
+proyecto académico y de la autonomía responsable de cada institución de educación superior, en
+observancia de este Reglamento.
+
+Artículo 119.- Proyectos académicos que no cuentan con itinerarios académicos.- Los
+proyectos académicos de tercer nivel y especializaciones en el campo de la salud, no podrán contar
+con itinerarios académicos.
+
+            CAPÍTULO III
+ACTIVIDADES DE APRENDIZAJE
+
+Artículo 120.- Prácticas de externado.- Las prácticas de externado en las carreras de tercer nivel
+de grado del campo de la salud son actividades de aprendizaje orientadas a la aplicación de
+conocimientos y/o al desarrollo de competencias profesionales. Estas prácticas se realizarán en
+
+                                   Página 31 de 39
+
+Alpallana E6-113 y Francisco Flor
+       REPÚBLICA DEL ECUADOR
+CONSEJO DE EDUCACIÓN SUPERIOR
+
+entornos organizacionales, institucionales, empresariales, hospitalarios, comunitarios u otros
+relacionados a los ámbitos profesionales de cada carrera, que pueden ser públicos o privados,
+nacionales o internacionales.
+
+La Autoridad Sanitaria Nacional definirá las carreras que realizarán las prácticas de externado y las
+normas que rigen el desarrollo de estas prácticas en los establecimientos del Sistema Nacional de
+Salud.
+
+Artículo 121.- Prácticas preprofesionales.- Las prácticas preprofesionales de las carreras de
+tercer nivel de grado del campo de la salud son de dos tipos:
+
+a) Prácticas preprofesionales para las carreras del campo de la salud que cuenten con internado
+    rotativo y que se realizan en los últimos períodos académicos: La Autoridad Sanitaria Nacional
+    definirá las normas que rigen el desarrollo de estas prácticas.
+
+b) Prácticas preprofesionales para carreras del campo de la salud que no cuentan con internado
+    rotativo: Estas prácticas podrán realizarse, de forma continua o no; mediante planes, programas
+    y/o proyectos cuyo alcance será definido por la IES. Cada carrera asignará, al menos 400 horas
+    para prácticas preprofesionales.
+
+Las prácticas preprofesionales deberán ser coherentes con los resultados de aprendizaje y el perfil
+de egreso de las carreras; y, podrán ser registradas y evaluadas según los mecanismos y
+requerimientos que establezca cada IES.
+
+El internado rotativo puede realizarse tanto en el sector público como privado, con el estipendio y
+las condiciones que se establezcan de conformidad con la normativa aplicable e incluirá la afiliación
+del estudiante al Instituto Ecuatoriano de Seguridad Social; sin modificar el carácter y los efectos
+académicos de las mismas.
+
+Las prácticas preprofesionales no originan relación laboral, ni generan derechos ni obligaciones
+laborales.
+
+Artículo 122.- Prácticas de servicio comunitario.- Las prácticas de servicio comunitario de las
+carreras de tercer nivel de grado en el campo de la salud tienen como naturaleza la atención a
+personas, grupos o contextos de vulnerabilidad y pueden desarrollarse dentro de las prácticas de
+externado y/o en las prácticas preprofesionales. Cada carrera asignará al menos 96 horas para
+prácticas de servicio comunitario.
+
+Artículo 123.- Prácticas de posgrado o actividades asistenciales.- Las prácticas de posgrado o
+actividades asistenciales en las especializaciones del campo de la salud, son una estrategia educativa
+planificada y organizada desde una IES para realizarse tanto en establecimientos de salud, como en
+Unidades Asistenciales Docentes (UAD), que busca integrar la formación académica con la prestación
+de servicios de salud con el propósito de fortalecer y generar competencias y capacidades en los
+estudiantes de posgrado y docentes de los programas de formación en salud.
+
+Las prácticas de posgrado o actividades asistenciales en las especializaciones del campo de la salud
+deben incluir un programa de delegación progresiva de funciones y responsabilidades a los
+estudiantes de posgrado de acuerdo con los avances teórico-prácticos del estudiante en cada período
+académico, bajo la supervisión del docente o del tutor y del personal asistencial responsable del
+servicio.
+
+Artículo 124.- Duración de las prácticas de posgrado o actividades asistenciales.- La duración
+de las prácticas de posgrado o actividades asistenciales de los programas de especializaciones del
+campo de la salud, se planificará de acuerdo a lo siguiente:
+
+a) Especializaciones médicas.- La duración de las prácticas de posgrado o actividades asistenciales
+   en medicina corresponderá a lo establecido en la Norma Técnica para Unidades Asistenciales
+   Docentes;
+
+b) Especializaciones odontológicas.- La duración de las prácticas de posgrado o actividades
+   asistenciales dependerá de la naturaleza de cada especialización en odontología; y,
+
+                                   Página 32 de 39
+
+Alpallana E6-113 y Francisco Flor
+                                  REPÚBLICA DEL ECUADOR
+                          CONSEJO DE EDUCACIÓN SUPERIOR
+
+c) Especializaciones en enfermería.- La duración de las prácticas de posgrado o actividades
+   asistenciales en enfermería dependerá de la naturaleza de cada especialización.
+
+La duración de las prácticas de posgrado o actividades asistenciales de los programas de
+especializaciones en otros campos de la salud, se planificará en función de la naturaleza del proyecto
+académico, en función de la autonomía responsable de cada IES.
+
+Artículo 125.- Elaboración del proyecto de carreras y programas.- Las IES, en ejercicio de su
+autonomía responsable podrán estructurar sus proyectos de carreras y programas en el marco de las
+disposiciones de este Reglamento y demás normativa aplicable.
+
+Las IES que cuenten con el estatus de “acreditadas” o con un aval emitido por el CACES podrán ofertar
+carreras o programas en el campo de la salud.
+
+Las IES deben garantizar en su proyecto académico, el número suficiente de docentes o tutores de la
+relación asistencial docente, necesario para la realización de las prácticas de grado y posgrado, según
+lo dispuesto en la Norma Técnica para Unidades Asistenciales Docentes.
+
+                                                       CAPÍTULO IV
+   ADMISIÓN Y SELECCIÓN A PROGRAMAS DE ESPECIALIZACIÓN EN CIENCIAS DE LA SALUD
+
+                                                         SECCIÓN I
+                                                PROCESO DE ADMISIÓN
+
+Artículo 126.- Ingreso.- El ingreso a un programa de especialización en el campo de la salud, se
+realizará de manera transparente por medio de un proceso riguroso de admisión a base de méritos
+y oposición, definido por cada Institución Educación Superior, en ejercicio de su autonomía
+responsable, el cual estará definido en su normativa interna.
+
+Artículo 127.- Requisitos de postulación.- Los postulantes deberán cumplir con los siguientes
+requisitos:
+
+a) Presentar la cédula de ciudadanía para los postulantes nacionales; y, para los postulantes
+    extranjeros, la cédula de identidad o pasaporte;
+
+b) Ser profesional en el campo del conocimiento específico de la salud con título detercer nivel de
+    grado nacional o extranjero registrado en el Sistema Nacional de Información de Educación
+    Superior del Ecuador (SNIESE) y ante la Autoridad Sanitaria Nacional a través de Agencia de
+    Aseguramiento de la Calidad de los Servicios de Salud y Medicina Prepagada -ACESS- o quien
+    haga sus veces;
+
+c) Haber aprobado el examen de habilitación profesional del CACES, en el caso que corresponda;
+d) Nivel de dominio de lengua diferente a la materna conforme lo establezca la institución de
+
+    educación superior; y,
+e) Los demás requisitos que en función de la malla curricular y su pertinencia solicite la
+
+    institución de educación superior.
+
+Para el caso de las sub especializaciones, se solicitará también la documentación respectiva con la
+que acrediten el cumplimiento de este requisito.
+
+                                                         SECCIÓN II
+                                               PROCESO DE SELECCIÓN
+
+Artículo 128.- Parámetros de evaluación.- La evaluación y calificación del postulante se efectuará
+teniendo en cuenta la valoración de méritos (expediente académico y publicaciones)
+correspondiente a treinta (30) puntos; y, la valoración de oposición (mecanismo implementado por
+la institución de educación superior) correspondiente a setenta (70) puntos.
+
+                                   Página 33 de 39
+
+Alpallana E6-113 y Francisco Flor
+                                  REPÚBLICA DEL ECUADOR
+                          CONSEJO DE EDUCACIÓN SUPERIOR
+
+Artículo 129.- Requisitos para la valoración de méritos.- Adicionalmente a los requisitos de
+postulación, se podrá presentar copias originales, notarizadas o la referencia al link de acceso a la
+fuente, de los siguientes documentos:
+
+a) Publicaciones realizadas como autor principal o coautor en revistas indexadas y/o cartas de
+    aceptación de publicación en revistas indexadas sobre obras como autor principal o coautor, con
+    las especificidades sobre el volumen y número de la publicación, con su respectivo Número
+    Internacional Normalizado de Publicaciones Seriadas (ISSN);
+
+b) Publicación de libros o capítulos de libros de temas afines a la carrera, con su respectivo Número
+    Internacional Normalizado del Libro (ISBN);
+
+c) Certificados de becas obtenidas y cumplidas y de participación en proyectos de investigación,
+    docencia y premios académicos;
+
+d) Certificado de cumplimiento de la devengación de beca o compensación emitido por la institución
+    que financió la beca, de ser el caso; y,
+
+e) Certificado del indicador de mérito de graduación otorgado por la institución de educación
+    superior a la que se realiza la postulación.
+
+Artículo 130.- Valoración de méritos.- Para la valoración de méritos se aplicará los parámetros
+sobre un total de treinta (30) puntos, misma que deberá estar establecidos en la normativa interna
+de cada IES y en la convocatoria al respectivo concurso de méritos y oposición y con los siguientes
+criterios referenciales.
+
+Calificaciones de nivel de grado:
+
+a) Publicaciones y/o cartas de aceptación de publicación de revistas indexadas;
+b) Estudios de posgrado; y,
+c) Mérito de grado.
+
+Artículo 131.- Medidas de acción afirmativa.- En la valoración del concurso se aplicarán medidas
+de acción afirmativa para que los sectores históricamente discriminados participen en igualdad de
+oportunidades. Cada condición personal, debidamente certificada por la institución correspondiente,
+será calificada con cero coma veinticinco (0,25) puntos, acumulables hasta un (1) punto, sin que esta
+puntuación exceda la calificación total de esta valoración.
+
+Artículo 132.- Director o coordinador académico de los programas.- Cada programa de
+especialización en ciencias de la salud deberá contar con un director o coordinador académico
+responsable.
+
+                                                        SECCIÓN III
+                                                COMITÉ DE SELECCIÓN
+
+Artículo 133.- Conformación del Comité de Selección.- Las IES deberán conformar un Comité de
+Selección para la admisión de los postulantes, mismo que deberá estar contemplado en la normativa
+interna que se expida para el efecto, en ejercicio de su autonomía responsable.
+
+Artículo 134.- Funciones del Comité de Selección.- Son funciones del Comité de Selección, las
+siguientes:
+
+a) Organizar y supervisar el desarrollo del proceso de selección;
+b) Revisar y evaluar los expedientes de los postulantes;
+c) Calificar la validez y autenticidad de los documentos presentados por los postulantes;
+d) Suscribir las actas y publicar los resultados del proceso de selección; y,
+e) Emitir un informe de presunción de irregularidades, en caso de que hubiere y remitirlo a la
+
+    máxima autoridad de la IES para el trámite correspondiente.
+
+Artículo 135.- Reglas generales para la toma de decisiones del Comité de Selección.- Las
+decisiones del Comité de Selección se sujetarán a las siguientes reglas:
+
+                                   Página 34 de 39
+
+Alpallana E6-113 y Francisco Flor
+                                  REPÚBLICA DEL ECUADOR
+                          CONSEJO DE EDUCACIÓN SUPERIOR
+
+a) Una vez que se obtengan los resultados del proceso de selección, se redactará un acta final, en la
+    que se establecerá el orden de resultados de mayor a menor, tomando en consideración las
+    centésimas de las calificaciones de los postulantes por especializaciones;
+
+b) Los resultados serán publicados en un lugar visible de la institución de educación superior, sede
+    del programa de estudios, y en su página web;
+
+c) En caso de que dos (2) o más postulantes obtengan la misma calificación del último cupo,
+    ingresará el postulante con el indicador de mérito de graduación más alto;
+
+d) Las plazas vacantes de cada una de las especializaciones serán cubiertas por los postulantes
+    admitidos en estricto orden de prelación;
+
+e) Si el postulante no se presenta a la fecha y hora señalada por la institución de educación superior,
+    para elegir la plaza vacante, ésta será ocupada por el que le sigue en dicho orden;
+
+f) Está prohibido el cambio de especialización; y,
+g) Los casos no previstos en este Reglamento, serán resueltos por el Comité de Selección.
+
+Artículo 136.- Impugnación.- Los postulantes podrán impugnar los resultados del proceso de
+admisión y selección dentro del término de tres (3) días contados a partir de la notificación de los
+resultados. Cada IES deberá aprobar, en su normativa interna, el procedimiento de impugnación,
+mismo que deberá ser puesto en conocimiento de los postulantes.
+
+La decisión del órgano correspondiente respecto a la impugnación será definitiva e inapelable.
+
+                                                        CAPÍTULO V
+     ÓRGANOS ASESORES EN MATERIA DE ESPECIALIZACIONES EN CIENCIAS DE LA SALUD
+
+                                                         SECCIÓN I
+              COMISIÓN NACIONAL DE ESPECIALIZACIONES EN CIENCIAS DE LA SALUD
+
+Artículo 137.- Comisión Nacional de Especializaciones en Ciencias de la Salud.- La Comisión
+Nacional de Especializaciones en Ciencias de la Salud es el órgano asesor del CES en materia de
+especializaciones en el campo de la salud, mismo que funcionará cuando el CES lo requiera.
+
+Artículo 138.- Conformación de la Comisión Nacional de Especializaciones en Ciencias de la
+Salud.- La Comisión Nacional de Especializaciones en Ciencias de la Salud, estará integrada por:
+
+a) Un Consejero del CES, delegado por el Pleno, quien la presidirá;
+b) El Ministro de Salud Pública o su delegado;
+c) Un Consejero del CACES designado por el Pleno, o su delegado;
+d) El representante del Comité de Especializaciones en Ciencias de la Salud, de existir;
+e) Un representante de las Unidades de Asistencia Docente públicas y particulares, elegido de entre
+
+    ellas; y,
+f) Un representante de las instituciones de educación superior públicas y particulares, que oferten
+
+    programas de posgrado en ciencias de la salud, elegido de entre ellas.
+
+Los miembros de la Comisión Nacional de Especializaciones en Ciencias de la Salud, deberán contar
+con título de cuarto nivel, con excepción de los delegados definidos en los literales a), b) y c).
+
+                                                         SECCIÓN II
+                      COMITÉS DE ESPECIALIZACIONES EN CIENCIAS DE LA SALUD
+
+Artículo 139.- Comités de Especializaciones en Ciencias de la Salud.- Los Comités de
+Especializaciones en Ciencias de la Salud son órganos consultivos del CES en materia de
+especializaciones en el campo de la salud.
+
+Artículo 140.- Conformación.- Se podrá conformar un comité para cada grupo de las
+especializaciones en el campo de la salud, con el fin de asesorar al CES en aspectos relacionados con
+el análisis y aprobación de proyectos de programas de especializaciones en ciencias de la salud
+elaborados y presentados por las instituciones de educación superior, los mismos que estarán
+integrados por:
+
+                                   Página 35 de 39
+
+Alpallana E6-113 y Francisco Flor
+                                  REPÚBLICA DEL ECUADOR
+                          CONSEJO DE EDUCACIÓN SUPERIOR
+
+a) Un delegado del CES, quien lo presidirá;
+b) Un especialista en un campo de salud afín al proyecto de programa de especialización presentado
+
+    al CES, de preferencia con experiencia en docencia de posgrado, propuesto por el Ministerio de
+    Salud Pública;
+c) Un especialista en un campo de salud afín al proyecto de programa de especialización presentado
+    al CES, propuesto por las sociedades científicas de la especialización que corresponda; y,
+d) Un especialista en un campo de salud afín al proyecto de programa de especialización presentado
+    al CES, delegado por la Asamblea del Sistema de Educación Superior.
+
+Los miembros de los comités, excepto el delegado del CES, deberán poseer el título de especialista
+afín al proyecto de programa de especialización presentado al CES.
+
+Ninguno deberá tener conflicto de intereses con la universidad o escuela politécnica proponente del
+programa.
+
+Artículo 141.- Funciones de los Comités.- Son funciones y atribuciones de los Comités:
+
+a) Proponer a la Autoridad Sanitaria, en coordinación con las IES, el perfil profesional del
+    especialista en el campo de la salud;
+
+b) Elaborar informes de asesoría académica no vinculantes para los procesos de aprobación de
+    proyectos de programas de especializaciones a petición del CES, para su aprobación; y,
+
+c) Las demás actividades de asesoría técnica académica que solicite el CES en el proceso de
+    aprobación de los programas de las especializaciones.
+
+                                             DISPOSICIONES GENERALES
+
+DISPOSICIÓN GENERAL PRIMERA.- Las instituciones de educación superior (IES) incentivarán
+políticas institucionales para promover el acceso abierto a la producción científica y académica,
+preservando los derechos de autor; las mismas deberán constar en los planes institucionales.
+
+DISPOSICIÓN GENERAL SEGUNDA.- Los estudiantes que no hayan podido titularse en los tiempos
+establecidos para el efecto, podrán continuar sus estudios acogiéndose a los mecanismos de
+reconocimiento y homologación de asignaturas, cursos o sus equivalentes, según corresponda, en los
+plazos y términos establecidos en la norma.
+
+DISPOSICIÓN GENERAL TERCERA.- Un estudiante podrá cursar dos carreras de manera simultánea
+dentro de la misma IES, siempre y cuando la modalidad de estudios y el horario lo permita.
+
+Las asignaturas, cursos o equivalentes que sirvan para cumplir requisitos de la segunda carrera
+podrán ser homologados bajo los mecanismos de homologación determinados en este Reglamento.
+
+En el caso de las IES públicas, no aplicará la gratuidad por concepto de matrícula y aranceles
+correspondientes a las asignaturas, cursos o equivalentes que sean exclusivos de la segunda carrera.
+
+DISPOSICIÓN GENERAL CUARTA.- Las IES podrán mantener para los estudiantes que se encuentren
+cursando las mallas vigentes, el proceso de titulación de conformidad a la norma vigente al momento
+de iniciar sus estudios.
+
+DISPOSICIÓN GENERAL QUINTA.- Las IES que realicen ajustes sustantivos a su oferta académica
+deberán implementar un proceso de transición para incorporar a sus estudiantes actuales a las
+mallas curriculares actualizadas conforme este Reglamento, siempre y cuando no se afecten los
+derechos de los estudiantes.
+
+Este proceso garantizará lo siguiente:
+
+a) Los derechos de los estudiantes a no extender la duración de sus estudios ni incurrir en costos
+    adicionales;
+
+b) Abarcará todas las mallas curriculares anteriores de las carreras y programas modificadas;
+
+                                   Página 36 de 39
+
+Alpallana E6-113 y Francisco Flor
+       REPÚBLICA DEL ECUADOR
+CONSEJO DE EDUCACIÓN SUPERIOR
+
+c) Proceder de forma planificada, transparente y sistemática, cuidando el rigor académico y la
+    preservación de la calidad; y,
+
+d) Posibilitar la transición de los ajustes para que las IES, en el marco de su autonomía responsable,
+    apliquen mecanismos o procedimientos transparentes y flexibles de homologación y análisis de
+    contenidos que reconozcan las horas y/o créditos cursados por lo estudiantes en las mallas
+    curriculares anteriores.
+
+DISPOSICIÓN GENERAL SEXTA.- En el caso de las IES que no cuenten con el estatus de “acreditada”,
+el informe académico para aprobación de carreras y programas o ajustes curriculares será realizado
+por la unidad correspondiente del Consejo de Educación Superior (CES), al igual que la revisión de
+requisitos y documentación de respaldo presentada por la IES, para lo cual tendrá un término de
+veinticinco (25) días, posterior a lo cual se continuará con el procedimiento previsto en el artículo 99
+de este Reglamento.
+
+Las IES que no cuenten con el estatus de “acreditada”, podrán solicitar el aval correspondiente al
+Consejo de Aseguramiento de la Calidad de la Educación Superior (CACES), para que sus solicitudes
+de aprobación de carreras y programas se acojan a lo previsto en el literal a) del artículo 96 y al literal
+a) del artículo 99 del presente Reglamento. El CACES deberá tramitar la solicitud, según la normativa
+que expida para el efecto, en el término máximo de treinta (30) días.
+
+Además, a través de este aval, las IES de reciente creación, que no hayan finalizado un proceso de
+acreditación, podrán presentar al CES, propuestas curriculares experimentales e innovadoras de
+carreras o programas conforme este Reglamento, así como presentar proyectos de oferta académica
+en el campo de la salud.
+
+El aval tendrá vigencia hasta que el CACES finalice el siguiente proceso de acreditación
+correspondiente.
+
+(Disposición reformada mediante Resolución RPC-SE-10-No.028-2022, de 27 de julio de 2022)
+
+DISPOSICIÓN GENERAL SÉPTIMA.- En el caso de las IES que no cuentan con el estatus de
+“acreditada”, incluidas las de reciente creación, sus programas se aprobarán con una vigencia de seis
+(6) años; sus carreras de grado de diez (10) años; y, sus carreras técnicas y tecnológicas de cinco (5)
+años contados desde su aprobación.
+
+En el caso de que estas IES alcancen su acreditación, las carreras y programas vigentes, su vigencia
+se acogerá a lo contemplado en el artículo 103 de este Reglamento.
+
+DISPOSICIÓN GENERAL OCTAVA.- Las IES, en ejercicio de su autonomía responsable, podrán
+organizar sus proyectos en función de horas, créditos o ambos, sin embargo, para la presentación
+ante el CES y para el posterior registro en el Sistema Nacional de la Información de la Educación
+Superior, su organización deberá ser expresada en créditos, según el artículo 9 de este Reglamento.
+
+DISPOSICIONES TRANSITORIAS
+
+DISPOSICIÓN TRANSITORIA PRIMERA.- Las carreras y programas de las instituciones de
+educación superior (IES) acreditadas aprobados hasta la entrada en vigencia del presente
+Reglamento o que están en proceso de aprobación, en caso de ser aprobadas, perderán su vigencia
+en los términos contemplados en este Reglamento.
+
+DISPOSICIÓN TRANSITORIA SEGUNDA.- A partir de la entrada en vigencia del presente
+Reglamento, los proyectos nuevos de carreras y programas que las IES presenten al Consejo de
+Educación Superior (CES) para su aprobación, deberán ajustarse a lo dispuesto en este instrumento
+normativo.
+
+DISPOSICIÓN TRANSITORIA TERCERA.- Las IES, en el plazo máximo de un mes contado a partir de
+la entrada en vigencia del presente Reglamento, podrán solicitar al CES, a través de la unidad técnica
+correspondiente, la devolución de los proyectos de carreras y programas que hayan ingresado en la
+plataforma del CES para su aprobación antes de la entrada en vigencia del presente instrumento para
+
+                                                                                           Página 37 de 39
+
+Alpallana E6-113 y Francisco Flor
+                                  REPÚBLICA DEL ECUADOR
+                          CONSEJO DE EDUCACIÓN SUPERIOR
+
+su actualización. Superado dicho plazo, los proyectos se tramitarán de acuerdo con la normativa
+vigente al momento de su ingreso en la plataforma.
+
+DISPOSICIÓN TRANSITORIA CUARTA.- El CES expedirá la normativa específica para regular el
+régimen académico de las IES interculturales en el término de 120 días contados a partir de la
+entrada en vigencia del presente Reglamento.
+
+DISPOSICIÓN TRANSITORIA QUINTA.- El CES, en el término de 45 días contados a partir de la
+expedición del presente Reglamento, reformará el Reglamento de Armonización de la Nomenclatura
+de Títulos Profesionales y Grados Académicos que confieren las Instituciones de Educación Superior
+del Ecuador, según lo previsto en el artículo 130 de la Ley Orgánica de Educación Superior (LOES).
+
+DISPOSICIÓN TRANSITORIA SEXTA.- El CES, en el término de 45 días contados a partir de la
+expedición del presente Reglamento, reformará la Guía Metodológica para la presentación y
+aprobación de carreras y programas, de conformidad con el artículo 169 de la LOES y las
+disposiciones contenidas en este Reglamento.
+
+Hasta que se expida la referida reforma, se aplicarán las disposiciones de la Guía vigente, en todo lo
+que no se contraponga al presente Reglamento.
+
+DISPOSICIÓN TRANSITORIA SÉPTIMA.- El CES, en el término de 45 días, contados a partir de la
+expedición del presente Reglamento, realizará las adecuaciones necesarias a la Plataforma de
+Presentación y Aprobación de Carreras y Programas de las instituciones de educación superior del
+país.
+
+DISPOSICIÓN TRANSITORIA OCTAVA.- La Secretaría de Educación Superior, Ciencia, Tecnología e
+Innovación adecuará el Sistema Nacional de la Información de la Educación Superior (SNIESE)
+conforme las disposiciones contenidas en presente Reglamento.
+
+DISPOSICIÓN TRANSITORIA NOVENA.- Hasta que se realice la reforma correspondiente al
+Reglamento de Doctorados, los programas doctorales tendrán una duración de mínimo noventa (90)
+y máximo ciento cincuenta (150) créditos.
+
+DISPOSICIÓN TRANSITORIA DÉCIMA.- En el caso de los ecuatorianos que fueron declarados en
+situación de vulnerabilidad y atención prioritaria, en de acuerdo a lo señalado en la Resolución
+0000027, de 25 de febrero de 2022, expedida por el Ministerio de Relaciones Exteriores y Movilidad
+Humana; y, que cumplan con los requisitos determinados en la normativa respectiva para acceder a
+dicha condición; para efectos de movilidad y homologación de sus estudios, de conformidad con lo
+establecido en este Reglamento, no se considerará el puntaje de cohorte para acceder a los niveles
+respectivos, conforme la validación de los conocimientos realizados por cada Institución de
+Educación Superior Pública, en los casos que correspondan. Adicionalmente, no se considerará como
+requisito para la movilidad y homologación el haber cursado dos semestres en la IES de origen.
+
+                                          DISPOSICIONES DEROGATORIAS
+
+DISPOSICIÓN DEROGATORIA PRIMERA.- Se deroga el Reglamento de Régimen Académico,
+aprobado mediante Resolución RPC-SO-08-No.111-2019, de 27 de febrero de 2019 y sus posteriores
+reformas; así como todas las normas de igual o inferior jerarquía contrarias al contenido del presente
+instrumento normativo.
+
+DISPOSICIÓN DEROGATORIA SEGUNDA.- Se deroga la Norma Técnica para la Formación de
+Especializaciones en el Campo de la Salud, aprobada mediante Resolución RPC-SO-02-No.006-2019
+de 16 de enero de 2019 en todo lo que se contraponga al presente Reglamento; así como todas las
+Resoluciones expedidas por el Consejo de Educación Superior opuestas al presente instrumento.
+
+                                                  DISPOSICIÓN FINAL
+
+ÚNICA.- El presente Reglamento entrará en vigencia en el término de cuarenta y cinco (45) días
+
+                                   Página 38 de 39
+
+Alpallana E6-113 y Francisco Flor
+                                  REPÚBLICA DEL ECUADOR
+                          CONSEJO DE EDUCACIÓN SUPERIOR
+
+contados desde la aprobación del mismo por parte del Pleno del Consejo de Educación Superior
+(CES).
+
+La presente Codificación contiene el Reglamento de Régimen Académico, aprobado en la ciudad de
+Santiago de Guayaquil, a los catorce (14) días del mes de julio de 2022, en la Octava Sesión
+Extraordinaria del Pleno del Consejo de Educación Superior (CES) y reformado mediante Resolución
+RPC-SE-10-No.028-2022, de 27 de julio de 2022.
+
+Codificación dada en la ciudad de San Francisco de Quito, D.M., a los veintisiete (27) días del mes de
+julio de 2022, en la Décima Sesión Extraordinaria del Pleno del CES, del año en curso.
+
+                                  Firmado electrónicamente por:
+
+            ERIK PABLO
+            BELTRAN
+
+Dr. Pablo Beltrán Ayala
+PRESIDENTE
+CONSEJO DE EDUCACIÓN SUPERIOR
+
+                                 Firmado electrónicamente por:
+
+             PAUL EMILIO
+             PRADO
+             CHIRIBOGA
+
+Mgtr. Paul Emilio Prado Chiriboga
+SECRETARIO GENERAL
+CONSEJO DE EDUCACIÓN SUPERIOR
+
+                                   Página 39 de 39
+
+Alpallana E6-113 y Francisco Flor
+
