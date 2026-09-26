@@ -20,7 +20,7 @@ Fecha del análisis: 2026-09-26. Alcance: normativa de educación superior del E
 ## 2. Parámetros de diseño del RRA
 
 - **Créditos:** licenciaturas y títulos profesionales (ingenierías incluidas) van de 120 a 150 créditos (Art. 15). Un crédito equivale a 48 horas (Art. 9), es decir, 5.760 a 7.200 horas.
-- **Períodos:** al menos 2 PAO al año, de 16 semanas mínimo. Cada PAO dura entre 800 y 1.000 horas (Arts. 10 y 113).
+- **Períodos:** al menos 2 períodos académicos al año; un estudiante de tiempo completo dedica en promedio 45 horas semanales, y la IES distribuye las horas de cada período (Art. 10). La regla de PAO de 16 a 20 semanas y de 800 a 1.000 horas (Art. 113) pertenece al régimen del campo de la salud y no aplica a esta carrera. *Corrección del 2026-09-26: una versión previa de este análisis la citaba como regla general.*
 - **Componentes de aprendizaje:** contacto con el docente, autónomo y práctico-experimental (Arts. 22–25). Los laboratorios se suman al componente práctico.
 - **Prácticas preprofesionales:** mínimo 240 horas laborales y 60 horas de servicio comunitario. Ninguna carrera puede pasar del 10 % de sus horas en prácticas (Art. 43).
 - **Itinerarios:** hasta 3, y pueden constar en el título (Art. 16).
