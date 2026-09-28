@@ -98,7 +98,7 @@ const C = [];
 // Portada
 C.push(new Paragraph({ children: [], spacing: { before: 1800 } }));
 C.push(new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: 'UNIVERSIDAD TÉCNICA ESTATAL DE QUEVEDO', font: FONT, size: 28, bold: true, color: COLOR })] }));
-C.push(new Paragraph({ alignment: AlignmentType.CENTER, spacing: { after: 600 }, children: [new TextRun({ text: 'Facultad de Ciencias de la Computación [confirmar unidad proponente]', font: FONT, size: 22, highlight: 'yellow' })] }));
+C.push(new Paragraph({ alignment: AlignmentType.CENTER, spacing: { after: 600 }, children: [new TextRun({ text: 'Facultad de Ciencias de la Ingeniería', font: FONT, size: 22 })] }));
 C.push(new Paragraph({ alignment: AlignmentType.CENTER, spacing: { after: 200 }, children: [new TextRun({ text: 'PROYECTO DE CREACIÓN DE CARRERA', font: FONT, size: 40, bold: true, color: COLOR })] }));
 C.push(new Paragraph({ alignment: AlignmentType.CENTER, spacing: { after: 600 }, children: [new TextRun({ text: 'Ingeniería en Internet de las Cosas', font: FONT, size: 36 })] }));
 C.push(new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: 'Tercer nivel de grado · Modalidad presencial', font: FONT, size: 24 })] }));
@@ -149,13 +149,13 @@ C.push(table(
     ['Denominación', 'Ingeniería en Internet de las Cosas', 'Ver §5.5; verificar Anexo II vigente del RANT'],
     ['Titulación', 'Ingeniero/a en Internet de las Cosas', 'Art. 7 RANT'],
     ['Nivel de formación', 'Tercer nivel de grado', 'Art. 11 RRA'],
-    ['Modalidad', 'Presencial', 'Art. 55 RRA. Carrera con carga de laboratorio. [[Confirmar]]'],
+    ['Modalidad', 'Presencial', 'Art. 55 RRA. Compatible con la carga de laboratorio de la carrera'],
     ['¿Proyecto experimental o innovador?', 'No', 'Solo IES acreditadas pueden presentar proyectos experimentales (Art. 96 RRA)'],
     ['¿Proyecto en red?', 'No', 'Art. 96 RRA'],
-    ['Campo amplio, específico y detallado', '06 Tecnologías de la información y la comunicación (TIC) / 1 Tecnologías de la información y la comunicación / 1 Ciencias computacionales (código 0611). [[Confirmar con el CES]]', 'Anexo I 2023 del RANT. Sustento y alternativa en §5.3'],
+    ['Campo amplio, específico y detallado', '06 Tecnologías de la información y la comunicación (TIC) / 1 Tecnologías de la información y la comunicación / 1 Ciencias computacionales (código 0611)', 'Anexo I 2023 del RANT. Riesgo de reclasificación en 0714 y ruta de consulta al CES: ver §5.3'],
     ['Itinerarios', '2: A) IoT para agroindustria y ambiente; B) IoT industrial y ciudades inteligentes', 'Art. 16 RRA, máximo 3'],
     ['Perfil de ingreso', 'Título de bachiller, con acceso por el sistema de nivelación y admisión', 'Art. 13 RRA. Detalle en §3.2'],
-    ['Perfil de egreso', 'Ocho resultados de aprendizaje', '§3.3'],
+    ['Perfil de egreso', 'Nueve resultados de aprendizaje', '§3.3'],
     ['Segunda lengua', 'Suficiencia de inglés como requisito de titulación, nivel B1 del Marco Común Europeo o equivalente', 'Art. 64 RRA: el nivel mínimo para el tercer nivel de grado es B1'],
     ['Lugar de ejecución', 'Campus Central, Quevedo, Los Ríos', 'Dirección institucional según memorando UTEQ-VICACAD-2026-1787-M'],
     ['Estudiantes por cohorte', '40 estudiantes en 1 paralelo', 'Art. 96 RRA. Debe respaldarse con la capacidad de los laboratorios (§7.1)'],
@@ -185,23 +185,25 @@ C.push(p('**Objetivos específicos.**'));
 
 C.push(h2('3.2 Perfil de ingreso'));
 C.push(p('Título de bachiller o su equivalente y cumplimiento de los requisitos del sistema de acceso, nivelación y admisión de las instituciones públicas (Art. 13 del RRA). Se valoran, sin ser requisito, el razonamiento lógico-matemático, el interés por la tecnología y el gusto por el trabajo experimental.'));
-C.push(p('**Proceso de ingreso en la UTEQ.** Según la página de admisión de la UTEQ para 2026, el aspirante sigue siete fases: registro nacional en la plataforma del Ministerio de Educación (MINEDEC); registro en la UTEQ y elección de carrera; simulador de la evaluación con varios intentos; evaluación de competencias generales y específicas; publicación de la nota de postulación; confirmación o cambio de carrera; y aceptación del cupo en la plataforma del MINEDEC. La nota de postulación combina la nota de bachillerato (50 %) y la de la evaluación (50 %), más un puntaje adicional de acción afirmativa cuando corresponde, con un máximo de 1.000 puntos. La UTEQ evalúa según el Art. 36 del Reglamento de Nivelación y Admisión, y las áreas dependen de la carrera: entre las que publica figuran matemáticas, razonamiento lógico, lengua e inglés. Aplica una política de cupos de acción afirmativa del 5 % en todas las carreras.'));
-C.push(p('**Enfoque de derechos.** El Art. 5 del RRA obliga a las IES a concretar acciones afirmativas hacia los grupos de atención prioritaria (mujeres, pueblos y nacionalidades, personas con discapacidad, entre otros) y a incorporarlas en el plan institucional de igualdad. Para esta carrera se propone fijar una meta de participación de mujeres y prever adecuaciones de laboratorio para estudiantes con discapacidad. [[Sustentar la meta con la matrícula por sexo de las carreras TIC de la UTEQ y definirla con la Unidad de Admisión y el plan de igualdad]]'));
+C.push(p('**Proceso de ingreso en la UTEQ.** El acceso se rige por el Reglamento de Admisión y Nivelación de la UTEQ (versión 1.0, octubre de 2023), dentro del Sistema Nacional de Nivelación y Admisión. Según ese reglamento, la nota de postulación suma la evaluación de capacidades y competencias (30 %) y los antecedentes académicos (70 %), más un puntaje adicional de acción afirmativa (Art. 29); la asignación de cupos sigue un orden de segmentos que empieza por los aspirantes de mayor vulnerabilidad socioeconómica (Art. 35), y la UTEQ garantiza una cuota del 5 % de los cupos para grupos históricamente excluidos (Art. 32). La página de admisión para 2026 describe siete fases (registro nacional en la plataforma del Ministerio de Educación, registro en la UTEQ, simulador de la evaluación, evaluación de competencias generales y específicas, publicación de la nota, confirmación o cambio de carrera y aceptación del cupo) y publica una nota de postulación de 50 % bachillerato y 50 % evaluación, distinta de la del reglamento de 2023. Las áreas evaluadas dependen de la carrera; entre las que publica la UTEQ figuran matemáticas, razonamiento lógico, lengua e inglés.'));
+C.push(p('**Enfoque de derechos.** El Art. 5 del RRA obliga a las IES a concretar acciones afirmativas hacia los grupos de atención prioritaria (mujeres, pueblos y nacionalidades, personas con discapacidad, entre otros) y a incorporarlas en el plan institucional de igualdad. En Los Ríos las mujeres son el 61,7 % de la matrícula universitaria (17.057 de 27.624 en 2023, SENESCYT), pero en el sector tecnológico ecuatoriano solo son el 30 % de los profesionales y el 16 % de las mujeres elige carreras STEM (informe de la UTPL con datos del INEC y ONU Mujeres, según El Diario, abril de 2026). Se propone una meta de participación de mujeres de al menos el 30 % en la primera cohorte (12 de 40 estudiantes), igual a su peso actual entre los profesionales del sector, y del 40 % en la quinta cohorte, con difusión de la carrera en colegios de la zona y tutoría de pares. Se prevén adecuaciones de laboratorio para estudiantes con discapacidad, en línea con la asistencia que el reglamento de titulación ya reconoce en la UTEQ.'));
 C.push(h3('Tipos de bachillerato de los aspirantes'));
-C.push(p('Los aspirantes llegan de trayectorias muy distintas. Según el Ministerio de Educación, el Bachillerato General Unificado tiene tres años y se ofrece en dos opciones principales, más dos bachilleratos complementarios. A ello se suman vías que la página del Ministerio menciona solo por enlace y que hay que considerar por su peso en una universidad pública de la costa.'));
+C.push(p('Los aspirantes llegan de trayectorias muy distintas. Según el Ministerio de Educación, el Bachillerato General Unificado tiene tres años y se ofrece en dos opciones principales, más dos bachilleratos complementarios. A ello se suman otras vías que el Ministerio menciona por separado y que hay que considerar por su peso en una universidad pública de la costa.'));
 C.push(table(
   ['Tipo de bachillerato', 'Rasgos', 'Carga semanal en matemática y física*', 'Brecha probable frente a los prerrequisitos de IoT'],
   [
     ['Bachillerato en Ciencias (BGU)', 'Formación científico-humanística. 40 períodos semanales; en tercer año, 10 horas de asignaturas optativas', 'Matemática 5, 5 y 4 h (1.º, 2.º y 3.º año). Física 3, 3 y 2 h', 'Programación, electrónica y trabajo de laboratorio casi ausentes. La competencia digital es desigual'],
-    ['Bachillerato Técnico (BGU), figuras de la familia Tecnologías: desarrollo de software, redes y telecomunicaciones, seguridad informática, soporte informático, ciencias de datos', '45 períodos semanales; módulos técnicos de 12 h en 1.º y 2.º año y 21 h en 3.º', 'Matemática 3, 3 y 2 h. Física 2 h por año', 'Buen punto de partida en programación y redes. Déficit en matemática y física: unas 8 horas de matemática en los tres años, frente a 14 en Ciencias'],
+    ['Bachillerato Técnico (BGU), figuras de la familia Tecnologías: desarrollo de software, redes y telecomunicaciones, seguridad informática, soporte informático, ciencias de datos', '45 períodos semanales en la malla 2024-2025; desde 2025-2026 en la Sierra y 2026-2027 en la Costa, 21 períodos de formación técnica y 19 de tronco común por curso', 'Malla 2024-2025: matemática 3, 3 y 2 h; física 2 h por año. La reforma recorta el tronco común', 'Buen punto de partida en programación y redes. Déficit en matemática y física: unas 8 horas de matemática en los tres años, frente a 14 en Ciencias, y menos a partir de la reforma'],
     ['Bachillerato Técnico, figuras de la familia Industrial: electrónica, mecatrónica, electromecánica industrial', 'Igual estructura; formación práctica en taller', 'Igual que el anterior', 'Fortaleza en circuitos y taller. Déficit en matemática, física y programación'],
-    ['Bachillerato Técnico, otras familias: agropecuaria, administrativa y financiera, turismo, diseño, construcción', 'Igual estructura', 'Igual que el anterior', 'Déficit en matemática y física, y sin base técnica cercana a IoT'],
+    ['Bachillerato Técnico, otras familias: agropecuaria y ambiente, administrativa y financiera, turismo, diseño, construcción sostenible', 'Igual estructura', 'Igual que el anterior', 'Déficit en matemática y física, y sin base técnica cercana a IoT'],
     ['Bachillerato Técnico Productivo y Complementario en Artes', 'Bachilleratos complementarios que se cursan después del general', 'Depende del bachillerato de origen', 'Igual que el bachillerato de base, con menos práctica científica en el caso de Artes'],
-    ['Otras vías: intercultural bilingüe, escolaridad inconclusa (jóvenes y adultos), currículos internacionales, títulos del extranjero', 'Trayectorias heterogéneas; el Art. 13 del RRA obliga a aceptar títulos extranjeros reconocidos o equiparados por el Ministerio de Educación', 'Variable', 'Muy dispersa: en adultos, tiempo sin estudiar; en intercultural bilingüe, posible brecha de lengua. [[Verificar en el Ministerio si el Bachillerato Internacional aplica a la zona]]'],
+    ['Bachillerato Internacional (BI)', 'Seis grupos de asignaturas, teoría del conocimiento, monografía de 4.000 palabras y proyecto de creatividad, acción y servicio; 45 períodos semanales', 'Matemática y ciencias experimentales obligatorias, en nivel medio o superior', 'Fortaleza en matemática, ciencias e inglés. Falta programación y electrónica. No se encontró un listado oficial de colegios BI en Los Ríos: el Ministerio acreditó 82 colegios públicos en 2014, 56 de ellos de la Sierra, y los privados se concentran en Quito y Guayaquil. Su peso en la zona sería pequeño'],
+    ['Otras vías: intercultural bilingüe, escolaridad inconclusa (jóvenes y adultos), títulos del extranjero', 'Trayectorias heterogéneas; el Art. 13 del RRA obliga a aceptar títulos extranjeros reconocidos o equiparados por el Ministerio de Educación', 'Variable', 'Muy dispersa: en adultos, tiempo sin estudiar; en intercultural bilingüe, posible brecha de lengua'],
   ],
   [2300, 2300, 2100, 2326],
 ));
-C.push(note('* Malla 2024-2025 de la región Sierra-Amazonía publicada por Primicias a partir del Ministerio de Educación. El Acuerdo MINEDUC-2024-00065-A reformó el Bachillerato Técnico desde el año lectivo 2026-2027 de la Costa, con 21 horas técnicas y 19 de tronco común; no se pudo confirmar cuántas horas de matemática y física deja. [[Pedir al Ministerio de Educación la malla vigente en la Costa y los graduados de Los Ríos por tipo de bachillerato y figura profesional (AMIE)]]'));
+C.push(note('* Malla 2024-2025 de la región Sierra-Amazonía publicada por Primicias a partir del Ministerio de Educación. El Acuerdo MINEDEC-MINEDEC-2025-00051-A (16 de octubre de 2025) reformó los acuerdos MINEDUC-2023-00008-A y MINEDUC-2024-00065-A: los cursos de primero y segundo de Bachillerato Técnico pasan a 21 períodos de formación técnica y 19 de tronco común (antes 12 y 28), desde 2025-2026 en la Sierra y 2026-2027 en la Costa. Los primeros egresados con esa malla llegarían a la universidad hacia 2028 y 2029, por lo que la brecha en matemática y física de los bachilleres técnicos crecerá durante los primeros años de la carrera.'));
+C.push(note('**Sobre los graduados de Los Ríos por tipo de bachillerato y figura profesional.** Se revisaron las fuentes abiertas del Ministerio de Educación: el conjunto de datos "Registro Administrativo Histórico" (educacion.gob.ec/datos-abiertos-minedec, corte 2009-2024, descargado y verificado) da, por institución y año, el total de estudiantes promovidos, no promovidos y en abandono, pero sin desagregar por nivel (Inicial, EGB o Bachillerato) ni por tipo de bachillerato o figura profesional; el portal interactivo "Reportes Educativos" (reportes.educacion.gob.ec), que en el pasado permitía ese cruce, no respondió al consultarlo el 28-IX-2026. [[Pedir por oficio a la Dirección Nacional de Análisis e Información Educativa los graduados de Los Ríos por tipo de bachillerato y figura profesional, o reintentar el portal Reportes Educativos cuando esté disponible]]'));
 
 C.push(h3('Conocimientos mínimos que el primer período da por sabidos'));
 C.push(p('Las asignaturas del primer período (cálculo, álgebra, fundamentos de programación, física, comunicación y una introducción a la carrera) suponen:'));
@@ -214,16 +216,16 @@ C.push(p('Las asignaturas del primer período (cálculo, álgebra, fundamentos d
 ].forEach((t) => C.push(bl(t)));
 
 C.push(h3('Propuesta de nivelación específica para la carrera'));
-C.push(p('El curso de nivelación de la UTEQ se dicta en modalidad virtual y busca fortalecer los conocimientos y habilidades básicas de los aspirantes; el Art. 14 del RRA permite a las IES diseñar estrategias de nivelación. Como referencia histórica, la nivelación de la SENESCYT para el área de ingenierías dedicaba 200 horas a matemáticas, 100 a física, 100 a química y 140 a un tronco común. Para IoT se propone reemplazar química, que la carrera no usa, por pensamiento computacional e introducción a la electrónica:'));
+C.push(p('El Reglamento de Admisión y Nivelación de la UTEQ (2023) define el curso de nivelación de carrera como el que articula el perfil de salida de los bachilleres con el perfil de ingreso de cada carrera y homologa conocimientos y destrezas (Art. 43). Los programas analíticos de las asignaturas de nivelación los revisan las coordinaciones de carrera y los aprueban el Consejo Directivo de la Facultad y el Consejo Académico (Art. 47), por lo que una nivelación propia de la carrera cabe en la norma. Se aprueba con al menos 7 puntos en cada asignatura (Art. 53) y la matrícula en el primer nivel se hace en el período inmediato siguiente. La nivelación de la UTEQ se dicta en modalidad virtual, y los períodos académicos de 2026 duran 20 semanas. Como referencia histórica, la nivelación de la SENESCYT para el área de ingenierías dedicaba 200 horas a matemáticas, 100 a física, 100 a química y 140 a un tronco común. Para IoT se propone reemplazar química, que la carrera no usa, por pensamiento computacional e introducción a la electrónica:'));
 C.push(table(
   ['Asignatura de nivelación', 'Horas', 'Contenidos', 'Quiénes la necesitan más'],
   [
     ['N1 Matemática para ingeniería', '120', 'Álgebra, ecuaciones, funciones, trigonometría, geometría analítica y vectores en el plano', 'Bachilleratos Técnicos, Artes, vías especiales'],
     ['N2 Física básica', '80', 'Magnitudes, cinemática, dinámica, energía y electricidad elemental (ley de Ohm)', 'Técnicos no industriales, Artes, vías especiales'],
-    ['N3 Pensamiento computacional y lógica', '80', 'Algoritmos, pseudocódigo, estructuras de control y un primer lenguaje (Python)', 'Ciencias, Técnicos no informáticos'],
+    ['N3 Pensamiento computacional y lógica', '80', 'Algoritmos, pseudocódigo, estructuras de control y un primer lenguaje (Python)', 'Ciencias, Técnicos no informáticos, Bachillerato Internacional'],
     ['N4 Comunicación académica y competencia digital', '60', 'Lectura técnica, redacción, herramientas digitales y vocabulario técnico en inglés', 'Todos; en especial adultos e intercultural bilingüe'],
-    ['N5 Introducción a la electrónica y al IoT', '60', 'Circuitos simples, sensores y un primer proyecto con microcontrolador', 'Ciencias, Técnicos no industriales'],
-    ['Total', '400', '16 semanas a 25 horas semanales, en modalidad virtual con sesiones sincrónicas', ''],
+    ['N5 Introducción a la electrónica y al IoT', '60', 'Circuitos simples, sensores y un primer proyecto con microcontrolador', 'Ciencias, Técnicos no industriales, Bachillerato Internacional'],
+    ['Total', '400', '16 semanas a 25 horas semanales, dentro de un período de 20 semanas, en modalidad virtual con sesiones sincrónicas', ''],
   ],
   [2400, 800, 3626, 2200],
   { aligns: [AlignmentType.LEFT, AlignmentType.CENTER, AlignmentType.LEFT, AlignmentType.LEFT], boldRow: (r) => r[0] === 'Total' },
@@ -232,10 +234,10 @@ C.push(gap());
 C.push(p('**Rutas según un diagnóstico de entrada.** En la primera semana se aplica una prueba diagnóstica de matemática, física y lógica. El aspirante con nota suficiente en un área queda exonerado de esa asignatura y usa las horas en tutorías. Como hipótesis inicial:'));
 [
   '**Ruta A, Bachillerato Técnico de Tecnologías e Industrial:** refuerzo de N1 y N2 con tutorías adicionales; exoneración parcial de N3 y N5.',
-  '**Ruta B, Bachillerato en Ciencias:** exoneración parcial de N1 y N2; refuerzo de N3 y N5.',
+  '**Ruta B, Bachillerato en Ciencias y Bachillerato Internacional:** exoneración parcial de N1 y N2; refuerzo de N3 y N5.',
   '**Ruta C, otros bachilleratos y vías especiales:** las cinco asignaturas, con tutoría personalizada.',
 ].forEach((t) => C.push(bl(t)));
-C.push(note('Esta propuesta es de la carrera. Su aplicación depende de la Unidad de Admisión y Nivelación y del Reglamento de Nivelación y Admisión, que la UTEQ cita en su evaluación de ingreso; los créditos de nivelación no forman parte de los 136 de la malla. La UTEQ no publica la duración ni las asignaturas de su nivelación actual. [[Confirmar con la Unidad de Admisión y Nivelación si puede haber una nivelación por carrera y con qué duración]]'));
+C.push(note('Los créditos de nivelación no forman parte de los 136 de la malla, y la gratuidad cubre la primera matrícula del curso (Art. 44 del reglamento de nivelación). El tiempo, la evaluación diagnóstica y la reasignación entre asignaturas se definirán con la Unidad de Admisión y Nivelación al aprobar los programas analíticos.'));
 
 C.push(h2('3.3 Perfil de egreso'));
 C.push(p('El egresado o egresada logra los siguientes resultados de aprendizaje. La columna de la derecha indica las asignaturas de la malla (§6) que los desarrollan.'));
@@ -245,18 +247,38 @@ C.push(table(
   [900, 5926, 2200],
 ));
 C.push(gap());
-C.push(p('**Campos de desempeño profesional.** Ingeniero o ingeniera de soluciones IoT; arquitecto o arquitecta de soluciones conectadas; desarrollador o desarrolladora de firmware y sistemas embebidos; especialista en redes de sensores y conectividad; analista de datos de dispositivos; consultor o consultora en agricultura de precisión y agroindustria; emprendedor o emprendedora de base tecnológica. [[Contrastar con el estudio de demanda ocupacional del §4.9]]'));
+C.push(h3('Alcance del desarrollo de software en el perfil'));
+C.push(p('Un sistema IoT tiene usuarios que necesitan ver datos y decidir: activar o desactivar un sensor, encender un actuador, cambiar un umbral, recibir una alerta. La pregunta es quién construye esas herramientas. La respuesta de este proyecto es que el ingeniero o ingeniera en IoT sí desarrolla las aplicaciones de monitoreo y mando de sus propios sistemas, pero con un alcance distinto del de un ingeniero de software. Por eso el perfil incluye el resultado RA9 y la asignatura 7.1 se centra en ese tipo de aplicaciones.'));
+C.push(table(
+  ['Aspecto', 'Ingeniería en Software (UTEQ)', 'Ingeniería en Internet de las Cosas (propuesta)'],
+  [
+    ['Objeto', 'Sistemas de software de propósito general para procesar información y apoyar decisiones de las organizaciones', 'Sistemas conectados que perciben y actúan sobre el entorno físico'],
+    ['Qué desarrolla', 'Aplicaciones web, móviles y distribuidas, con interacción hombre-máquina, calidad, mantenimiento y arquitectura de software (malla de la UTEQ)', 'Firmware y lógica en el borde; pasarelas y conexión con la nube; tableros, alertas, reglas de automatización y control remoto de sensores y actuadores'],
+    ['Cómo lo desarrolla', 'Ciclo completo de ingeniería de software: requerimientos, diseño, pruebas, verificación y validación, gestión de la configuración', 'Con plataformas y componentes existentes (brokers de mensajes, plataformas IoT, tableros configurables) más código propio donde hace falta; ingeniería de requisitos y pruebas a escala del proyecto'],
+    ['Lo que lo distingue', 'Escala, calidad y mantenibilidad del software', 'Tiempo real, consumo de energía, fiabilidad de la comunicación, seguridad de los actuadores y trazabilidad de cada orden'],
+    ['Límite del perfil', 'Sistemas empresariales, aplicaciones móviles nativas complejas y arquitecturas de gran escala', 'No construye software empresarial de propósito general; integra sus sistemas con el que desarrolla el equipo de software'],
+  ],
+  [1700, 3600, 3726],
+));
+C.push(gap());
+C.push(p('**Condiciones de diseño para las aplicaciones de mando.** Como una orden equivocada sobre un actuador puede dañar equipos o personas, el resultado RA9 exige control de acceso por roles, confirmación de las acciones críticas, registro de quién ordenó qué y cuándo, y un modo seguro cuando falla la comunicación. Esas condiciones se enseñan en 5.3 (ciberseguridad), 6.2 (sistemas ciberfísicos y control) y 7.1.'));
+C.push(p('**Campos de desempeño profesional.** Ingeniero o ingeniera de soluciones IoT; arquitecto o arquitecta de soluciones conectadas; desarrollador o desarrolladora de firmware, sistemas embebidos y aplicaciones de monitoreo y mando; especialista en redes de sensores y conectividad; analista de datos de dispositivos; consultor o consultora en agricultura de precisión y agroindustria; emprendedor o emprendedora de base tecnológica. La demanda por sector se analiza en las secciones 4.8 a 4.11.'));
 
 C.push(h2('3.4 Líneas de investigación'));
-C.push(p('Se proponen cinco líneas, que deben alinearse con las líneas y dominios académicos vigentes en la UTEQ. [[Verificar contra el plan de investigación institucional]]'));
-[
-  'Sistemas ciberfísicos y agricultura de precisión.',
-  'Redes de sensores y comunicaciones de bajo consumo.',
-  'Inteligencia artificial en el borde y analítica de datos de sensores.',
-  'Ciberseguridad y privacidad en sistemas conectados.',
-  'IoT para la sostenibilidad ambiental, el agua y las ciudades inteligentes.',
-].forEach((t) => C.push(bl(t)));
-C.push(p('La investigación formativa se desarrolla en las asignaturas de proyecto de cada período y en la metodología de la investigación (6.5); la titulación integra los resultados (Arts. 31 y 32 del RRA).'));
+C.push(p('El Plan de Investigación de la UTEQ (aprobado por el Consejo Universitario, con líneas aprobadas el 23 de marzo de 2018) se apoya en nueve líneas y 28 sublíneas, y en 28 grupos de investigación activos. La línea "Informática y Tecnología de la Información y Comunicación" tiene cuatro sublíneas: e1 aplicaciones de ingeniería de software, e2 innovación en sistemas telemáticos y electrónicos, e3 soft computing e inteligencia artificial y e4 seguridad de la información. El grupo de Telemática Aplicada y Telecomunicaciones Avanzadas (GITEL) trabaja en la sublínea e2. Las cinco líneas propuestas para la carrera se ubican así:'));
+C.push(table(
+  ['Línea propuesta para la carrera', 'Línea y sublínea institucional de la UTEQ'],
+  [
+    ['Sistemas ciberfísicos y agricultura de precisión', 'e2 Innovación en sistemas telemáticos y electrónicos; y a2 Tecnologías de agricultura alternativa aplicables al trópico húmedo del Litoral'],
+    ['Redes de sensores y comunicaciones de bajo consumo', 'e2 Innovación en sistemas telemáticos y electrónicos (grupo GITEL)'],
+    ['Inteligencia artificial en el borde y analítica de datos de sensores', 'e3 Soft computing e inteligencia artificial'],
+    ['Ciberseguridad y privacidad en sistemas conectados', 'e4 Seguridad de la información'],
+    ['IoT para la sostenibilidad ambiental, el agua y las ciudades inteligentes', 'b2 Evaluación de la calidad del agua, aire y suelo; b3 Soluciones tecnológicas para residuos y energías alternativas; i1 Energías renovables'],
+  ],
+  [3800, 5226],
+));
+C.push(gap());
+C.push(p('La investigación formativa se desarrolla en las asignaturas de proyecto de cada período y en la metodología de la investigación (6.5); la titulación integra los resultados (Arts. 31 y 32 del RRA). La carrera necesitará un grupo de investigación propio o asociado a GITEL, y las líneas de titulación deben coincidir con las de la carrera y la Universidad (Art. 35 del Reglamento de la Unidad de Integración Curricular). El plan consultado es anterior a 2022; el Plan Estratégico 2021-2025 prevé redefinir las líneas de investigación, y la propuesta se ajustará a la versión vigente.'));
 
 C.push(h2('3.5 Vinculación con la sociedad'));
 C.push(p('Se plantean tres frentes, dentro de las líneas operativas del Art. 41 del RRA:'));
@@ -265,7 +287,7 @@ C.push(p('Se plantean tres frentes, dentro de las líneas operativas del Art. 41
   '**Proyectos y servicios especializados:** pilotos de monitoreo ambiental, de riego y de cadena de frío con gremios, cooperativas y gobiernos locales.',
   '**Prácticas preprofesionales y servicio comunitario:** ver §3.6.',
 ].forEach((t) => C.push(bl(t)));
-C.push(p('[[Identificar los actores concretos y las cartas de intención en el §7.3]]'));
+C.push(p('Aliados posibles: la Estación Experimental Tropical Pichilingue del INIAP, en el cantón Mocache, que investiga cultivos de la zona; los gremios bananero, cacaotero y palmicultor; el Ministerio de Agricultura y Ganadería; y los gobiernos autónomos descentralizados de Los Ríos. La UTEQ reporta 94 convenios nacionales vigentes (63 con instituciones públicas y privadas, 11 con GAD municipales, 10 con universidades, 9 con unidades educativas y 1 con un GAD provincial) y 41 internacionales (informe de rendición de cuentas 2024). Las cartas de intención específicas para esta carrera se gestionan en §7.3.'));
 
 C.push(h2('3.6 Prácticas preprofesionales'));
 C.push(table(
@@ -280,7 +302,7 @@ C.push(table(
   { aligns: [AlignmentType.LEFT, AlignmentType.LEFT, AlignmentType.CENTER, AlignmentType.CENTER, AlignmentType.LEFT], boldRow: (r) => r[0] === 'Total' },
 ));
 C.push(gap());
-C.push(p('Las prácticas se realizan en entornos empresariales, institucionales o comunitarios, con un responsable académico y un informe de la entidad receptora (Art. 44 del RRA). La UTEQ puede reconocer ayudantías de cátedra o de investigación como práctica (Art. 45).'));
+C.push(p('Las prácticas se realizan en entornos empresariales, institucionales o comunitarios, con un responsable académico y un informe de la entidad receptora (Art. 44 del RRA). La UTEQ puede reconocer ayudantías de cátedra o de investigación como práctica (Art. 45). Se ubican en los períodos 7 y 8 para que el estudiante llegue con las competencias de conectividad, datos y seguridad ya cursadas.'));
 
 C.push(h2('3.7 Itinerarios académicos'));
 M.ITINERARIOS.forEach((it) => {
@@ -290,22 +312,88 @@ M.ITINERARIOS.forEach((it) => {
 C.push(p('El itinerario cursado puede constar en el título (Art. 8 del RANT y Art. 16 del RRA).'));
 
 C.push(h2('3.8 Metodología, evaluación y titulación'));
-C.push(p('La formación se organiza en torno a proyectos: cada período cierra con un entregable integrador que combina los contenidos de sus laboratorios. Las asignaturas de laboratorio dedican cerca de un tercio de sus horas al componente práctico-experimental. [[Alinear con el modelo educativo y el sistema de evaluación de la UTEQ]]'));
-C.push(p('La unidad de titulación se compone del diseño del proyecto (7.6) y del trabajo de integración curricular (8.3), cuyos créditos forman parte de los de la carrera (Art. 26 del RRA). [[Definir las opciones de titulación según el reglamento UTEQ]]'));
+C.push(h3('Modelo educativo de la UTEQ'));
+C.push(p('El Plan Estratégico de Desarrollo Institucional 2021-2025 (actualización de diciembre de 2024) sustenta la calidad de la formación en un modelo educativo cuyas características principales son la flexibilidad, la articulación con todos los niveles de formación y la convergencia con tendencias internacionales. El Reglamento de Semestralización y Créditos (2013) lo describe como un modelo pedagógico por competencias, y el mismo plan prevé pasar a un modelo educativo en red soportado en plataformas digitales y actualizar el reglamento de régimen académico interno y el modelo pedagógico. No se encontró publicado un documento actualizado del modelo educativo; esta sección se apoya en esos tres textos.'));
+C.push(p('**Metodología de la carrera.** Coherente con ese modelo, la formación se organiza en torno a proyectos: cada período cierra con un entregable integrador que combina los contenidos de sus laboratorios, y las asignaturas de laboratorio dedican cerca de un tercio de sus horas al componente práctico-experimental. El aprendizaje con dispositivos reales se apoya en plataformas digitales para simulación, tableros de datos y evaluación continua.'));
+C.push(h3('Sistema de evaluación de los aprendizajes'));
+C.push(p('El Reglamento de Semestralización y Créditos (Arts. 33 a 42) es el marco al que remite el Reglamento de Admisión y Nivelación de 2023 para el modelo evaluativo. Sus reglas principales son:'));
+[
+  'Cada asignatura se califica sobre 10 puntos, con un decimal, y se aprueba con al menos 7.',
+  'Se registran tres notas: primer corte (semana 8) sobre 3 puntos, segundo corte (semana 16) sobre 3 puntos y examen final sobre 4. El 60 % de la nota sale de evaluaciones frecuentes y parciales y el 40 % del examen final.',
+  'Quien no completa 7 puntos puede rendir el examen supletorio, sobre 4 puntos; quien tiene menos de 3 puntos en el 60 % de evaluaciones no puede rendir el examen final.',
+  'En modalidad presencial se exige asistencia mínima del 80 % para rendir el examen final.',
+  'Las prácticas preprofesionales y el servicio comunitario se evalúan con su reglamento e instructivo propios.',
+].forEach((t) => C.push(bl(t)));
+C.push(note('El reglamento es de 2013 y define el crédito con 32 horas; el RRA vigente lo define con 48 horas. Las asignaturas de esta carrera se evalúan con el esquema descrito y sus créditos se cuentan con el RRA. No se encontró un reglamento de evaluación posterior en el sitio de la UTEQ.'));
+C.push(h3('Titulación'));
+C.push(p('La titulación se rige por el Reglamento de la Unidad de Integración Curricular (Consejo Universitario, cuadragésima cuarta sesión ordinaria, 20 de julio de 2021), que derogó el reglamento de 2015. No se encontró una reforma posterior. La unidad se cursa en dos asignaturas de los dos últimos niveles, Desarrollo de titulación I y II (7.6 y 8.3 de la malla), y sus créditos forman parte de los de la carrera (Art. 26 del RRA). El reglamento reconoce el examen complexivo y el trabajo de integración curricular, este último en cuatro tipos: proyecto de investigación, artículo científico, estudio de caso y proyecto tecnológico. Cada carrera define cuáles ofrece. Para Ingeniería en Internet de las Cosas se proponen tres:'));
+C.push(table(
+  ['Opción', 'Qué es según el reglamento (Art. 34)', 'Encaje en IoT'],
+  [
+    ['Proyecto tecnológico', 'Diseño de una innovación tecnológica acorde a un proceso productivo, educativo, industrial, empresarial, informático, agrícola, investigativo, social o ecológico, relacionado con las áreas de formación de la carrera', 'Opción principal: prototipo o piloto de un sistema conectado para un usuario real, con sensores, comunicación y tablero'],
+    ['Proyecto de investigación', 'Propuesta innovadora con investigación exploratoria y diagnóstica, base conceptual y resultados, con argumentación coherente con el campo del conocimiento', 'Estudios experimentales: rendimiento de protocolos de bajo consumo, calibración de sensores, modelos de aprendizaje en el borde'],
+    ['Artículo científico', 'Informe de investigación redactado con la normativa de revistas científicas, dirigido a una comunidad académica', 'Para estudiantes vinculados a un grupo de investigación (por ejemplo GITEL) con resultados publicables'],
+  ],
+  [1900, 3900, 3226],
+));
+C.push(gap());
+C.push(p('No se ofrecerán el estudio de caso ni el examen complexivo, aunque el reglamento los prevé; la carrera puede habilitarlos después con una resolución del Consejo Académico. Reglas comunes:'));
+[
+  'Requisitos previos: aprobar la malla, las horas de prácticas laborales y de servicio comunitario, y no tener valores pendientes en tesorería ni bienes pendientes de devolución (Arts. 12 y 13). El requisito de segunda lengua lo fija el Art. 64 del RRA: nivel B1 para grado.',
+  'Anteproyecto con portada, título, introducción, planteamiento del problema, justificación, objetivos, marco teórico, metodología, presupuesto, cronograma, resultados esperados y bibliografía (Art. 40). Referencias en formato IEEE para las carreras de la Facultad de Ciencias de la Ingeniería (Art. 42).',
+  'La Comisión de Investigación Formativa de la carrera revisa el anteproyecto; el Consejo Académico de la Facultad lo aprueba y designa director y tribunal. El director debe tener título de magíster o PhD afín; al menos tres asesorías por corte evaluativo (Arts. 40 y 41).',
+  'Los trabajos se evalúan de forma individual, aunque pueden hacerlos hasta tres estudiantes (Art. 39). Informe antiplagio (URKUND) con tolerancia máxima del 10 % (Art. 47). Sustentación de 30 minutos y 15 de preguntas, con calificación mínima de 7/10 por promedio del tribunal, inapelable (Arts. 52 a 54).',
+  'Nota de grado: 70 % del récord académico, 10 % del promedio de las dos asignaturas de la unidad y 20 % de la sustentación (Art. 58).',
+].forEach((t) => C.push(bl(t)));
 
 C.push(h2('3.9 Cumplimiento de los criterios y estándares del CACES'));
-C.push(p('El informe debe describir, para cada criterio y estándar del modelo de evaluación de carreras del CACES, cómo lo cumple el proyecto. El sitio del CACES describe un modelo genérico de evaluación del entorno de aprendizaje con cinco criterios; se usan aquí como estructura, y los estándares de cada uno deben tomarse del modelo vigente. [[Confirmar criterios y estándares en el modelo vigente del CACES]]'));
+C.push(p('El CACES acredita las carreras con dos componentes: la evaluación del entorno de aprendizaje y la de los resultados de aprendizaje, esta última mediante un examen a los estudiantes del último período. Para el entorno de aprendizaje de las carreras de grado, el CACES publicó en 2023 el Modelo genérico, con 5 criterios, 8 subcriterios y 31 indicadores, y en 2025 empezó a publicar modelos por campo amplio, el primero con 34 indicadores (Administración de Empresas y Derecho, marzo de 2025). Para el campo de Tecnologías de la información y la comunicación en grado solo se encontró publicado un modelo de posgrado; se toma entonces el modelo genérico. Los umbrales de los indicadores cuantitativos los fijan los modelos por campo, así que los de esta carrera todavía no existen.'));
+C.push(p('**Regla de aprobación** (Art. 28 del Reglamento de Evaluación Externa con fines de acreditación de carreras, Resolución 172-SO-37-CACES-2023): la carrera debe cumplir todos los criterios; un criterio se cumple cuando al menos el 80 % de sus indicadores queda en "satisfactorio" o "cuasi satisfactorio". Los indicadores cualitativos se valoran según cuánto cumple la carrera los elementos fundamentales del estándar. La UTEQ está acreditada por el CACES (Resolución 169-SE-33-CACES-2020, cinco años), por lo que el informe académico sigue el Anexo 1 de la Guía del CES. La tabla resume cada indicador y dónde se atiende en este proyecto.'));
 C.push(table(
-  ['Criterio (modelo genérico CACES)', 'Dónde lo sustenta este borrador', 'Estado'],
+  ['N.º', 'Indicador (tipo)', 'Qué exige el estándar, en síntesis', 'Cómo lo atiende el proyecto'],
   [
-    ['Pertinencia: planificación y vinculación con la sociedad', '§4 (estudio de pertinencia), §3.5 (vinculación), §3.4 (líneas de investigación)', 'Marco y datos listos; falta trabajo de campo'],
-    ['Organización y recursos: gestión académica', '§7.1 (infraestructura), §8.2 (ruta de aprobación)', 'Falta inventario real'],
-    ['Profesores', '§7.2 (planta docente)', 'Falta levantar docentes'],
-    ['Currículo', '§3.3 (perfil de egreso), §6 (malla y verificación normativa)', 'Faltan sílabos y prerrequisitos'],
-    ['Estudiantes', '§3.2 (perfil de ingreso), §3.6 (prácticas), acción afirmativa', 'Faltan apoyos y tutorías'],
+    ['', '**Criterio 1. Currículo**', '', ''],
+    ['1', 'Perfil de egreso (cualitativo)', 'Resultados de aprendizaje claros, coherentes con el modelo educativo y elaborados con expertos externos, empleadores y graduados', '§3.3. Falta la participación documentada de empleadores y graduados (§4.12)'],
+    ['2', 'Proyecto curricular (cualitativo)', 'Diseño coherente con el modelo educativo y la misión, con metodologías, ambientes y recursos', 'Este documento y §3.8'],
+    ['3', 'Malla curricular (cualitativo)', 'Asignaturas coherentes con los resultados de aprendizaje', '§6, con la matriz de resultados en §3.3'],
+    ['4', 'Syllabus (cualitativo)', 'Sílabos con resultados, contenidos, metodologías, bibliografía actualizada y evaluación', 'Por elaborar por la coordinación de carrera'],
+    ['5', 'Metodología y recursos de aprendizaje (cualitativo)', 'Solo se evalúa en modalidades en línea o a distancia', 'No aplica: la carrera es presencial'],
+    ['6', 'Escenarios de prácticas formativas (cualitativo)', 'Ambientes prácticos coherentes con el currículo', '§7.1 (laboratorios) y §7.3 (convenios)'],
+    ['7', 'Tecnologías para el aprendizaje y conocimiento (cualitativo)', 'Uso de tecnologías propias de la profesión', 'Asignaturas 5.2, 6.1 y 7.1: plataformas, borde y tableros'],
+    ['', '**Criterio 2. Docencia, personal académico**', '', ''],
+    ['8', 'Afinidad del personal académico (cuantitativo)', 'Porcentaje de asignaturas dictadas por profesores con posgrado y experiencia afín al campo detallado', '§7.2'],
+    ['9', 'Personal académico titular permanente (cuantitativo)', 'Tasa de titulares que permita investigar y vincular', 'La UTEQ tiene 45 % de titulares (§7.2)'],
+    ['10', 'Evaluación integral del desempeño (cualitativo)', 'Sistema de evaluación docente con uso de resultados', 'Sistema institucional de la UTEQ'],
+    ['', '**Criterio 2. Docencia, estudiantes**', '', ''],
+    ['11', 'Sistema de tutorías académicas (cualitativo)', 'Acompañamiento desde el ingreso hasta la titulación', 'Nivelación por carrera (§3.2) y coordinador de tutorías y titulación (§3.8)'],
+    ['12', 'Habilidades blandas (cualitativo)', 'Actividades de formación integral', 'Asignaturas 1.5, 3.5, 6.4 y 6.5'],
+    ['13', 'Seguimiento al cumplimiento de los resultados de aprendizaje (cualitativo)', 'Sistema de seguimiento y evaluación', 'Matriz de resultados (§3.3) y evaluación (§3.8)'],
+    ['14', 'Tasa de deserción (cuantitativo)', 'Estrategias de retención efectivas', 'Nivelación diferenciada por tipo de bachillerato (§3.2)'],
+    ['15', 'Tasa de titulación de grado (cuantitativo)', 'Estudiantes que se titulan en los tiempos del plan de estudios', 'Línea base de la UTEQ: 60,96 % en la cohorte 2018-2019 (§4.10)'],
+    ['16', 'Seguimiento a graduados (cualitativo)', 'Sistema que recoja campos ocupacionales, satisfacción y empleabilidad', 'La UTEQ encuestó a 2.004 de 3.266 graduados en 2024'],
+    ['17', 'Éxito de los graduados (cuantitativo)', 'Graduados con empleo adecuado, emprendimiento o estudios', 'Línea base: 67,32 % de los graduados de la UTEQ trabaja en su área'],
+    ['', '**Criterio 3. Investigación e innovación**', '', ''],
+    ['18', 'Gestión de la investigación e innovación (cualitativo)', 'Programas y proyectos coherentes con el currículo y las líneas', '§3.4'],
+    ['19', 'Producción académica (cuantitativo)', 'Producción per cápita adecuada', 'Grupo GITEL y grupos de la Facultad; falta la meta de la carrera'],
+    ['20', 'Interdisciplinariedad (cualitativo)', 'Proyectos que articulan las funciones sustantivas', 'Proyectos integradores de cada período y vinculación con Agronomía y Agroindustria'],
+    ['', '**Criterio 4. Vinculación con la sociedad**', '', ''],
+    ['21', 'Planificación y gestión de la vinculación (cualitativo)', 'Programas coherentes con el currículo y el presupuesto', '§3.5'],
+    ['22', 'Transferencia de tecnología y de conocimiento (cualitativo)', 'Actividades de transferencia a la colectividad', 'Pilotos de monitoreo con aliados (§3.5)'],
+    ['23', 'Prácticas preprofesionales (cualitativo)', 'Prácticas en entornos reales, con seguimiento', '§3.6'],
+    ['', '**Criterio 5. Funciones estratégicas y de soporte**', '', ''],
+    ['24', 'Planificación académica y administrativa (cualitativo)', 'Planificación articulada al PEDI y al modelo educativo', 'PEDI 2021-2025 y plan de la Facultad'],
+    ['25', 'Aseguramiento de la calidad (cualitativo)', 'Mecanismo de autoevaluación de la carrera', 'Comisión General de Evaluación Interna de la UTEQ'],
+    ['26', 'Ética, transparencia e integridad (cualitativo)', 'Código de conducta ética aplicado', 'Asignatura 3.5 y código de ética institucional'],
+    ['27', 'Internacionalización y movilidad (cualitativo)', 'Cooperación para movilidad de profesores y estudiantes', 'Convenios internacionales de la UTEQ (informe 2024)'],
+    ['28', 'Infraestructura física y tecnológica (cualitativo)', 'Infraestructura accesible y coherente con el área', '§7.1'],
+    ['29', 'Ambientes de aprendizaje (cuantitativo)', 'Aulas, laboratorios y talleres suficientes, equipados y accesibles', '§7.1'],
+    ['30', 'Herramientas pedagógicas (cuantitativo)', 'Herramientas adecuadas y disponibles', 'Plataformas de la UTEQ y licencias en §7.1'],
+    ['31', 'Acervo y recursos bibliográficos (cualitativo)', 'Acervo físico y digital pertinente y actualizado', 'Bibliotecas de la UTEQ; falta lista de títulos de IoT'],
   ],
-  [3200, 3826, 2000],
+  [500, 2500, 3300, 2726],
+  { boldRow: (r) => r[0] === '' },
 ));
+C.push(gap());
 
 // 4. Pertinencia
 C.push(h1('4. Estudio de pertinencia'));
@@ -318,7 +406,7 @@ C.push(p('La Política Pública para la Transformación Digital del Ecuador 2025
 C.push(p('El mismo documento afirma que Ecuador sufre un déficit de talento digital y que muchos graduados en áreas TIC carecen de experiencia y de actualización en nuevas herramientas (pp. 51 y 52). Recoge además que solo el 15,27 % de la población tenía en 2019 habilidades avanzadas para instalar y configurar software, según el INEC (p. 55).'));
 
 C.push(h2('4.3 Oferta nacional de carreras TIC'));
-C.push(p('Según los datos de la SENESCYT recogidos en esa política (Tabla 7, pp. 52 y 53), en 2024 había 197 carreras TIC en el país. La oferta se concentra en software y es muy escasa en IoT:'));
+C.push(p('Según los datos de la SENESCYT recogidos en la política del MINTEL (Tabla 7, pp. 52 y 53), en 2024 había 197 carreras TIC en el país. La oferta se concentra en software y es muy escasa en IoT:'));
 C.push(table(
   ['Carrera TIC (SENESCYT, 2024)', 'Carreras ofertadas por universidades'],
   [
@@ -333,8 +421,22 @@ C.push(table(
   { aligns: [AlignmentType.LEFT, AlignmentType.CENTER] },
 ));
 C.push(gap());
-C.push(p('El mismo informe cita 7.476 graduados en carreras TIC en 2021, frente a 5.079 en 2020 (texto de la p. 53); su Tabla 8 consigna 7.485 para 2021, una discrepancia menor en la fuente. Para dimensionar el mercado estudiantil conviene descargar del portal de datos abiertos de la SENESCYT la matrícula y los graduados TIC por provincia. [[Descargar la serie de matrícula TIC de Los Ríos, Guayas, Bolívar y Santo Domingo]]'));
-C.push(note('Lectura provisional: la oferta IoT es marginal frente al software, lo que apoya la pertinencia de una carrera especializada. Es un argumento de oferta, no de demanda.'));
+C.push(p('El mismo informe cita 7.476 graduados en carreras TIC en 2021, frente a 5.079 en 2020 (texto de la p. 53); su Tabla 8 consigna 7.485 para 2021, una discrepancia menor en la fuente. Para la matrícula y los graduados de las provincias con las que se compara Los Ríos, se consultaron los tableros públicos de la SENESCYT (Registro de matrícula UEP y Títulos nacionales, 26 de septiembre de 2026):'));
+C.push(table(
+  ['Provincia', 'Matrícula UEP 2022 (todos los campos)', 'Matrícula TIC UEP 2022', '% TIC', 'Títulos registrados 2024 (todos los campos)', 'Títulos TIC 2024'],
+  [
+    ['Los Ríos', '26.653', '1.005', '3,8 %', '3.205', '69'],
+    ['Guayas', '207.192', '9.708', '4,7 %', '38.212', '1.390'],
+    ['Bolívar', '7.529', '183', '2,4 %', '1.265', '44'],
+    ['Santo Domingo de los Tsáchilas', '6.752', '389', '5,8 %', '1.438', '80'],
+    ['Nacional', '792.530', '33.220', '4,2 %', '123.378', '4.224'],
+  ],
+  [3000, 1700, 1400, 900, 1200, 826],
+  { aligns: [AlignmentType.LEFT, AlignmentType.CENTER, AlignmentType.CENTER, AlignmentType.CENTER, AlignmentType.CENTER, AlignmentType.CENTER] },
+));
+C.push(gap());
+C.push(note('Guayas concentra la matrícula y los títulos TIC de la región, con una participación (4,7 %) por debajo de su peso poblacional. Los Ríos gradúa pocos títulos TIC (69 en 2024) frente a su matrícula (1.005 en 2022), lo que sugiere una duración larga de las carreras TIC de la zona o un rezago de cohortes. Bolívar es la provincia con menos oferta TIC de las cuatro. Serie histórica de matrícula y títulos, y detalle metodológico, en 06_modelo_demanda/Modelo_demanda_oferta_IoT_LosRios.xlsx, hoja SENESCYT_TIC.'));
+C.push(note('Límite: los tableros públicos de la SENESCYT no permiten descargar la serie completa de matrícula y graduados por provincia y año; se leyeron los valores de 2022 (matrícula) y 2024 (títulos), que son los más recientes con desagregación provincial disponible al consultarlos. La base de datos abiertos 2015-2023 de la SENESCYT no respondió al intentar descargarla.'));
 
 C.push(h2('4.4 Sector productivo de Los Ríos'));
 C.push(p('La provincia de Los Ríos, donde funciona el Campus Central de la UTEQ, concentra una parte central de la producción agrícola del país. Según la Encuesta de Superficie y Producción Agropecuaria Continua (ESPAC) 2024 del INEC, publicada en abril de 2025:'));
@@ -364,34 +466,72 @@ C.push(table(
   ['Indicador (ENEMDU anual 2025)', 'Los Ríos', 'Nacional'],
   [
     ['Tasa de empleo adecuado o pleno', '32,5 % (36,3 % en 2024)', '37,1 %'],
-    ['Tasa de subempleo', '28,4 % (24,0 % en 2024)', '[[Completar]]'],
+    ['Tasa de subempleo', '28,4 % (24,0 % en 2024; la más alta del país tras Manabí)', '19,4 % (21,0 % en 2024)'],
     ['Tasa de desempleo', '1,7 %', '3,6 %'],
   ],
   [3800, 3000, 2226],
   { aligns: [AlignmentType.LEFT, AlignmentType.CENTER, AlignmentType.CENTER] },
 ));
 C.push(gap());
-C.push(p('En Los Ríos casi no hay desempleo abierto, pero el empleo adecuado está por debajo del promedio nacional y el subempleo subió en 2025. Es un contexto de baja productividad del trabajo, en el que la tecnificación puede aportar; no prueba demanda de ingenieros IoT. [[Pedir al INEC la ENEMDU por rama de actividad para Los Ríos y por nivel de instrucción superior]]'));
+C.push(p('En Los Ríos casi no hay desempleo abierto, pero el empleo adecuado está por debajo del promedio nacional y el subempleo, además de subir en 2025, es 9 puntos más alto que el nacional. Es un contexto de baja productividad del trabajo, en el que la tecnificación puede aportar; no prueba por sí solo demanda de ingenieros IoT.'));
+C.push(h3('Marco laboral por rama de actividad en Los Ríos'));
+C.push(p('Con los microdatos de la ENEMDU anual 2025 (personas ocupadas de Los Ríos, 15 años y más), la agricultura concentra a casi la mitad de los ocupados de la provincia, pero es la rama con menor proporción de personal con instrucción superior. La rama de información y comunicación, donde se ubicarían los perfiles IoT, es pequeña en la provincia:'));
+C.push(table(
+  ['Rama de actividad (CIIU)', '% de los ocupados de Los Ríos', '% con instrucción superior dentro de la rama', '% de todos los ocupados con instrucción superior de Los Ríos'],
+  [
+    ['A Agricultura, ganadería, silvicultura y pesca', '48,8 %', '6,0 %', '18,5 %'],
+    ['G Comercio; reparación de vehículos', '16,5 %', '19,1 %', '19,9 %'],
+    ['I Alojamiento y servicios de comida', '6,6 %', '9,2 %', '3,9 %'],
+    ['C Industrias manufactureras', '4,8 %', '16,1 %', '4,8 %'],
+    ['H Transporte y almacenamiento', '4,4 %', '13,7 %', '3,8 %'],
+    ['P Enseñanza', '3,2 %', '96,8 %', '19,4 %'],
+    ['O Administración pública y defensa', '2,6 %', '50,2 %', '8,3 %'],
+    ['F Construcción', '2,4 %', '9,8 %', '1,5 %'],
+    ['Q Salud y asistencia social', '1,5 %', '58,9 %', '5,6 %'],
+    ['M Actividades profesionales, científicas y técnicas', '1,4 %', '44,9 %', '4,0 %'],
+    ['J Información y comunicación', '0,6 %', '68,4 %', '2,5 %'],
+    ['K Actividades financieras y de seguros', '0,4 %', '77,6 %', '2,2 %'],
+    ['Otras ramas (D, E, N, R, S, T)', '6,8 %', 'Entre 0 % y 23,5 %', '6,0 %'],
+  ],
+  [3626, 1700, 1900, 1800],
+  { aligns: [AlignmentType.LEFT, AlignmentType.CENTER, AlignmentType.CENTER, AlignmentType.CENTER] },
+));
+C.push(gap());
+C.push(p('El resultado es coherente con el diagnóstico del §4.4: la rama con más ocupados (agricultura) es también la de menor calificación formal, y el sector con más profesionales de tercer nivel por rama (enseñanza, información y comunicación, finanzas) pesa poco en el empleo total de la provincia. Serie completa en `05_estadisticas` y en `06_modelo_demanda/datos/` (microdatos ENEMDU 2025, INEC).'));
+C.push(h3('Mercado laboral de la población con instrucción superior'));
+C.push(table(
+  ['Indicador (ENEMDU anual 2025, población de 15 años y más con instrucción superior)', 'Los Ríos', 'Nacional'],
+  [
+    ['Tasa de empleo adecuado o pleno', '56,8 %', '63,0 %'],
+    ['Tasa de subempleo', '20,5 %', '11,8 %'],
+    ['Tasa de otro empleo no pleno', '17,0 %', '14,5 %'],
+    ['Tasa de desempleo', '4,5 %', '6,3 %'],
+  ],
+  [5626, 1700, 1700],
+  { aligns: [AlignmentType.LEFT, AlignmentType.CENTER, AlignmentType.CENTER] },
+));
+C.push(gap());
+C.push(p('Aun con título de tercer nivel, en Los Ríos el subempleo casi duplica al nacional y el empleo adecuado es siete puntos menor: la sola credencial universitaria no basta en la provincia. Es un argumento para que la carrera tenga un perfil ocupacional claro y demanda verificada (§4.9 a §4.12), y no solo un título más en la oferta de la zona.'));
 
 C.push(h2('4.6 Conectividad'));
 C.push(p('Un despliegue IoT depende de la conectividad. Según el INEC (ENEMDU, julio de 2025), el 71,3 % de los hogares del país tiene acceso a internet: 76,6 % en el área urbana y 58,7 % en la rural, frente a 38,0 % en la rural en 2022. La ARCOTEL informa, para el cuarto trimestre de 2024, una penetración de internet fijo de 17,48 % y de internet móvil de 65,6 %, y ubica a Los Ríos entre las cinco provincias con más radiobases instaladas (Guayas, Pichincha, Manabí, Azuay y Los Ríos).'));
 C.push(p('Dos lecturas se derivan: la conectividad rural mejora, lo que amplía el mercado de soluciones IoT; y una brecha persiste, lo que exige formar profesionales capaces de diseñar con redes de bajo consumo y conectividad intermitente. [[Agregar cobertura móvil y de fibra por parroquia rural de Los Ríos desde los mapas de cobertura de la ARCOTEL y las metas del MINTEL]]'));
 
 C.push(h2('4.7 Oferta de la UTEQ y análisis de traslape'));
-C.push(p('Según el PEDI 2021-2025, la UTEQ tenía 29 carreras de grado aprobadas al cierre de 2020, entre ellas Software (RPC-SO-03-No.022-2018), Telemática (RPC-SO-03-No.049-2020) y Electricidad (RPC-SO-04-No.077-2020), y 9.653 estudiantes matriculados. La carrera más cercana a IoT es Telemática. Hay que demostrar en qué se diferencia.'));
+C.push(p('Según el PEDI 2021-2025, la UTEQ tenía 29 carreras de grado aprobadas al cierre de 2020 y 9.653 estudiantes matriculados. Entre ellas, según las fichas públicas de cada carrera en el sitio de la UTEQ: Software, aprobada el 13 de septiembre de 2017 (RPC-SO-33-No.612-2017); Telemática, aprobada el 23 de mayo de 2018 (RPC-SO-20-No.290-2018); y Electricidad, también con acuerdo de 23 de mayo de 2018. La carrera más cercana a IoT es Telemática. Hay que demostrar en qué se diferencia.'));
 C.push(table(
-  ['Aspecto', 'Telemática (vigente)', 'Ingeniería en IoT (propuesta)'],
+  ['Aspecto', 'Telemática (vigente, 10 semestres)', 'Ingeniería en IoT (propuesta, 8 períodos)'],
   [
-    ['Objeto de estudio', '[[Completar desde el proyecto aprobado]]', 'Sistemas de dispositivos conectados con percepción y actuación sobre el entorno físico'],
-    ['Perfil de egreso', '[[Completar]]', 'Ver §3.3'],
-    ['Núcleo de la malla', '[[Completar]]', 'Electrónica embebida, comunicaciones, plataformas y analítica de datos de sensores'],
-    ['Campo ocupacional', '[[Completar]]', 'Ver §3.3, con énfasis agroindustrial e industrial'],
-    ['Asignaturas compartidas o convalidables', '[[Comparar mallas]]', '[[Comparar mallas]]'],
+    ['Misión (ficha pública de la carrera)', 'Formar ingenieros en Telemática con conocimientos de TI y telecomunicaciones, para investigar, desarrollar e implementar soluciones tecnológicas con ética y liderazgo', 'Formar ingenieros en IoT que diseñen, implementen, operen y aseguren soluciones que integren electrónica embebida, comunicaciones, nube y datos (§3.1)'],
+    ['Núcleo de la malla', 'Redes LAN/MAN/WAN, administración y seguridad de redes, sistemas embebidos, redes escalables y definidas por software, antenas y propagación, hacking ético, comunicaciones móviles', 'Electrónica embebida y placas propias, sensores y actuadores, comunicaciones de bajo consumo, plataformas en la nube y en el borde, ciencia de datos, ciberseguridad IoT (§6)'],
+    ['Campo ocupacional (ficha pública de la carrera)', 'Empresas de telecomunicaciones, entidades públicas, redes privadas, consultoría; dirección de infraestructura tecnológica y de redes', 'Ver §3.3: soluciones IoT, firmware, redes de sensores, datos de dispositivos, con énfasis agroindustrial e industrial'],
+    ['Asignaturas con contenido afín', 'Sistemas embebidos (V), redes de ordenadores (IV), aplicaciones telemáticas basadas en Web (III)', 'Sistemas embebidos y firmware (4.1), protocolos IoT (4.4), aplicaciones de monitoreo y mando (7.1)'],
+    ['Lo que no cubre Telemática', 'No incluye sensores ni actuadores, ni el diseño de hardware propio, ni la analítica en el borde (TinyML)', 'RA2 (hardware y firmware con sensores/actuadores) y RA5 (analítica en el borde) no tienen equivalente en la malla de Telemática'],
   ],
-  [2100, 3000, 3926],
+  [2100, 3463, 3463],
 ));
 C.push(gap());
-C.push(p('Si la comparación muestra un traslape mayor al de una carrera nueva, la alternativa es un itinerario IoT dentro de una carrera vigente mediante un ajuste curricular sustantivo (Art. 110 del RRA). Fuera de la UTEQ, la UEES Online publica una carrera de "Ingeniero en Internet de las Cosas" con la resolución RPC-SO-26-No.428-2023 [[verificar en el CES]].'));
+C.push(p('El traslape mayor está en las redes y en los sistemas embebidos (una asignatura de Telemática). El núcleo que distingue a IoT —diseño de hardware, sensores y actuadores, y analítica en el borde— no tiene equivalente en la malla vigente de Telemática, lo que respalda una carrera distinta y no un ajuste curricular. Falta comparar asignatura por asignatura para definir tablas de convalidación. Fuera de la UTEQ, la UEES Online oferta en línea la carrera "Ingeniero en Internet de las Cosas" con la Resolución RPC-SO-26-No.428-2023.'));
 
 C.push(h2('4.8 Empresas de la zona'));
 C.push(p('El Registro Estadístico de Empresas 2025 del INEC, construido con registros del SRI y del IESS, contabiliza en Los Ríos 32.993 empresas, la undécima provincia del país. De ellas, 1.968 registran ventas y empleo en el IESS (octava provincia) y el empleo registrado equivalente suma 66.742 puestos (séptima provincia).'));
@@ -573,7 +713,7 @@ C.push(p(`Se cuentan solo las asignaturas con contenido disciplinar (${totDisc} 
 C.push(p(`**Propuesta.** Clasificar la carrera en el campo amplio 06 (TIC), campo específico 1 y campo detallado 1, Ciencias computacionales (0611). Tres razones: el subtotal TIC (${campoTot['0611'] + campoTot['0612'] + campoTot['0613']} créditos) supera a la electrónica (${campoTot['0714']}), por lo que la regla del tema principal del Art. 17 lleva al campo amplio 06; dentro de TIC, 0611 es el detallado con más créditos (${campoTot['0611']}); y el Anexo II del RANT que se pudo consultar ya ubica el título de Técnico/a Superior en Internet de las Cosas en el campo detallado de Ciencias computacionales.`));
 C.push(note('**Riesgo.** Si el CES lee el Art. 20 solo, sin pasar antes por el Art. 17, el detallado con más créditos de la malla es Electrónica, automatización y sonido (0714, ' + campoTot['0714'] + ' créditos), que cae en el campo amplio 07. Hay tres salidas: consultar por escrito a la Coordinación de Planificación Académica del CES antes de presentar; reequilibrar la malla para que 0611 iguale o supere a 0714; o clasificar en 0714 y aceptar el campo amplio de ingeniería. [[Decidir con el equipo de diseño y el CES]]'));
 C.push(h2('5.4 Diferenciación frente a carreras cercanas'));
-C.push(p('Frente a Software, IoT añade el hardware, la conectividad y la operación sobre el mundo físico. Frente a Telemática, añade el diseño de dispositivos, los sistemas embebidos y el ciclo completo del dato. Frente a Electricidad, se centra en la comunicación y el cómputo, no en la energía. [[Sustentar con la comparación de mallas del §4.7]]'));
+C.push(p('Frente a Software, IoT añade el hardware, la conectividad y la operación sobre el mundo físico (§3.3). Frente a Telemática, añade el diseño de dispositivos, los sistemas embebidos propios y la analítica en el borde, sin equivalente en su malla vigente (comparación en §4.7). Frente a Electricidad, se centra en la comunicación y el cómputo, no en la energía.'));
 C.push(h2('5.5 Denominación y título'));
 C.push(p('Se propone "Ingeniería en Internet de las Cosas" con el título de "Ingeniero/a en Internet de las Cosas" (Art. 7 del RANT). Se evita la sigla inglesa IoT en la denominación oficial. El RANT permite anglicismos reconocidos en castellano (Disposición General Cuarta), pero la forma en castellano no exige argumentar ese punto.'));
 C.push(p('**Estado en el Anexo II.** La copia del Anexo II 2023 que se pudo consultar, actualizada hasta el 15 de marzo de 2023, incluye "Técnico/a Superior en Internet de las Cosas" pero no un título de ingeniería de grado con ese nombre. La UEES Online cita una aprobación posterior (RPC-SO-26-No.428-2023) para "Ingeniero en Internet de las Cosas", lo que sugiere que el título se incorporó después de esa fecha, ya que el CES actualiza el anexo cuando aprueba nuevas denominaciones (Disposición General Quinta del RANT). Se debe verificar el Anexo II vigente:'));
@@ -586,11 +726,11 @@ C.push(h2('5.6 Referencias de esta sección'));
   'Ashton, K. (2009). That "Internet of Things" thing. RFID Journal.',
   'Lee, E. A. (2008). Cyber physical systems: design challenges. 11th IEEE International Symposium on Object and Component-Oriented Real-Time Distributed Computing.',
   'UIT-T (2012). Recomendación Y.2060: Visión general de la Internet de las cosas.',
-  'von Bertalanffy, L. (1968). General System Theory. George Braziller.',
+  'von Bertalanffy, L. (1968). General System Theory: Foundations, Development, Applications. New York: George Braziller.',
   'Weiser, M. (1991). The computer for the 21st century. Scientific American, 265(3).',
-  'Wiener, N. (1948). Cybernetics: or Control and Communication in the Animal and the Machine. MIT Press.',
+  'Wiener, N. (1948). Cybernetics: Or Control and Communication in the Animal and the Machine. New York: John Wiley & Sons.',
 ].forEach((t) => C.push(bl(t)));
-C.push(note('Estas referencias no se verificaron en línea. [[Comprobar cada una antes de la presentación]]'));
+C.push(note('Las referencias de Ashton, Lee, UIT-T, von Bertalanffy, Weiser y Wiener corresponden a las ediciones y datos bibliográficos de uso más común citados en la literatura sobre IoT y cibernética; no se verificó cada una contra su edición física u original.'));
 
 // 6. Malla
 C.push(h1('6. Malla curricular'));
@@ -601,7 +741,7 @@ C.push(table(
     ['Créditos totales (Art. 15 RRA)', '120 a 150', `${T.cr}`, 'Sí'],
     ['Equivalencia (Art. 9)', '1 crédito = 48 h', `${fmt(T.H)} h en total`, 'Sí'],
     ['Períodos por año (Art. 10)', 'Al menos 2', '2 (8 períodos en 4 años)', 'Sí'],
-    ['Dedicación semanal (Art. 10)', 'Promedio de 45 h', `${fmt(T.H / 8)} h por período = ${semanas45.toFixed(1).replace('.', ',')} semanas a 45 h`, 'Sí, si el período dura 18 semanas [[confirmar calendario UTEQ]]'],
+    ['Dedicación semanal (Art. 10)', 'Promedio de 45 h', `${fmt(T.H / 8)} h por período = ${semanas45.toFixed(1).replace('.', ',')} semanas a 45 h`, 'Sí: cabe en el período de 20 semanas que la UTEQ aplicará desde 2026, con margen para evaluaciones'],
     ['Prácticas laborales (Art. 43)', 'Mínimo 240 h', `${hLab} h`, 'Sí'],
     ['Servicio comunitario (Art. 43)', 'Mínimo 60 h', `${hServ} h`, 'Sí'],
     ['Tope de prácticas (Art. 43)', 'Máximo 10 % de las horas', pct(hPract, T.H), 'Sí'],
@@ -672,7 +812,7 @@ C.push(table(
 C.push(h2('7.2 Planta docente'));
 C.push(p('El expediente debe declarar la planta docente que atenderá la carrera. Los perfiles requeridos son: electrónica y sistemas embebidos, redes y comunicaciones, ingeniería de software, ciencia de datos e inteligencia artificial, ciberseguridad, y ciencias básicas. [[Levantar docentes titulares y a contrato, con título y área de conocimiento, y comparar con los requisitos del modelo CACES]]'));
 C.push(h2('7.3 Cohorte y convenios'));
-C.push(p('La cohorte inicial se fija según la capacidad de los laboratorios (Art. 96 del RRA). [[Definir estudiantes por cohorte y por paralelo]]'));
+C.push(p('La cohorte inicial se fija en 40 estudiantes en 1 paralelo (§2), según la capacidad de los laboratorios (Art. 96 del RRA); el dimensionamiento del §4.11 sugiere que ese tamaño es adecuado para el escenario base. La cifra debe confirmarse cuando exista el inventario real de laboratorios (§7.1).'));
 C.push(table(
   ['Tipo de convenio', 'Entidades por contactar', 'Estado'],
   [
@@ -689,18 +829,17 @@ C.push(h2('8.1 Pendientes de verificación'));
 C.push(table(
   ['Pendiente', 'Por qué importa'],
   [
-    ['Estatus CACES de la UTEQ', 'Define si el informe académico usa el Anexo 1 o si exige informe de par académico (Anexo 2)'],
-    ['Anexo II vigente del RANT', 'Determina si el título "Ingeniero/a en Internet de las Cosas" ya existe. La copia consultada llega hasta el 15-III-2023 y solo trae el título de Técnico/a Superior en IoT'],
+    ['Anexo II vigente del RANT', 'Determina si el título "Ingeniero/a en Internet de las Cosas" ya existe. La copia consultada llega hasta el 15-III-2023 y solo trae el título de Técnico/a Superior en IoT; a esa fecha, en grado solo hay títulos de maestría relacionados (§5.5)'],
     ['Consulta al CES sobre el campo detallado', 'La clasificación en 0611 debe confirmarse con la Coordinación de Planificación Académica, por el peso de la electrónica en la malla (§5.3)'],
     ['Reforma 2024 del RRA', 'No se pudo descargar; verificar que no cambió los Arts. 15, 43 ni 96 a 99'],
     ['Estatuto y normativa interna UTEQ vigentes', 'Se leyó la versión 2019; confirmar órganos, nombres y trámite interno de diseño curricular'],
-    ['Modelo CACES de evaluación de carreras', 'Necesario para la matriz de cumplimiento del §3.9'],
-    ['Calendario académico UTEQ', 'Confirmar que el período de 18 semanas cuadra con las 45 h semanales'],
+    ['Modelo del CACES por campo amplio TIC', 'Solo hay publicado un modelo genérico (2023) y modelos por campo para otras áreas (2025); cuando el CACES publique el de TIC, sus umbrales cuantitativos reemplazan al genérico (§3.9)'],
     ['Formato del Anexo III del RANT', 'La justificación epistemológica debe presentarse en ese formato'],
-    ['Base de matrícula TIC de la SENESCYT', 'Su servidor no respondió; hace falta para reemplazar los proxies de la oferta de graduados (4.10)'],
-    ['Graduados de Los Ríos por tipo de bachillerato (AMIE)', 'Dimensiona los grupos de la nivelación (3.2)'],
-    ['Encuesta a empleadores', 'Reemplaza los supuestos de adopción del modelo de demanda (4.9)'],
-    ['Nivelación por carrera en la UTEQ', 'Confirmar con Admisión y Nivelación que la propuesta de 400 horas es viable'],
+    ['Serie completa de matrícula y graduados TIC de la SENESCYT', 'Los tableros públicos no se pudieron descargar completos; se usaron los cortes de 2022 y 2024 (§4.3 y §4.10)'],
+    ['Graduados de Los Ríos por tipo de bachillerato (AMIE)', 'El Ministerio de Educación no lo publica en sus sitios abiertos; dimensiona los grupos de la nivelación (§3.2)'],
+    ['Encuesta a empleadores y a estudiantes de bachillerato', 'Reemplaza los supuestos de adopción del modelo de demanda (§4.9) y valida el interés por la carrera'],
+    ['Inventario real de laboratorios, equipos y planta docente', 'La declaración de recursos del expediente (§7.1 y §7.2) exige datos levantados, no una lista de necesidades'],
+    ['Cartas de intención y convenios específicos para la carrera', 'El expediente exige convenios legalizados, no solo aliados identificados (§3.5 y §7.3)'],
   ],
   [3200, 5826],
 ));
@@ -735,6 +874,12 @@ C.push(h1('Anexo A. Fuentes'));
   'SRI. Registro Único de Contribuyentes, Los Ríos (datos abiertos, actualizado el 1-IX-2026). INEC. Registro Estadístico de Empresas 2025. INEC. Censo de Población y Vivienda 2022.',
   'Ministerio de Educación, Deporte y Cultura. Bachillerato General, Bachillerato en Ciencias y Bachillerato Técnico (educacion.gob.ec); Acuerdo MINEDUC-2024-00065-A. Primicias (2024): materias y horas de clase del año lectivo 2024-2025.',
   'UTEQ. Informe de rendición de cuentas 2024. Redalyc: Nivelación propuesta por la SENESCYT, vivencias en la Universidad Central del Ecuador.',
+  'UTEQ, Consejo Universitario. Reglamento de la Unidad de Integración Curricular (Resolución 44.ª sesión ordinaria especial presencial, 20-VII-2021). Reglamento de Semestralización y Créditos (Resolución 1.ª sesión extraordinaria, 12-III-2013). Plan de Investigación (líneas y sublíneas aprobadas el 23-III-2018).',
+  'UTEQ. Fichas públicas de las carreras de Software, Telemática, Electricidad, Sistemas de Información y Tecnologías de la Información (uteq.edu.ec/grado/carrera/…), consultadas el 26 y 28 de septiembre de 2026.',
+  'CACES. Modelo genérico para la evaluación del entorno de aprendizaje de carreras de grado (2023) y Reglamento de Evaluación Externa con fines de Acreditación para el Aseguramiento de la Calidad de las Carreras (Resolución 172-SO-37-CACES-2023). Resolución 169-SE-33-CACES-2020 (acreditación institucional de la UTEQ).',
+  'SENESCYT. Tableros públicos de Registro de matrícula (universidades y escuelas politécnicas) y de Títulos nacionales, consultados el 26-IX-2026.',
+  'INEC. Microdatos de la ENEMDU anual 2025 (personas y vivienda-hogar) y del módulo TIC de julio de 2025, consultados el 26 y 28 de septiembre de 2026.',
+  'Ministerio de Educación. Acuerdo MINEDEC-MINEDEC-2025-00051-A (16-X-2025), reforma a los Acuerdos MINEDUC-2023-00008-A y MINEDUC-2024-00065-A sobre el Bachillerato Técnico.',
 ].forEach((t) => C.push(bl(t)));
 
 // ---------- documento ----------

@@ -67,17 +67,17 @@ const PAO = [
     ['6.5', 'Metodología de la investigación', 2, 'T', 'GES'],
   ],
   [
-    ['7.1', 'Arquitectura y despliegue de soluciones IoT a escala', 3, 'L', 'SW'],
+    ['7.1', 'Aplicaciones de monitoreo y mando IoT, arquitectura y despliegue', 3, 'L', 'SW'],
     ['7.2', 'Gemelos digitales y simulación', 3, 'L', 'SW'],
     ['7.3', 'Optativa I (itinerario)', 3, 'L', 'OPT'],
     ['7.4', 'Optativa II (itinerario)', 3, 'L', 'OPT'],
     ['7.5', 'Prácticas preprofesionales laborales I', 3, 'P', 'INT'],
-    ['7.6', 'Diseño del proyecto de titulación', 2, 'X', 'INT'],
+    ['7.6', 'Desarrollo de titulación I', 2, 'X', 'INT'],
   ],
   [
     ['8.1', 'Optativa III (itinerario)', 3, 'L', 'OPT'],
     ['8.2', 'Prácticas preprofesionales laborales II', 3, 'P', 'INT'],
-    ['8.3', 'Trabajo de integración curricular', 8, 'X', 'INT'],
+    ['8.3', 'Desarrollo de titulación II (trabajo de integración curricular)', 8, 'X', 'INT'],
     ['8.4', 'Legislación TIC y protección de datos personales', 3, 'T', 'GES'],
   ],
 ];
@@ -110,6 +110,7 @@ const RA = [
   ['RA5', 'Aplica modelos de analítica e inteligencia artificial a datos de sensores, incluida su ejecución en dispositivos de recursos limitados.', ['2.4', '5.4', '6.1', '7.2']],
   ['RA6', 'Protege sistemas IoT aplicando criterios de ciberseguridad y de privacidad, y la normativa ecuatoriana de protección de datos personales.', ['5.3', '8.4']],
   ['RA7', 'Gestiona proyectos de base tecnológica con criterios de sostenibilidad, ética profesional y emprendimiento.', ['3.5', '6.4', '7.5', '8.2']],
+  ['RA9', 'Desarrolla aplicaciones de monitoreo y mando para sistemas conectados (tableros, alertas, reglas de automatización y control remoto de sensores y actuadores), con criterios de seguridad, usabilidad y trazabilidad, sin construir software empresarial de propósito general.', ['5.2', '5.5', '6.2', '7.1']],
   ['RA8', 'Investiga e innova con método científico y comunica sus resultados de forma clara, en equipos multidisciplinarios.', ['1.5', '6.5', '7.6', '8.3']],
 ];
 
@@ -129,6 +130,8 @@ const CAMPO_DE = {
   '3.3': '0612', '4.3': '0612', '4.4': '0612', '5.1': '0612', '5.3': '0612',
   '2.3': '0714', '2.5': '0714', '3.2': '0714', '3.4': '0714', '4.1': '0714', '4.2': '0714', '6.2': '0714', '6.3': '0714',
 };
+
+RA.sort((a, b) => parseInt(a[0].slice(2), 10) - parseInt(b[0].slice(2), 10));
 
 function build() {
   const cursos = [];

@@ -36,13 +36,21 @@ Cada cifra del borrador (sección 4) se verificó contra el documento oficial ar
 | Tasa de titulación UTEQ, cohorte 2018-2019 | 60,96 % | Mismo documento, tabla 6 |
 | Graduados de las carreras TIC de la UTEQ, cohorte 2018-2019 | Telemática 16 y 19; Software 10; una fila sin nombre 24 | Mismo documento, tabla 6 (la fila sin nombre aparece bajo la Facultad de Ciencias de la Ingeniería) |
 | Graduados de la UTEQ empleados en su área | 67,32 % | Mismo documento, seguimiento a graduados |
+| Convenios de la UTEQ vigentes, 2024 | 94 nacionales (63 con instituciones públicas y privadas, 11 GAD municipales, 10 universidades, 9 unidades educativas, 1 GAD provincial) y 41 internacionales | Mismo documento, cooperación interinstitucional |
+| Docentes titulares con título de PhD, UTEQ 2024-2025 | 88 (35 % de los titulares); 22 no titulares (9 %) | Mismo documento, perfeccionamiento a docentes |
+| Subempleo nacional, ENEMDU anual 2025 | 19,4 % (21,0 % en 2024) | `INEC_ENEMDU_anual_2025_boletin.pdf`, sección 1.4.2 |
+| Subempleo por nivel de instrucción, Los Ríos vs. nacional, ENEMDU anual 2025 (población de 15 años y más) | Los Ríos: adecuado 56,8 %, subempleo 20,5 %; nacional: adecuado 63,0 %, subempleo 11,8 % (instrucción superior) | Cálculo propio con microdatos ENEMDU anual 2025 (INEC), `06_modelo_demanda/datos/` |
+| Ocupados de Los Ríos por rama de actividad e instrucción superior, ENEMDU anual 2025 | Agricultura 48,8 % de los ocupados pero solo 6,0 % con instrucción superior; información y comunicación, 0,6 % de los ocupados con 68,4 % de instrucción superior | Cálculo propio con microdatos ENEMDU anual 2025 (INEC) |
+| Matrícula y títulos TIC por provincia (SENESCYT, tableros públicos, 2022/2024) | Los Ríos: matrícula TIC 2022 = 1.005, títulos TIC 2024 = 69; Guayas: 9.708 / 1.390; Bolívar: 183 / 44; Santo Domingo: 389 / 80; nacional: 33.220 / 4.224 | Tableros públicos de la SENESCYT, consultados el 26-IX-2026; ver `06_modelo_demanda/Modelo_demanda_oferta_IoT_LosRios.xlsx`, hoja SENESCYT_TIC |
+| Resolución de aprobación CES, carrera de Software (UTEQ) | RPC-SO-33-No.612-2017, 13-IX-2017 | Ficha pública de la carrera, uteq.edu.ec/grado/carrera/software |
+| Resolución de aprobación CES, carrera de Telemática (UTEQ) | RPC-SO-20-No.290-2018, 23-V-2018 | Ficha pública de la carrera, uteq.edu.ec/grado/carrera/telematica |
 
 ## Límites
 
 - Las cifras del MIATA son nacionales. No se encontró el desglose para Los Ríos.
 - La serie de hogares con internet en 2022 sale de un gráfico del tabulado del INEC, no de una tabla numérica.
 - No se extrajo el subempleo nacional de 2025.
-- La matrícula y los graduados TIC por provincia de la SENESCYT no se descargaron; el portal de datos abiertos las publica.
+- La matrícula y los graduados TIC por provincia de la SENESCYT se leyeron de los tableros públicos (Power BI), no de la base de datos abiertos completa, que no respondió al intentar descargarla; solo se obtuvo un corte por provincia (matrícula 2022, títulos 2024), no la serie completa por año.
 - No se consultaron los mapas de cobertura por parroquia de la ARCOTEL ni indicadores del CACES sobre carreras TIC.
 - La base de matrícula 2015-2023 de la SENESCYT (datosabiertos.gob.ec) no se pudo descargar: su servidor no respondió. No se encontró una serie de graduados por provincia.
 - Las horas de matemática y física por tipo de bachillerato salen de un reportaje de Primicias sobre la malla 2024-2025 de la Sierra; no se encontró la malla oficial de la Costa ni la reforma 2026.

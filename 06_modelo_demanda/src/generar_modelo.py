@@ -75,10 +75,10 @@ lineas = [
     ('Qué es', 'Un ejercicio de dimensionamiento con tres escenarios. Cruza empresas formales de Los Ríos (SRI e INEC) con supuestos de adopción y contratación de perfiles IoT, y lo compara con la oferta de graduados TIC.'),
     ('Qué NO es', 'No es una proyección estadística. Ninguna fuente oficial publica la adopción de IoT por sector en Ecuador; esos porcentajes son supuestos de trabajo. Deben sustituirse con la encuesta a empleadores antes de presentar el proyecto al CES.'),
     ('Código de color', 'Celdas amarillas = supuestos que usted puede cambiar. Celdas blancas = datos observados o fórmulas. Todo el modelo se recalcula al editar una celda amarilla.'),
-    ('Hojas', 'SRI_LosRios y INEC_LosRios: datos observados. Supuestos: entradas. Demanda, Oferta, Brecha y Sensibilidad: cálculos.'),
+    ('Hojas', 'SRI_LosRios, INEC_LosRios y SENESCYT_TIC: datos observados. Supuestos: entradas. Demanda, Oferta, Brecha y Sensibilidad: cálculos.'),
     ('Horizonte', 'Año base 2026. "4 años" = 2030 y "5 años" = 2031. Con ingreso en 2027 y 8 períodos, la primera promoción de la carrera se gradúa en 2031.'),
-    ('Fuentes', 'SRI: catastro RUC de Los Ríos (datos abiertos, actualizado el 1-IX-2026). INEC: Registro Estadístico de Empresas 2025, ENEMDU anual 2025, Censo 2022. SENESCYT: graduados TIC 2020 y 2021 tomados de la Política de Transformación Digital 2025-2030 (MINTEL). UTEQ: informe de rendición de cuentas 2024.'),
-    ('Límites de los datos', 'El catastro RUC no trae tamaño de empresa; se usa "sociedad o persona natural obligada a llevar contabilidad" como aproximación de empresa formal. No se obtuvo de la SENESCYT la serie de graduados TIC por provincia (el servidor de sus datos abiertos no respondió); la oferta se estima con proxies que se detallan en la hoja Oferta.'),
+    ('Fuentes', 'SRI: catastro RUC de Los Ríos (datos abiertos, actualizado el 1-IX-2026). INEC: Registro Estadístico de Empresas 2025, ENEMDU anual 2025, Censo 2022. SENESCYT: tableros de matrícula UEP y de títulos nacionales, y graduados TIC 2020 y 2021 de la Política de Transformación Digital 2025-2030 (MINTEL). UTEQ: informe de rendición de cuentas 2024.'),
+    ('Límites de los datos', 'El catastro RUC no trae tamaño de empresa; se usa "sociedad o persona natural obligada a llevar contabilidad" como aproximación de empresa formal. La matrícula y los títulos TIC de la SENESCYT se leyeron de sus tableros públicos (la base de datos abiertos no estaba disponible). La serie de títulos TIC por provincia y año no se pudo extraer completa: se usa 2024 y el acumulado; la oferta de graduados se estima a partir de la matrícula.'),
     ('Privacidad', 'El catastro RUC incluye nombres de personas naturales. Este libro solo contiene conteos agregados.'),
 ]
 for i, (k, v) in enumerate(lineas, start=4):
@@ -162,6 +162,40 @@ FILA_EMP_PROD = 6
 FILA_POB = 11
 anchos(ws, [64, 16, 16, 52])
 
+# ------------------------------------------------------------------ SENESCYT
+ws = wb.create_sheet('SENESCYT_TIC')
+titulo(ws, 'Matrícula y títulos TIC (SENESCYT)',
+       'Fuente: tableros públicos de la SENESCYT (Registro de matrícula UEP y Títulos nacionales), consultados el 26-IX-2026. Campo de estudio "Tecnologías de la información y la comunicación".')
+cab(ws, 4, ['Año', 'Matrícula total UEP en Los Ríos', 'Matrícula TIC UEP en Los Ríos', '% TIC'])
+mat = [(2016, 16655, 0), (2017, 18660, 0), (2018, 20885, 346), (2019, 21207, 559), (2020, 23580, 760), (2021, 25581, 942), (2022, 26653, 1005), (2023, 27624, 1021)]
+for i, (a_, t_, c_) in enumerate(mat, start=5):
+    celda(ws, i, 1, a_)
+    celda(ws, i, 2, t_, '#,##0')
+    celda(ws, i, 3, c_, '#,##0')
+    celda(ws, i, 4, f'=C{i}/B{i}', '0.0%')
+ws['A13'] = 'Antes de 2018 el tablero no registra matrícula en el campo TIC en Los Ríos (efecto de la clasificación por campos vigente).'
+ws['A13'].font = Font(italic=True, size=9)
+cab(ws, 15, ['Provincia', 'Matrícula UEP 2022', 'Matrícula TIC UEP 2022', '% TIC 2022', 'Títulos registrados 2024, todos', 'Títulos TIC 2024, todos los niveles'])
+prov = [('Los Ríos', 26653, 1005, 3205, 69), ('Guayas', 207192, 9708, 38212, 1390), ('Bolívar', 7529, 183, 1265, 44), ('Santo Domingo de los Tsáchilas', 6752, 389, 1438, 80), ('Nacional', 792530, 33220, 123378, 4224)]
+for i, (n_, m_, c_, t_, ct_) in enumerate(prov, start=18):
+    celda(ws, i, 1, n_)
+    celda(ws, i, 2, m_, '#,##0')
+    celda(ws, i, 3, c_, '#,##0')
+    celda(ws, i, 4, f'=C{i}/B{i}', '0.0%')
+    celda(ws, i, 5, t_, '#,##0')
+    celda(ws, i, 6, ct_, '#,##0')
+ws['A24'] = 'Títulos TIC registrados entre 2013 y 2024 (acumulado, todos los niveles): Guayas 5.597; Los Ríos 518; Santo Domingo 319. Bolívar no aparece entre las 14 provincias con más títulos TIC.'
+ws['A24'].font = Font(italic=True, size=9)
+cab(ws, 26, ['Año', 'Títulos nacionales, todos los campos', 'Títulos nacionales TIC'])
+serie = [(2013, 107971, 27), (2014, 100161, 16), (2015, 145723, 39), (2016, 152544, 2), (2017, 130748, 174), (2018, 114504, 250), (2019, 109933, 437), (2020, 101048, 470), (2021, 151518, 1797), (2022, 186946, 4093), (2023, 208299, 7663), (2024, 123378, 4224)]
+for i, (a_, t_, c_) in enumerate(serie, start=27):
+    celda(ws, i, 1, a_)
+    celda(ws, i, 2, t_, '#,##0')
+    celda(ws, i, 3, c_, '#,##0')
+ws['A40'] = 'Cautela: los títulos TIC de años anteriores a 2022 están subregistrados por la clasificación por campos; la Política del MINTEL cita 7.476 graduados TIC en 2021 frente a 1.797 en este tablero.'
+ws['A40'].font = Font(italic=True, size=9)
+anchos(ws, [34, 26, 26, 14, 30, 30])
+
 # ------------------------------------------------------------------ Supuestos
 ws = wb.create_sheet('Supuestos')
 titulo(ws, 'Supuestos del modelo (celdas amarillas: editables)',
@@ -213,26 +247,19 @@ FILA_EXIST = fila
 fila += 2
 ws.cell(row=fila, column=1, value='4. Oferta de graduados TIC en Los Ríos').font = NEGRITA
 fila += 1
-celda(ws, fila, 1, 'Graduados TIC en el país, 2021 (SENESCYT, vía MINTEL)')
-celda(ws, fila, 2, 7476, '#,##0')
-FILA_NAC = fila
+celda(ws, fila, 1, 'Matrícula TIC en IES de Los Ríos, 2023 (SENESCYT)')
+celda(ws, fila, 2, '=SENESCYT_TIC!C12', '#,##0')
+FILA_MTIC = fila
 fila += 1
-celda(ws, fila, 1, 'Graduados TIC en el país, 2020 (SENESCYT, vía MINTEL)')
-celda(ws, fila, 2, 5079, '#,##0')
-fila += 1
-celda(ws, fila, 1, 'Población de Los Ríos sobre la nacional (proxy máximo)')
-celda(ws, fila, 2, '=INEC_LosRios!B%d/16938986' % FILA_POB, '0.0%')
-ws.cell(row=fila, column=3, value='Población nacional del Censo 2022 tomada como 16.938.986; verificar').font = Font(italic=True, size=9)
-FILA_SHARE = fila
+celda(ws, fila, 1, 'Títulos TIC registrados en 2024 por IES de Los Ríos, todos los niveles (SENESCYT)')
+celda(ws, fila, 2, '=SENESCYT_TIC!F18', '#,##0')
+FILA_TTIC = fila
 fila += 1
 cab(ws, fila, ['', 'Oferta baja', 'Oferta base', 'Oferta alta'])
 fila += 1
 celda(ws, fila, 1, 'Graduados TIC por año que salen de IES de Los Ríos')
-celda(ws, fila, 2, 69, '#,##0', entrada=True)
-celda(ws, fila, 3, f'=ROUND(B{FILA_NAC}*0.025,0)', '#,##0', entrada=True)
-celda(ws, fila, 4, f'=ROUND(B{FILA_NAC}*B{FILA_SHARE},0)', '#,##0', entrada=True)
 FILA_GRAD = fila
-ws.cell(row=fila + 1, column=1, value='Baja: máximo identificado en las carreras TIC de la UTEQ en la cohorte 2018-2019 (45 a 69 graduados). Base: 2,5 % del total nacional. Alta: participación de la población de Los Ríos (5,3 %).').font = Font(italic=True, size=9)
+ws.cell(row=fila + 1, column=1, value='Baja: títulos TIC registrados en 2024. Base: matrícula TIC 2023 entre la duración media de la carrera, por la tasa de titulación. Alta: matrícula TIC 2023 entre la duración media, si todos se titularan.').font = Font(italic=True, size=9)
 fila += 2
 celda(ws, fila, 1, '% de esos graduados con competencias útiles para IoT')
 celda(ws, fila, 2, 0.02, '0.0%', entrada=True)
@@ -258,6 +285,9 @@ fila += 1
 celda(ws, fila, 1, 'Duración de la carrera en años')
 celda(ws, fila, 2, 4, '0', entrada=True)
 FILA_DUR = fila
+celda(ws, FILA_GRAD, 2, f'=B{FILA_TTIC}', '#,##0')
+celda(ws, FILA_GRAD, 3, f'=ROUND(B{FILA_MTIC}/B{FILA_DUR}*B{FILA_TIT},0)', '#,##0', entrada=True)
+celda(ws, FILA_GRAD, 4, f'=ROUND(B{FILA_MTIC}/B{FILA_DUR},0)', '#,##0', entrada=True)
 anchos(ws, [78, 20, 20, 20, 20, 20, 20])
 
 # ------------------------------------------------------------------ Demanda
@@ -423,6 +453,38 @@ for i, m in enumerate([0.25, 0.5, 1.0, 1.5, 2.0]):
 ws['A13'] = 'Lectura: la fila 1,00x y la columna 1,5 reproducen el escenario base. Compare con los graduados por año de la hoja Brecha.'
 ws['A13'].font = Font(italic=True, size=9)
 anchos(ws, [56, 14, 14, 14, 14])
+
+# ------------------------------------------------------------------ Muestra
+ws = wb.create_sheet('Muestra')
+titulo(ws, 'Marco muestral y asignación de la encuesta a empleadores',
+       'Marco: empresas formales de los grupos G1 a G9 del catastro RUC del SRI. Asignación proporcional por grupo con un mínimo por estrato.')
+celda(ws, 4, 1, 'Población N (empresas formales G1 a G9)')
+celda(ws, 4, 2, '=' + '+'.join(f'SRI_LosRios!D{FILAS_SRI[k]}' for k in claves), '#,##0')
+celda(ws, 5, 1, 'Nivel de confianza (z)')
+celda(ws, 5, 2, 1.96, '0.00', entrada=True)
+celda(ws, 6, 1, 'Error máximo (e)')
+celda(ws, 6, 2, 0.05, '0.0%', entrada=True)
+celda(ws, 7, 1, 'Proporción esperada (p)')
+celda(ws, 7, 2, 0.5, '0.00', entrada=True)
+celda(ws, 8, 1, 'Tamaño de muestra n', negrita=True)
+celda(ws, 8, 2, '=ROUNDUP(B4*B5^2*B7*(1-B7)/(B6^2*(B4-1)+B5^2*B7*(1-B7)),0)', '#,##0', negrita=True)
+celda(ws, 9, 1, 'Mínimo por estrato')
+celda(ws, 9, 2, 10, '#,##0', entrada=True)
+cab(ws, 11, ['Grupo (estrato)', 'Empresas formales Nh', 'Muestra proporcional', 'Muestra con mínimo'])
+r0 = 12
+for i, k in enumerate(claves):
+    r = r0 + i
+    celda(ws, r, 1, f'=SRI_LosRios!A{FILAS_SRI[k]}')
+    celda(ws, r, 2, f'=SRI_LosRios!D{FILAS_SRI[k]}', '#,##0')
+    celda(ws, r, 3, f'=$B$8*B{r}/$B$4', '#,##0.0')
+    celda(ws, r, 4, f'=MIN(B{r},MAX($B$9,ROUND(C{r},0)))', '#,##0')
+r1 = r0 + len(claves) - 1
+celda(ws, r1 + 1, 1, 'Total', negrita=True)
+celda(ws, r1 + 1, 2, f'=SUM(B{r0}:B{r1})', '#,##0', negrita=True)
+celda(ws, r1 + 1, 3, f'=SUM(C{r0}:C{r1})', '#,##0.0', negrita=True)
+celda(ws, r1 + 1, 4, f'=SUM(D{r0}:D{r1})', '#,##0', negrita=True)
+ws.cell(row=r1 + 3, column=1, value='Los estratos pequeños se encuestan casi completos (censo) por el mínimo; por eso el total con mínimo supera a n. Se recomienda además estratificar por cantón con las cifras de la hoja SRI_LosRios.').font = Font(italic=True, size=9)
+anchos(ws, [56, 22, 22, 22])
 
 wb.save(SALIDA)
 print('OK', SALIDA)

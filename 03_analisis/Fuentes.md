@@ -21,6 +21,22 @@
 | `01_normativa/UTEQ/Estatuto_UTEQ_2019.pdf` | https://www.uteq.edu.ec/assets/docs/reglm-norm/estatuto_2019.pdf |
 | `01_normativa/UTEQ/PEDI_UTEQ_2021-2025_actualizacion-2024-12.pdf` | https://uteq.edu.ec/assets/docs/planf-univ/pedi-2021-2025-actualizacion-diciembre-2024.pdf |
 
+## Consultadas para la revisión del 28-IX-2026 (borrador v0.2, eliminación de pendientes)
+
+| Documento | Uso principal | Origen |
+|---|---|---|
+| Reglamento de la Unidad de Integración Curricular (UTEQ, Resolución 44.ª sesión, 20-VII-2021) | §3.8 titulación (opciones, requisitos, nota de grado) | Copia OCR en scratchpad de la sesión; original en uteq.edu.ec/assets/docs/reglm-norm |
+| Reglamento de Semestralización y Créditos (UTEQ, Resolución 1.ª sesión extraordinaria, 12-III-2013) | §3.8 sistema de evaluación (cortes, supletorio, asistencia) | Ídem |
+| Plan de Investigación de la UTEQ (líneas y sublíneas aprobadas el 23-III-2018) | §3.4 líneas de investigación, tabla de grupos por facultad | Ídem |
+| Modelo genérico para la evaluación del entorno de aprendizaje de carreras de grado (CACES, 2023) y modelo específico de Administración de Empresas y Derecho (CACES, 2025, solo para la regla de aprobación del Art. 28) | §3.9 matriz de 31 indicadores y regla de aprobación (80 % por criterio) | https://www.caces.gob.ec (documentos públicos del modelo de evaluación de carreras) |
+| Resolución 169-SE-33-CACES-2020 (acreditación institucional de la UTEQ) | §3.9, nota sobre el uso del Anexo 1 de la Guía CES | Citada en el Plan de Investigación de la UTEQ |
+| Fichas públicas de las carreras de Software (RPC-SO-33-No.612-2017), Telemática (RPC-SO-20-No.290-2018), Sistemas de Información y Tecnologías de la Información (RPC-SO-09-No.172-2023) | §4.7 comparación con Telemática y resoluciones de aprobación | https://www.uteq.edu.ec/en/grado/carrera/software , /telematica , /sistemas-de-informacion , /tecnologias-de-la-informacion |
+| Microdatos de la ENEMDU anual 2025 (personas y vivienda-hogar), INEC | §4.5 marco laboral por rama de actividad y por nivel de instrucción, Los Ríos vs. nacional | https://www.ecuadorencifras.gob.ec/enemdu-anual/ |
+| Tableros públicos de la SENESCYT (Registro de matrícula UEP, Títulos nacionales) | §4.3 matrícula y títulos TIC de Los Ríos, Guayas, Bolívar y Santo Domingo | Tableros Power BI públicos en https://www.senescyt.gob.ec (sin descarga de base completa; ver límites) |
+| Acuerdo MINEDEC-MINEDEC-2025-00051-A (16-X-2025) | §3.2, nota sobre la reforma del Bachillerato Técnico | Ministerio de Educación |
+| Registro Administrativo Histórico 2009-2024 (Fin), Ministerio de Educación, datos abiertos | Verificado para §3.2: descargado y revisado (32 MB); da promovidos/no promovidos/abandono por institución y año, sin desagregar por nivel (Inicial/EGB/Bachillerato) ni por tipo de bachillerato o figura profesional. No sirve para estimar graduados de Bachillerato por tipo | https://educacion.gob.ec/wp-content/uploads/downloads/2026/04/2Registro-Administrativo-Historico_2009-2024-Fin.xlsx (con su diccionario de datos) |
+| Portal "Reportes Educativos" del Ministerio de Educación | Único portal identificado que en el pasado permitía cruces de graduados por figura profesional; no respondió (servidor caído) al consultarlo el 28-IX-2026 | http://reportes.educacion.gob.ec:8085/ |
+
 ## Consultadas pero no archivadas
 
 - Catastro RUC de Los Ríos (SRI, datos abiertos): https://descargas.sri.gob.ec/download/datosAbiertos/SRI_RUC_Los_Rios.zip. No se archiva porque contiene nombres de personas naturales; el repositorio guarda solo agregados.
