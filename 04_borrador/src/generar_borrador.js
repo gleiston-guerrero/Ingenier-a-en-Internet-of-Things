@@ -98,13 +98,13 @@ const C = [];
 // Portada
 C.push(new Paragraph({ children: [], spacing: { before: 1800 } }));
 C.push(new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: 'UNIVERSIDAD TÉCNICA ESTATAL DE QUEVEDO', font: FONT, size: 28, bold: true, color: COLOR })] }));
-C.push(new Paragraph({ alignment: AlignmentType.CENTER, spacing: { after: 600 }, children: [new TextRun({ text: 'Facultad de Ciencias de la Ingeniería', font: FONT, size: 22 })] }));
+C.push(new Paragraph({ alignment: AlignmentType.CENTER, spacing: { after: 600 }, children: [new TextRun({ text: 'Facultad de Ciencias de la Computación', font: FONT, size: 22 })] }));
 C.push(new Paragraph({ alignment: AlignmentType.CENTER, spacing: { after: 200 }, children: [new TextRun({ text: 'PROYECTO DE CREACIÓN DE CARRERA', font: FONT, size: 40, bold: true, color: COLOR })] }));
 C.push(new Paragraph({ alignment: AlignmentType.CENTER, spacing: { after: 600 }, children: [new TextRun({ text: 'Ingeniería en Internet de las Cosas', font: FONT, size: 36 })] }));
 C.push(new Paragraph({ alignment: AlignmentType.CENTER, children: [new TextRun({ text: 'Tercer nivel de grado · Modalidad presencial', font: FONT, size: 24 })] }));
 C.push(new Paragraph({ alignment: AlignmentType.CENTER, spacing: { after: 900 }, children: [new TextRun({ text: 'BORRADOR v0.2 · 26 de septiembre de 2026', font: FONT, size: 24, bold: true })] }));
 C.push(note('**Estado del documento.** Borrador de trabajo para discusión interna. No está aprobado por ningún órgano de la UTEQ ni presentado al CES. Todo dato resaltado en amarillo, como [[este ejemplo]], falta por completar o confirmar. Las cifras de demanda ocupacional y de recursos institucionales no se han levantado: no se inventaron y quedan marcadas como pendientes.'));
-C.push(note('**Base normativa.** Reglamento de Régimen Académico del CES (2022, reforma de 11-IV-2023), Guía Metodológica para la presentación de carreras (codificada en 2023) y Reglamento de Armonización de la Nomenclatura RPC-SE-05-No.014-2023. No se revisó la reforma 2024 del RRA ni el estatuto UTEQ posterior a 2019.'));
+C.push(note('**Base normativa.** Reglamento de Régimen Académico del CES (2022, reforma de 11-IV-2023, vigente sin reformas posteriores confirmadas), Guía Metodológica para la presentación de carreras (codificada en 2023) y Reglamento de Armonización de la Nomenclatura RPC-SE-05-No.014-2023, reformado por Resolución RPC-SO-28-No.420-2025 (16-VII-2025), cuyo contenido no se pudo revisar todavía (§8.1). También se actualizaron las citas al Estatuto UTEQ (reformado en 2023 y 2024), al Reglamento de Régimen Académico Interno de la UTEQ (2021) y al Reglamento de la Unidad de Integración Curricular (2024).'));
 
 // Contenido
 C.push(h1('Contenido'));
@@ -520,7 +520,7 @@ C.push(p('Un despliegue IoT depende de la conectividad. Según el INEC (ENEMDU, 
 C.push(p('Dos lecturas se derivan: la conectividad rural mejora, lo que amplía el mercado de soluciones IoT; y una brecha persiste, lo que exige formar profesionales capaces de diseñar con redes de bajo consumo y conectividad intermitente. [[Agregar cobertura móvil y de fibra por parroquia rural de Los Ríos desde los mapas de cobertura de la ARCOTEL y las metas del MINTEL]]'));
 
 C.push(h2('4.7 Oferta de la UTEQ y análisis de traslape'));
-C.push(p('Según el PEDI 2021-2025, la UTEQ tenía 29 carreras de grado aprobadas al cierre de 2020 y 9.653 estudiantes matriculados. Entre ellas, según las fichas públicas de cada carrera en el sitio de la UTEQ: Software, aprobada el 13 de septiembre de 2017 (RPC-SO-33-No.612-2017); Telemática, aprobada el 23 de mayo de 2018 (RPC-SO-20-No.290-2018); y Electricidad, también con acuerdo de 23 de mayo de 2018. La carrera más cercana a IoT es Telemática. Hay que demostrar en qué se diferencia.'));
+C.push(p('En 2022 la UTEQ reestructuró sus facultades; según el Plan Estratégico de Desarrollo Institucional 2026-2029, la Universidad tenía a 2025 35 carreras de grado vigentes en 9 facultades académicas y 1 de posgrado, con 12.082 estudiantes matriculados al cierre de 2024. Con esa reestructuración nació la **Facultad de Ciencias de la Computación (FCC)**, que agrupa hoy a Software, Telemática, Sistemas de Información y Tecnologías de la Información —y al grupo de investigación GITEL—, separada de la Facultad de Ciencias de la Ingeniería (FCI), que ahora agrupa a Electricidad, Arquitectura, Ingeniería Ambiental, Ingeniería Civil y Mecánica. Por su núcleo de software, redes y datos, esta carrera se adscribe a la FCC, no a la FCI. Entre las carreras de la FCC, según sus fichas públicas: Software, aprobada el 13 de septiembre de 2017 (RPC-SO-33-No.612-2017); y Telemática, aprobada el 23 de mayo de 2018 (RPC-SO-20-No.290-2018). La carrera más cercana a IoT es Telemática. Hay que demostrar en qué se diferencia.'));
 C.push(table(
   ['Aspecto', 'Telemática (vigente, 10 semestres)', 'Ingeniería en IoT (propuesta, 8 períodos)'],
   [
@@ -603,7 +603,7 @@ C.push(note('Consecuencia para el proyecto: la tesis agroindustrial de la carrer
 
 C.push(h2('4.10 Oferta de graduados TIC'));
 C.push(p('**Nacional.** Según la SENESCYT, recogida en la política del MINTEL, se graduaron 5.079 personas en carreras TIC en 2020 y 7.476 en 2021.'));
-C.push(p('**UTEQ.** El informe de rendición de cuentas 2024 reporta 1.620 graduados de grado en el año (669 en el segundo período 2023-2024 y 951 en el primero de 2024-2025), con una tasa de titulación del 60,96 % para la cohorte 2018-2019. Para las carreras TIC de la Facultad de Ciencias de la Ingeniería, esa cohorte tiene estos graduados:'));
+C.push(p('**UTEQ.** El informe de rendición de cuentas 2024 reporta 1.620 graduados de grado en el año (669 en el segundo período 2023-2024 y 951 en el primero de 2024-2025), con una tasa de titulación del 60,96 % para la cohorte 2018-2019. Para las carreras TIC, agrupadas en ese informe bajo la entonces Facultad de Ciencias de la Ingeniería (anterior a la reestructuración de facultades de 2022 que creó la actual Facultad de Ciencias de la Computación, ver §4.7), esa cohorte tiene estos graduados:'));
 C.push(table(
   ['Carrera (cohorte 2018-2019)', 'Graduados', 'Estudiantes de la cohorte', 'Tasa de titulación'],
   [
@@ -834,7 +834,8 @@ C.push(table(
     ['Anexo II vigente del RANT', 'Determina si el título "Ingeniero/a en Internet de las Cosas" ya existe. La copia consultada llega hasta el 15-III-2023 y solo trae el título de Técnico/a Superior en IoT; a esa fecha, en grado solo hay títulos de maestría relacionados (§5.5)'],
     ['Consulta al CES sobre el campo detallado', 'La clasificación en 0611 debe confirmarse con la Coordinación de Planificación Académica, por el peso de la electrónica en la malla (§5.3)'],
     ['Reforma 2024 del RRA', 'No se pudo descargar; verificar que no cambió los Arts. 15, 43 ni 96 a 99'],
-    ['Estatuto y normativa interna UTEQ vigentes', 'Se leyó la versión 2019; confirmar órganos, nombres y trámite interno de diseño curricular'],
+    ['Reforma 2025 del RANT (Resolución RPC-SO-28-No.420-2025, 16-VII-2025)', 'Se confirmó que existe, citada en una resolución posterior del CES, pero no se pudo acceder a su texto; podría afectar los Anexos I o II y, con ello, la clasificación por campo detallado del §5.3 o la denominación del título del §5.5'],
+    ['Nombres y atribuciones de otros órganos del Estatuto UTEQ vigente (2024)', 'Se verificaron el Consejo Universitario, el Consejo Académico y el Consejo Directivo de Facultad y la ruta de aprobación de carreras del §8.2 (Arts. 29, 33 y 39), que no cambiaron con la reforma de 2024; falta revisar el resto del articulado (por ejemplo, financiamiento, régimen disciplinario y bienestar universitario) por si afecta otras secciones'],
     ['Modelo del CACES por campo amplio TIC', 'Solo hay publicado un modelo genérico (2023) y modelos por campo para otras áreas (2025); cuando el CACES publique el de TIC, sus umbrales cuantitativos reemplazan al genérico (§3.9)'],
     ['Formato del Anexo III del RANT', 'La justificación epistemológica debe presentarse en ese formato'],
     ['Serie completa de matrícula y graduados TIC de la SENESCYT', 'Los tableros públicos no se pudieron descargar completos; se usaron los cortes de 2022 y 2024 (§4.3 y §4.10)'],
@@ -846,12 +847,12 @@ C.push(table(
   [3200, 5826],
 ));
 C.push(h2('8.2 Hoja de ruta'));
-C.push(p('Ruta interna de la UTEQ según el Estatuto 2019, seguida del trámite ante el CES (Arts. 96 a 101 del RRA):'));
+C.push(p('Ruta interna de la UTEQ según el Estatuto vigente (base de 2019, con reforma y codificación del 27 de octubre de 2023 y una segunda reforma del 6 de marzo de 2024; los artículos citados abajo se verificaron contra el texto reformado), seguida del trámite ante el CES (Arts. 96 a 101 del RRA):'));
 [
   'Equipo de diseño curricular: completar este borrador, el estudio de campo y la comparación con Telemática.',
-  'Consejo Directivo de la Facultad: propone el proyecto de diseño de carrera al Consejo Académico.',
-  'Consejo Académico: analiza y sugiere al Consejo Universitario que solicite la creación al CES.',
-  'Consejo Universitario: emite la resolución del órgano colegiado superior.',
+  'Consejo Directivo de la Facultad de Ciencias de la Computación: aprueba en primera instancia la propuesta de diseño de carrera y la pone a consideración del Consejo Académico (Art. 39 del Estatuto).',
+  'Consejo Académico: analiza y sugiere al Consejo Universitario que solicite al CES la creación de la carrera (Art. 33.2 del Estatuto).',
+  'Consejo Universitario: analiza, aprueba y emite la resolución del órgano colegiado superior (Art. 29 del Estatuto).',
   'Rectorado: carga el expediente en la plataforma PPCP del CES.',
   'CES: verificación de requisitos en 15 días, más 10 para subsanar; acuerdo de la Comisión en 7 días; resolución del Pleno en 5 días.',
   'Notificación, registro en el SNIESE y apertura de la oferta.',
@@ -864,7 +865,7 @@ C.push(h1('Anexo A. Fuentes'));
   'Consejo de Educación Superior. Guía Metodológica para la presentación de carreras y programas, ajustes curriculares sustantivos y no sustantivos (RPC-SE-14-No.038-2022, codificada en 2023).',
   'Consejo de Educación Superior. Reglamento de Armonización de la Nomenclatura de Títulos Profesionales y Grados Académicos (RPC-SE-05-No.014-2023).',
   'Ministerio de Telecomunicaciones y de la Sociedad de la Información (2025). Política Pública para la Transformación Digital del Ecuador 2025-2030. Datos de SENESCYT (2024) e INEC (2024) citados en ella.',
-  'Universidad Técnica Estatal de Quevedo. Estatuto (2019). Plan Estratégico de Desarrollo Institucional 2021-2025, actualización de diciembre de 2024.',
+  'Universidad Técnica Estatal de Quevedo. Estatuto (base de 2019, Resolución 5.ª sesión, 25-I-2019; reforma y codificación mediante Resolución 32.ª sesión, 27-X-2023; segunda reforma mediante Resolución 17.ª sesión, 6-III-2024). Plan Estratégico de Desarrollo Institucional 2021-2025 (actualización de diciembre de 2024) y 2026-2029.',
   'Universidad Técnica Estatal de Quevedo. Memorando UTEQ-VICACAD-2026-1787-M, de 02 de septiembre de 2026.',
   'UEES Online. Carrera de Internet de las Cosas. Consultada el 26-IX-2026.',
   'Consejo de Educación Superior. Anexo I 2023 y Anexo II 2023 (actualizado hasta el 15-III-2023) del RANT.',
